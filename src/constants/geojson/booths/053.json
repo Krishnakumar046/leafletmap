@@ -1,0 +1,4640 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06619266250514,
+                    12.498285351574527
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21877360758926,
+                    12.462323279677307
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0721328428627,
+                    12.520599624439765
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06556996944138,
+                    12.465559583984684
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12648567006684,
+                    12.584652974440505
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1941140856,
+                    12.551871463342557
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20765747642737,
+                    12.504837824776844
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11825223868823,
+                    12.575480271044007
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18731111044232,
+                    12.334315984228757
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24886751194259,
+                    12.589037815495859
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19217710045845,
+                    12.397167988704604
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10960394587426,
+                    12.559127612193496
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20978956735559,
+                    12.534874853983908
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07609891768324,
+                    12.479170284146493
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08480451920329,
+                    12.543322941448583
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15872772530444,
+                    12.550771438744974
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18902719977406,
+                    12.50168803685261
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1832787504131,
+                    12.341391067513145
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22109965180805,
+                    12.396953881177284
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20510111671604,
+                    12.58988149831828
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09582745979937,
+                    12.550408634964302
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26288042066149,
+                    12.577193121419574
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12113617659622,
+                    12.456313821789308
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12046139440915,
+                    12.51315461037799
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19800814293713,
+                    12.502281464724621
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1433519967497,
+                    12.458039827333376
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1826226067995,
+                    12.43416012237925
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21817780047529,
+                    12.57937967288713
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20901609546283,
+                    12.541676311661107
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21196158497902,
+                    12.426954940379382
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17257331258926,
+                    12.342857208065665
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24770124720445,
+                    12.52964055792993
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15435976391696,
+                    12.42247707434982
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10189650393218,
+                    12.455558207668249
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20284266853783,
+                    12.374931862947339
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14580806467166,
+                    12.38645309395838
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07223863901335,
+                    12.467032712741556
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09227457801856,
+                    12.482362698040138
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25432101853495,
+                    12.477703718589527
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21106584371647,
+                    12.486042538192354
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13213980178718,
+                    12.53222900982275
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24673889888753,
+                    12.486599945398684
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16372753781644,
+                    12.452059210171699
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21479092986515,
+                    12.549061727517616
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1983616476525,
+                    12.555698587362121
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0567406897442,
+                    12.492347628435775
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09967718635235,
+                    12.543051958902781
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08313175408404,
+                    12.526644601517917
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19703729354727,
+                    12.543993040065013
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15249603312262,
+                    12.512465267102993
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14074002427365,
+                    12.394523019473151
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13177392257593,
+                    12.411520121473073
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10041018054885,
+                    12.48831638860052
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19635635834213,
+                    12.5413074643967
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2052544068703,
+                    12.514813829670699
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19959096055626,
+                    12.409568634800252
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18636538892369,
+                    12.365944954121543
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14284888612391,
+                    12.399146907968074
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19896369151604,
+                    12.473068771480028
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09660820694941,
+                    12.540087273557054
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17673455666035,
+                    12.405279376818875
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1723931896778,
+                    12.518304083648676
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10296079171921,
+                    12.536446792118587
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09925341875777,
+                    12.457076423625772
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15308912391515,
+                    12.465498861208893
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18172065497436,
+                    12.507772055104283
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16741344705184,
+                    12.473876733789599
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06791313866965,
+                    12.466819894217188
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21040698468748,
+                    12.439823418831553
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19793316596005,
+                    12.5354271907193
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22852410761739,
+                    12.435448365217802
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1377136650048,
+                    12.46807212579171
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25708259702085,
+                    12.560260326320003
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15495954804717,
+                    12.570528579358903
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26326446979846,
+                    12.595508548187977
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22020404607073,
+                    12.522910366182728
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11944602999023,
+                    12.605531022583627
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15509343148256,
+                    12.560133569349881
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19461087570618,
+                    12.342307077976857
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19345538943816,
+                    12.43154605887409
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11974277850531,
+                    12.531534450720914
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23567315031423,
+                    12.431418564005492
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17097453598593,
+                    12.422710066389598
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18433443983388,
+                    12.405181255870929
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20387083766141,
+                    12.438622600828849
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24511321437615,
+                    12.530463751783117
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25064166445044,
+                    12.32174217763698
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20071433281355,
+                    12.364011682442282
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10233403278544,
+                    12.55677184148866
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1405677090747,
+                    12.437370476285825
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.27326987671513,
+                    12.558049553757638
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17009622365471,
+                    12.53985769867938
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10773782827167,
+                    12.524825475522068
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23745786667682,
+                    12.504367065144521
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22824773437162,
+                    12.42171824245191
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23877654950199,
+                    12.428641193557235
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13746521963725,
+                    12.459645940814807
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11733854002213,
+                    12.595561063768278
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1134812069926,
+                    12.52732737808494
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23039076895991,
+                    12.360469389841427
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21229048400403,
+                    12.347256680985986
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1518560960523,
+                    12.512303070215086
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05917895132455,
+                    12.484860033331163
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23108001744232,
+                    12.43910032086724
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13395082401068,
+                    12.492797405076937
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20708654536642,
+                    12.522006936416979
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.233782461611,
+                    12.469061110718409
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22322339881573,
+                    12.430059346799412
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19009676499756,
+                    12.435869827388673
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21301450379413,
+                    12.417691086876484
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26691807886743,
+                    12.609675124377187
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23695506396903,
+                    12.35067792928018
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24157235278962,
+                    12.362754642768143
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18784281913098,
+                    12.370895268616065
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12435069561484,
+                    12.445335559865981
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20282869952123,
+                    12.609796142706031
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2244993716109,
+                    12.400333624668354
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23541643626233,
+                    12.449286043031348
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18304999959379,
+                    12.459371937602807
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20876830199325,
+                    12.530031332571888
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13172878456834,
+                    12.401596129763071
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21105231149387,
+                    12.441309126637037
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23189163575495,
+                    12.54285357753828
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1786210201338,
+                    12.413136567149913
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20463252005653,
+                    12.453448623711504
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17723727605119,
+                    12.556386561969791
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12310179259886,
+                    12.488195822535335
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18671692563942,
+                    12.355746160762054
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15736020879783,
+                    12.463688274663872
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19741405741269,
+                    12.528011106736585
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11401745805101,
+                    12.565109864585873
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22690302555834,
+                    12.448851059132371
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26625517763922,
+                    12.57750491760258
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22258589210729,
+                    12.548633853826507
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18689081389775,
+                    12.561081624877081
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2510424806568,
+                    12.414141660605752
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20427205354386,
+                    12.547541732834398
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19914358336757,
+                    12.50053010783747
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06769606917987,
+                    12.474258883591837
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13392321284783,
+                    12.569638720819057
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12187515880933,
+                    12.52866544740487
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07238817195449,
+                    12.475830036169226
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21194251820297,
+                    12.506283643024924
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12286370356684,
+                    12.53296611687033
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20737315646983,
+                    12.59407960780144
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13546673535681,
+                    12.408319873211939
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09315500404598,
+                    12.517912725773984
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08394846392851,
+                    12.511631661448487
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15692072107919,
+                    12.422515167984029
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12317901564421,
+                    12.451837621528266
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07050462049094,
+                    12.469117344566657
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17131680486224,
+                    12.564867658960816
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23080636110619,
+                    12.377015800137816
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1259050601872,
+                    12.541525581084441
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21004244077284,
+                    12.565177232641268
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23353085333243,
+                    12.378669796540764
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2290216765874,
+                    12.552242095216943
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14616103098012,
+                    12.48745400433155
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18696753806445,
+                    12.386780705856873
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14687967054881,
+                    12.437455916922897
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25769094395308,
+                    12.551274016178153
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1296364012884,
+                    12.507082446549816
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22177909277191,
+                    12.549923165601587
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20502717238996,
+                    12.508573751644395
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21926567944469,
+                    12.412583571411798
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15547633166211,
+                    12.554690147578931
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21216408146454,
+                    12.498694815907799
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25591161348758,
+                    12.427808592726496
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20797854492791,
+                    12.560236122237878
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16351038970647,
+                    12.473606659570173
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22130649881277,
+                    12.523015175475733
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23934550339854,
+                    12.362709826284199
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.068895142094,
+                    12.466232218009726
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16941543780176,
+                    12.377024685667097
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20832482545799,
+                    12.588178461013669
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23419196047931,
+                    12.485454587299456
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12143470861429,
+                    12.495380667539052
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.28481065109217,
+                    12.576288499009719
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22356551771273,
+                    12.534520176769485
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11430249072622,
+                    12.52713362675827
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21174330850876,
+                    12.520498049433556
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17107148027611,
+                    12.562768302011621
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18668948510704,
+                    12.443587681863516
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1515498169716,
+                    12.39896915864688
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21319944892223,
+                    12.465575579291345
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15608854070777,
+                    12.483513012029057
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16440847913793,
+                    12.495920255685462
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12712572687825,
+                    12.537677197960864
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10093516305348,
+                    12.462394881605515
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19520168735936,
+                    12.426984334872612
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1836368026104,
+                    12.481733382001384
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26812514303914,
+                    12.593353641029731
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21789897124333,
+                    12.490247668907301
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23117124256555,
+                    12.552559664360876
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19572461148707,
+                    12.352615925179306
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16588044341091,
+                    12.38819007107266
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2203480137096,
+                    12.417117425596894
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12022883049545,
+                    12.526698805556654
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08191266081684,
+                    12.480407736104029
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23400337949583,
+                    12.349403725781917
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18031545184736,
+                    12.360873829769282
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.28006710683525,
+                    12.603705100833757
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21552101992653,
+                    12.365943795562833
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13655200902147,
+                    12.439309604748265
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18167536539882,
+                    12.397669598380212
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16453407860358,
+                    12.567764940180282
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12976615357928,
+                    12.591101097039564
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25081439021419,
+                    12.444368779405096
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25201580581792,
+                    12.588857130310997
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17134960065663,
+                    12.383290812831977
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25391938372195,
+                    12.422654827690126
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14753250057211,
+                    12.56430744190958
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18046472648979,
+                    12.339494951794448
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22104738889065,
+                    12.466109382761097
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25795587408268,
+                    12.571399849702647
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24198365576048,
+                    12.513953080991108
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16206392581867,
+                    12.568335717102178
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08754596962736,
+                    12.54932944299919
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09329422799274,
+                    12.447905618065656
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24887286479218,
+                    12.540891566208957
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26174143091836,
+                    12.599906665141011
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20606804345017,
+                    12.529911213661945
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24071288679193,
+                    12.351430048693311
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1955892378925,
+                    12.476509707538574
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19806056133578,
+                    12.45481400014431
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24208948066513,
+                    12.329008462241745
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23437086780868,
+                    12.4304638888696
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16785730702509,
+                    12.40177911407057
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12513613995996,
+                    12.517040980411684
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18736407793554,
+                    12.517361651441023
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06850658478375,
+                    12.520558620214956
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2304262919696,
+                    12.482950677009997
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23067154103732,
+                    12.538614130399779
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20637551418048,
+                    12.548189892787677
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19421670858426,
+                    12.53256472217976
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23275214244013,
+                    12.539792180767845
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19138683619092,
+                    12.503006429612102
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16842813431515,
+                    12.434733907515406
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14976663367025,
+                    12.55942334044015
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22746749152219,
+                    12.571256188658639
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25142498723724,
+                    12.568849282043335
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07999743651726,
+                    12.45215406263462
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10202117893417,
+                    12.562380457641739
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17048933488148,
+                    12.519456335299939
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1920746651302,
+                    12.35535299777602
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18408260495303,
+                    12.533628936966615
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19150660759813,
+                    12.523119141566571
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22887178388385,
+                    12.591459749488171
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.223887000707,
+                    12.588054924564226
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12626379674474,
+                    12.439284946820733
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24083884157395,
+                    12.534230952754687
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20749127077816,
+                    12.41474298973347
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2423549891819,
+                    12.48371385242867
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20226103650994,
+                    12.446250102448518
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19338395478161,
+                    12.559274832603876
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1897509684106,
+                    12.486857686725767
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06243243923808,
+                    12.513628583839695
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13650079409682,
+                    12.476692829259799
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22187249897124,
+                    12.463374716426483
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20110400185877,
+                    12.395694754636203
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18681183430685,
+                    12.563488979198116
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26557415373183,
+                    12.578838890403071
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1929818440816,
+                    12.34316682727508
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21148957745197,
+                    12.478204120419464
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22396529776758,
+                    12.568298145573518
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20700644031483,
+                    12.552176081462148
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.194077966444,
+                    12.505030876816303
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22353814762118,
+                    12.492460083878637
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1330914891275,
+                    12.411492426253277
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21443902619988,
+                    12.414287775944466
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17443037631497,
+                    12.388519521635816
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1748580694033,
+                    12.468935258454575
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11677401751474,
+                    12.538182359783919
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06996736686538,
+                    12.495297452415054
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18849596592943,
+                    12.362906322056377
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06797230147116,
+                    12.468861397767396
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18321859906396,
+                    12.42945803260397
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1496024709234,
+                    12.377759635522283
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1783048364184,
+                    12.364839169675228
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21047662229499,
+                    12.48797147764124
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20247924592503,
+                    12.413360806178941
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19551390201677,
+                    12.429144964123289
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17821053704232,
+                    12.513377541267177
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17297357624335,
+                    12.348091785848288
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25041370365521,
+                    12.343786906540949
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21424537611237,
+                    12.47829438595226
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13527552765491,
+                    12.404969723963466
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24205046664328,
+                    12.455287018303245
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06171368615817,
+                    12.500278525627168
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23289604397233,
+                    12.369980217037464
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19656811350187,
+                    12.353998023695802
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19524259087554,
+                    12.354395969316023
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22476126556887,
+                    12.507275532941087
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10484367474223,
+                    12.580642598592382
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25595821957667,
+                    12.473921405245914
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1324348124343,
+                    12.593859311927066
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11545891247052,
+                    12.576422083540868
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14029876240508,
+                    12.493074948840073
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16506306189679,
+                    12.518755633505197
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11808671762574,
+                    12.500263833021284
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07387339448942,
+                    12.52802206274261
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16488701064932,
+                    12.458517474752785
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09816565119267,
+                    12.563361470065116
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 303
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19409498863148,
+                    12.394626171281253
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13710835388662,
+                    12.468484290300605
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0717567999027,
+                    12.490473845933028
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 306
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20057732271415,
+                    12.419902386549932
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1443767992264,
+                    12.415856076498986
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06619266250514,
+                    12.498285351574527
+                ]
+            },
+            "properties": {
+                "AC_NO": "053",
+                "AC_NAME": "Krishnagiri",
+                "booth_no": 0
+            }
+        }
+    ]
+}

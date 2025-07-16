@@ -1,0 +1,4535 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6234828814721,
+                    12.024039397745067
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37694813709622,
+                    11.841701966816528
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53031052500583,
+                    11.810984023056891
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62581967564304,
+                    11.90273420446119
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55352363689376,
+                    11.940412272969331
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.71435669939312,
+                    12.063287499790789
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48319981265654,
+                    11.973801587188278
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48201887494308,
+                    12.066300121507869
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51142337530113,
+                    12.093089149484939
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49647487652013,
+                    11.884398047444332
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65989778356771,
+                    12.1073072659251
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.27918802560339,
+                    12.246665792182734
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51541172888439,
+                    11.914008075191214
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59900353098631,
+                    12.122673891984627
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.68958077522356,
+                    11.950972352554606
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6047244817337,
+                    11.927821785585092
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4411874568629,
+                    11.904260233963821
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.33092392725841,
+                    12.253283008651028
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54979645083948,
+                    12.083058234742186
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.29932707902366,
+                    12.215358293660735
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.31066816465722,
+                    12.224824928729559
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60668758955347,
+                    12.153357154881595
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.69689503108746,
+                    12.007800129449612
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5271427613209,
+                    11.81983286750105
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58073081744539,
+                    11.923705943091882
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4350650634213,
+                    11.905159426531423
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45828688413292,
+                    12.10533690700146
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44558568901518,
+                    11.90460527302139
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47484529612503,
+                    12.046194270705364
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.28715952779102,
+                    12.20193722662997
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5733159488933,
+                    11.890874717795079
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45312367407982,
+                    11.910019267842582
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62311318351554,
+                    12.133624496995083
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56234818294705,
+                    11.88436430853681
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52577718292049,
+                    12.055474797134137
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.69796605134435,
+                    12.110889477295999
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64720330710705,
+                    11.933180642780197
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42003472627528,
+                    12.151009636994422
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64367894569436,
+                    11.964368609078665
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6749528529344,
+                    11.954230692983542
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.27969665643485,
+                    12.172483071835904
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65275901413246,
+                    12.044404943167129
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.40144213127418,
+                    12.140372528953309
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56159693520286,
+                    11.911024592798984
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53133338232144,
+                    11.939057993302391
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60835224496107,
+                    11.956925495130635
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54843317542516,
+                    12.017938993194411
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57432452964628,
+                    11.89214734765555
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57323797367717,
+                    12.181425543981959
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67126862496073,
+                    11.976795039473032
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57349798277583,
+                    11.989827462381543
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62951334853942,
+                    12.126709648997403
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54042008841357,
+                    11.917617013761259
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59434673616622,
+                    11.918147650349416
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6001512861371,
+                    12.147812489752026
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57036897489495,
+                    11.885266941282463
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63188520388411,
+                    11.963362265726277
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62401016687183,
+                    12.02355841411296
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61884536132199,
+                    12.025601518530802
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32309817795579,
+                    12.193799211387427
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54334241141778,
+                    11.853207443619686
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60652867045324,
+                    11.871218274259174
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32226465750874,
+                    11.786886665634142
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5448459491018,
+                    12.014109913005985
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46984223061777,
+                    12.046720027581479
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3751266424529,
+                    12.08934807087747
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54755215547017,
+                    12.137617431313677
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56493408117603,
+                    12.13086768042565
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.33934191986526,
+                    12.216564020680023
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44246216309492,
+                    11.878824201964349
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57453454727904,
+                    12.17534522232777
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42012043318965,
+                    12.064831863776933
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.66377808981778,
+                    11.961367948612038
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55853521455106,
+                    12.143671588255746
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52192153466477,
+                    11.85916723325995
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37396980646517,
+                    12.21121444739327
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50007927496371,
+                    12.010449922890924
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32898352306458,
+                    12.121914965354726
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51163817477094,
+                    12.159943670413972
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54619012868872,
+                    12.052076285518032
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.39508591915256,
+                    12.071679562732816
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57866960380268,
+                    12.037699499272438
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58945568939566,
+                    11.94189876667041
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61961572723303,
+                    12.163946576170106
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37704357581279,
+                    12.136378253384331
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.38414725175474,
+                    12.130193138448508
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54794834600538,
+                    12.17993223293867
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.28514991218312,
+                    12.180260213700148
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.36806289944688,
+                    12.116603242706063
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.38921623311744,
+                    11.853809034778257
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62056859935845,
+                    12.123989442904909
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67557285779655,
+                    12.047655331871892
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5237239491647,
+                    11.893140777358333
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.66768635173167,
+                    12.052350728142153
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.38307308651278,
+                    12.187969227760647
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57574315248303,
+                    11.847287966388276
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6861446156553,
+                    12.068823724104343
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65753061647318,
+                    12.047903035340285
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56181326377882,
+                    12.162849757066152
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.40511010674217,
+                    12.086986681318608
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49345469136259,
+                    12.099257799598586
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5303977349447,
+                    12.128016901925523
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.29043443285936,
+                    12.189070372714488
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45930986163764,
+                    12.075755689623852
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65270869379003,
+                    11.92377026458006
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54699471812822,
+                    12.066775915915944
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45928313267173,
+                    11.979990155563804
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43246048522649,
+                    11.989015361799064
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4708956645645,
+                    12.05424631886767
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.66533339973677,
+                    12.006252922277792
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4845393796979,
+                    12.124391810075055
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4917782938775,
+                    11.863840972204281
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.38747161002195,
+                    12.063712136797795
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67003629404368,
+                    12.098277572346971
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47859402131418,
+                    11.859547908962584
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63333694289169,
+                    12.086307314228662
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52715055269644,
+                    12.015238629674428
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52464993038326,
+                    12.15961016523349
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59479201413325,
+                    11.849384184654607
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50158107947688,
+                    12.079687831532091
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51418137470723,
+                    11.87403028534587
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41279406007581,
+                    12.14518350309662
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52883318122878,
+                    11.94995274555303
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62799035993042,
+                    11.933667075152293
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48757576348089,
+                    11.929724875612026
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48137788205952,
+                    11.976683837773937
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60854783641958,
+                    12.139145192972862
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4209481686896,
+                    12.143585263105512
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.28400028869297,
+                    12.2305825730265
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2718006987378,
+                    12.224573922921538
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58827922985715,
+                    11.830727503620398
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45953669137121,
+                    11.908612558388125
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.71829920054404,
+                    12.115371507233426
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46643838305613,
+                    12.02906500068773
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46093823640294,
+                    12.05753276262022
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.70422873585566,
+                    11.946654509508623
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65707351980892,
+                    12.053243984756424
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5840659858689,
+                    11.925904042880674
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47331480480749,
+                    11.887454248411887
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4284930776463,
+                    12.137291204997066
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37295668853055,
+                    12.221104271621211
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67825561162537,
+                    12.05120078023608
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32259894569391,
+                    12.136705097921167
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56746752987961,
+                    11.939545046204739
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47637681702942,
+                    11.831129203361822
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52834923532448,
+                    12.123759374410294
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46319561546389,
+                    12.007955259150162
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6658567899284,
+                    12.024752557345264
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.69598613188113,
+                    12.036793659003784
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48817693466955,
+                    11.893208444397942
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56693488367482,
+                    12.11418076794456
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37037831747335,
+                    11.850918529389922
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53415525265923,
+                    12.041754471094919
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.33946643885547,
+                    12.13207176645824
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48198970818345,
+                    11.954969567416729
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59058523617482,
+                    11.826475687482233
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.70922579055593,
+                    12.061645027645021
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49747096684057,
+                    11.940770913075024
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43437643411055,
+                    12.075670259279013
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49973649168702,
+                    11.927758031050795
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58799488966322,
+                    12.05409724331014
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53724648527093,
+                    11.89570001188505
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6645590653569,
+                    12.032386789937727
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52343942425384,
+                    12.083368160785932
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45155054877615,
+                    12.14381826777932
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48641218955089,
+                    11.852249966800063
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47506696786947,
+                    11.942503229852457
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42482721003333,
+                    12.08637526481168
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42194667975917,
+                    12.092610264674088
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62466843349544,
+                    12.151573128745985
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44229847514721,
+                    12.146738652330587
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55940505608332,
+                    11.829541024690299
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53476671869882,
+                    12.105710095482147
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50504395052427,
+                    12.046342818846776
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60070771331353,
+                    11.83697011705639
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63086605329526,
+                    11.960179645534282
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47483973926789,
+                    12.083176885379334
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56538905650858,
+                    11.967900838590912
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41455533837862,
+                    12.093717436609413
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62672171833002,
+                    12.158694590115655
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47590807434656,
+                    11.913843620843075
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53286731888676,
+                    11.945730011052971
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5487112163339,
+                    12.139986237966532
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52327252361533,
+                    11.85151987131937
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44921800794508,
+                    12.026912646914939
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.66811142909313,
+                    12.014893164419956
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61635994515909,
+                    12.178383871710679
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.66106844501432,
+                    11.989171907081628
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57605445655265,
+                    11.90536645841517
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.40538483787103,
+                    12.151411345634978
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60188397411527,
+                    12.091346707250972
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46631262436696,
+                    12.140340542536087
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.40272459173781,
+                    12.161692909149973
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45309517241232,
+                    12.012261755378859
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5983442408039,
+                    11.9049410580699
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55561441894358,
+                    12.156708613972626
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61614813161708,
+                    11.978748884948383
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42287322468599,
+                    12.16994865435731
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.34507512791014,
+                    11.797781209115746
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.35036816088325,
+                    12.21887503596746
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6163962668881,
+                    12.107623528080424
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67942359267592,
+                    11.915556422357374
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53508623960178,
+                    11.828709869401614
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62562888697701,
+                    11.892501569974335
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46145763714928,
+                    11.929326590308097
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45824747907635,
+                    12.101636182719036
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60075280225644,
+                    12.0252223133307
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47095049862197,
+                    11.891930200725021
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5350728551758,
+                    12.153129239945473
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60162326498293,
+                    11.974169093102217
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58285214913217,
+                    11.860388556663134
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.28555491418004,
+                    12.239340408132309
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5859460585532,
+                    12.052169619205516
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4308901007868,
+                    11.906490665742165
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6127270451839,
+                    12.035764291972903
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6979864760291,
+                    11.898767563652868
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67481636920057,
+                    12.054134292698707
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59760855762526,
+                    12.051207620178607
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58447985121835,
+                    12.123834012665808
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3690354628075,
+                    12.156008827425
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26588461636052,
+                    12.234382042591248
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6264183584153,
+                    12.056899316111469
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67134268467494,
+                    12.043727230746741
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32749631645896,
+                    12.128037827802594
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46828926697592,
+                    12.111972414834463
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47217673933558,
+                    11.907233601542588
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.67973207410452,
+                    11.942112565476977
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49053632930962,
+                    12.07625478892577
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.38419662427204,
+                    12.176602796588329
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57038792778509,
+                    12.030898249227057
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41485509864475,
+                    12.088490808457532
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.35980037230235,
+                    11.860424164792152
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3477868185404,
+                    12.129765017733659
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54792434089987,
+                    12.004201382499138
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.38796739385415,
+                    12.062532580620488
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47076255597916,
+                    12.112323162962676
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.600906986617,
+                    11.8450472823091
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.71376691114982,
+                    12.118846412364382
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51866098761268,
+                    11.867049198237439
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37405400529835,
+                    12.093413016133628
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.27379011133344,
+                    12.170234803090278
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50683961519852,
+                    11.914624038461188
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52188030110777,
+                    11.844668560764834
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53440878435765,
+                    11.818184724860112
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63331169185119,
+                    12.138087633909262
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.69853782110506,
+                    11.915433526870618
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52170945273916,
+                    11.873983579379793
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56129930529941,
+                    12.111205916179133
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63227122741021,
+                    11.934643856246984
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.36242146157976,
+                    12.148145034728335
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47876339382893,
+                    11.968150262476502
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59978028670037,
+                    12.083479000698354
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46706276473171,
+                    12.01971803878079
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58629738983956,
+                    12.137911665974581
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55196880890705,
+                    11.852695687913638
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42855976892284,
+                    12.188900427197542
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6329998983984,
+                    12.100486884290861
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63602818651631,
+                    12.154974220206835
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44481841520577,
+                    12.049302014309726
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.39380030597562,
+                    12.214340188475264
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54223415825275,
+                    11.905994710512259
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61774126341356,
+                    12.119713722236842
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55463751372307,
+                    11.993455805772182
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61875244000687,
+                    11.868139790244756
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47203881692845,
+                    12.11050729437431
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.33415493396794,
+                    12.261763710141278
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49459494701077,
+                    12.101861763280386
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56603307070971,
+                    11.922796399304303
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55977905792076,
+                    11.886963948770424
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.33751607700691,
+                    11.803659958364541
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6179663682982,
+                    12.005153484045065
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49004527567227,
+                    11.937367929101184
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60681809036659,
+                    11.892747955939077
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4455864213331,
+                    12.081136263826032
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.41470694774989,
+                    12.186480741867008
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57509301580049,
+                    12.003053009935089
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54882519543362,
+                    11.869025539970908
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46383805502276,
+                    12.168303729877422
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.663197886875,
+                    12.00446234249782
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50351184189915,
+                    12.114718424901252
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53193657115294,
+                    11.875333588313682
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.31601701268487,
+                    12.18001289466269
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.34966036800914,
+                    11.794266184764773
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.31120460311062,
+                    12.14094457692584
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.35353711595243,
+                    12.144593373075605
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5842481600694,
+                    12.017499321898242
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2725308954997,
+                    12.24234859750682
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4617143687773,
+                    11.831818604805036
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.3280944127173,
+                    12.119150919855956
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37140218652448,
+                    12.20547052619858
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.35691113707777,
+                    12.147717888588817
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.66901658403685,
+                    12.040938708949
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5265792606756,
+                    12.103807960359216
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59719552972591,
+                    12.09379140614168
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57136808098048,
+                    12.083855936495919
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57755247321587,
+                    12.101862781600104
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59810742375234,
+                    12.106452271626413
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53091620170206,
+                    12.10194259865556
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.7005966105486,
+                    12.107241507780827
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62348944782511,
+                    11.956291236851397
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49981319718222,
+                    11.947526624815467
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6234828814721,
+                    12.024039397745067
+                ]
+            },
+            "properties": {
+                "AC_NO": "061",
+                "AC_NAME": "Harur (SC)",
+                "booth_no": 0
+            }
+        }
+    ]
+}

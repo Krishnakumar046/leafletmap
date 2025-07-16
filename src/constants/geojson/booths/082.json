@@ -1,0 +1,4280 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61647640305117,
+                    11.540990823494155
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48595188916515,
+                    11.637063811972592
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56538828434498,
+                    11.719976006152278
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51246505288677,
+                    11.614835944099301
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61922740488826,
+                    11.68204438047727
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60624502924672,
+                    11.524647390869504
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60391568986152,
+                    11.59632772485077
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58233399096545,
+                    11.724504391318622
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63740214874942,
+                    11.647285311327344
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64129138002436,
+                    11.657931349441107
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5915375513998,
+                    11.538156669936331
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57141577175364,
+                    11.718751510643004
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55321148798805,
+                    11.512723436627526
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54869473022737,
+                    11.492340449128333
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49319275548486,
+                    11.523645984610273
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50867108908157,
+                    11.68043475641785
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60973591603361,
+                    11.68377631402364
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53367503872975,
+                    11.515546956662574
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6394435897199,
+                    11.621800566283175
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45196580287566,
+                    11.575362708942905
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48429027248073,
+                    11.741153649897507
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51717758244976,
+                    11.691023596643946
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43833156045547,
+                    11.693901977990597
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6282522841241,
+                    11.632609156678651
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47192193848824,
+                    11.613421107477556
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4253530384431,
+                    11.723904689951151
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4701351578953,
+                    11.670345998215177
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51701833111079,
+                    11.560772010700157
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43407868060675,
+                    11.636004390970987
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46990007379887,
+                    11.597222708369335
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58616157669604,
+                    11.68890180466764
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44946355227893,
+                    11.74165063958515
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47527278066721,
+                    11.744034861628743
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47513056278842,
+                    11.58668717401153
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60132955871657,
+                    11.720037724039317
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63127506197772,
+                    11.52583287081858
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5620584199711,
+                    11.503463149988988
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47658920024955,
+                    11.521912405516902
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45093882952364,
+                    11.619594478047672
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59302687748189,
+                    11.634474011862094
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51855847341878,
+                    11.624199687038939
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64377576565334,
+                    11.558261562845637
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43824383329364,
+                    11.627761980590662
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62355853850016,
+                    11.655862957706587
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61733983787067,
+                    11.596134933678432
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59702710396425,
+                    11.618141059335569
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5428892841702,
+                    11.66132231344308
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48742403670892,
+                    11.61245060909363
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50176749466574,
+                    11.541428520847473
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5049756630581,
+                    11.629088375583988
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44132305600023,
+                    11.626166225955474
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53110502464855,
+                    11.671369600114847
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56190904171017,
+                    11.555798524576986
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59159332777523,
+                    11.65408480915407
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59618218792399,
+                    11.599114043144786
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57097854972363,
+                    11.504380167767735
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63461057828431,
+                    11.612021530089033
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59106760012146,
+                    11.703296501305761
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61197476818592,
+                    11.636802376608925
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50291336398482,
+                    11.508024036563752
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57763015476023,
+                    11.49438012856625
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52034256727417,
+                    11.492733394532728
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53741735721965,
+                    11.53635960211455
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48373552201785,
+                    11.712522338949437
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53511448928377,
+                    11.525321591350705
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56696874941443,
+                    11.651828620997735
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.516509016378,
+                    11.680724672799975
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59920289123517,
+                    11.624554705956365
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43980500931937,
+                    11.704962689070783
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63867401773457,
+                    11.710278376160622
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58454922695209,
+                    11.691574983627403
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54015452831823,
+                    11.562363007054055
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58533218840601,
+                    11.702345923982715
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5271403900703,
+                    11.688933191114389
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44293366647292,
+                    11.609004455783296
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55720708075282,
+                    11.590113065675597
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4749013622684,
+                    11.578122176220608
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50765433335472,
+                    11.559894525312682
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5716153300693,
+                    11.686065770705177
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55613846480884,
+                    11.619566606534647
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55673919620588,
+                    11.660458263077754
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57494774903704,
+                    11.49387906650533
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60232270569564,
+                    11.599676987204672
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48965073464589,
+                    11.543513055497803
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59677003576394,
+                    11.593440827226273
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.525869311151,
+                    11.55287891823794
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44348690053349,
+                    11.643916440392614
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54357946835525,
+                    11.513863642325251
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61522353303049,
+                    11.69929161744447
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44766088502402,
+                    11.731703116323295
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6125661858255,
+                    11.706225512334981
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62660014849585,
+                    11.610861613836757
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50085298214958,
+                    11.568913832015024
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61665590997848,
+                    11.744706845136712
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43964007509005,
+                    11.63865748670239
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51248829922153,
+                    11.624967528645486
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43903072405749,
+                    11.713067197406218
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46639840249293,
+                    11.68426909676723
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61363255935731,
+                    11.686767382724936
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61089003819123,
+                    11.718978367094529
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62180559660383,
+                    11.657117758531374
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47719809631812,
+                    11.720831740341723
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59061769571792,
+                    11.528297249663472
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62359894682382,
+                    11.617893915052234
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5549557075604,
+                    11.56612509866003
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62699547437322,
+                    11.760654528454808
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49846640815333,
+                    11.742281189426924
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57591470304708,
+                    11.700056080358628
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55906640504944,
+                    11.528454631637608
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.64840835297028,
+                    11.599791395137537
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46804940386357,
+                    11.75277866416783
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48374273012384,
+                    11.661006685464104
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46040368724806,
+                    11.598636023718257
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62263428977921,
+                    11.576685587974538
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51577801638355,
+                    11.749742040394962
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48213487942226,
+                    11.757543442219793
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47266734809084,
+                    11.665975307949871
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44944220653765,
+                    11.672614029372074
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58028565426312,
+                    11.609752109090163
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4931072079226,
+                    11.631386068473672
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60912737096946,
+                    11.533289781484246
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46176061269044,
+                    11.603513517936362
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52076246727128,
+                    11.611033611235166
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52587328638143,
+                    11.557649995893446
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50814663342626,
+                    11.513971382849398
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52236315149572,
+                    11.627713022146866
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55872927895996,
+                    11.5586159330956
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42751599695171,
+                    11.61590714367016
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44660470788972,
+                    11.600862857174386
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47443002806806,
+                    11.52901338191307
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53827850464452,
+                    11.528987985945827
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6082830040572,
+                    11.575305679263778
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62314172753692,
+                    11.726771289925468
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51830093793194,
+                    11.49992601392097
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60812265709926,
+                    11.755000616967683
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47372555058769,
+                    11.740944768346992
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43061284609516,
+                    11.6798460079791
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59928920152875,
+                    11.622470195207296
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6253993602002,
+                    11.704431799697183
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46020146287538,
+                    11.56632663914893
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53369809139427,
+                    11.604392886593294
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43046191745961,
+                    11.720522222509908
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5714101203537,
+                    11.690016885412488
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47964357467596,
+                    11.630114713235626
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62719484986934,
+                    11.517938875367955
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59109225989532,
+                    11.626053292918309
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54664407915487,
+                    11.633238885754409
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.526371518121,
+                    11.574743358005058
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60412698796884,
+                    11.535831550990327
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59530079600322,
+                    11.6547806813552
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57005458886603,
+                    11.483395836712097
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52427444334938,
+                    11.517170536186013
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44117648302155,
+                    11.696715141809658
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59242840964758,
+                    11.664547189907461
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48594499629628,
+                    11.756816695146938
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61532693621021,
+                    11.608848192499446
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4794410708853,
+                    11.653479147015078
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53001687692269,
+                    11.491616352143843
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5396681362221,
+                    11.603545159050272
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50984003417202,
+                    11.48240151217989
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5926278884822,
+                    11.6756936776296
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49992931647614,
+                    11.70849198425449
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61078305246998,
+                    11.744580081924434
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6306383451689,
+                    11.564638582519557
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5754567770505,
+                    11.680630401569946
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59042707613972,
+                    11.545619965206543
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.634145194941,
+                    11.56351456668539
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57696455691831,
+                    11.69129145924712
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5538977524253,
+                    11.661387766840702
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45444988509944,
+                    11.566239809430808
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47468789642116,
+                    11.572594322276965
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57893152935446,
+                    11.627427383496522
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56769482934918,
+                    11.685573012499058
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5582709925104,
+                    11.542629095986344
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46431442832876,
+                    11.580326933827171
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65907983537544,
+                    11.65510048631638
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62889411181669,
+                    11.739479341096468
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51909341370497,
+                    11.707875686530084
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63109717700513,
+                    11.612045088578396
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51801012475502,
+                    11.533013764071148
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58595517344695,
+                    11.688068954271502
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52920794036154,
+                    11.511476482474823
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59753412788174,
+                    11.59729877553983
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63644669733463,
+                    11.56089468703277
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48960188794213,
+                    11.749859102161315
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.501213362801,
+                    11.534801605966372
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49037428900182,
+                    11.516888123856532
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45530132451474,
+                    11.646220397160159
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45825565461885,
+                    11.710798742992079
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.42819980624424,
+                    11.624307860109301
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51963416118322,
+                    11.576492081865444
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5132526746745,
+                    11.617330136792035
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55828865479978,
+                    11.655258369265146
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49652494004499,
+                    11.524591275987554
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48364213469738,
+                    11.547591798067385
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53796668088174,
+                    11.703849010372176
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51374729448543,
+                    11.528004709188332
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62685451693102,
+                    11.545903071054578
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49581900895022,
+                    11.50471063470623
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52021166333128,
+                    11.614348172291999
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58630360985947,
+                    11.575457244055903
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50106163750611,
+                    11.737948031826157
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48268132925713,
+                    11.716760880980305
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5580784722796,
+                    11.697730051077537
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51686845715527,
+                    11.765009592794659
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62513591947167,
+                    11.661633339510145
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53695437248943,
+                    11.602348869734406
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47078751078584,
+                    11.554060986157436
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52917024802986,
+                    11.680180171331811
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63001682575528,
+                    11.672328815754176
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6171235801948,
+                    11.740448778218024
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51902934240627,
+                    11.549499701918567
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48636517552691,
+                    11.697249321552743
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5413319268075,
+                    11.502293715210705
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55094893845758,
+                    11.627388812407753
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46580807906214,
+                    11.574737186319354
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44955897274514,
+                    11.65436650740903
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5674044197993,
+                    11.568437856856024
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55963535741276,
+                    11.640380414168192
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60766267063212,
+                    11.744092256247786
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52850658938144,
+                    11.701780952755222
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45926605551482,
+                    11.688733625893828
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.6461921401124,
+                    11.642801438781929
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63583759671985,
+                    11.726445258743693
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5869504842127,
+                    11.626465995348543
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57606308650865,
+                    11.663829240463892
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63253280837274,
+                    11.743724748558046
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50440602617023,
+                    11.634119594049707
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65012660702253,
+                    11.690925550244648
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49717560964481,
+                    11.638479681876046
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59015187125111,
+                    11.663079981100426
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63070590110044,
+                    11.688003563306017
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52395765846138,
+                    11.590573315562715
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50697843945392,
+                    11.519642962155284
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50182289953504,
+                    11.586487347578878
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.56470941138785,
+                    11.658920694219379
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60047167153496,
+                    11.663985570553193
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5305189939314,
+                    11.566692397065099
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62682747632438,
+                    11.649080068954131
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.57331607929257,
+                    11.624952088863147
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55812255127927,
+                    11.697663931335656
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50541433349733,
+                    11.678638176357124
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62355685888393,
+                    11.556972592750387
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4940484688178,
+                    11.673141800766633
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.44972337600203,
+                    11.730134295556967
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.52422826187147,
+                    11.47465414804972
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48276373689228,
+                    11.72971255142807
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61404560631146,
+                    11.628489179138425
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51638395697843,
+                    11.540537479862804
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60974307601633,
+                    11.735630884931538
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51589349253514,
+                    11.618798863754513
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.5854924178217,
+                    11.524206408264178
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49015851822861,
+                    11.563496429465692
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54664178144378,
+                    11.612477293384117
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4701610600422,
+                    11.576854936592785
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53987935303184,
+                    11.565939310102362
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54739003260744,
+                    11.666816118118
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50825582012371,
+                    11.76987111113889
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46915836920824,
+                    11.611662203900206
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45351194919101,
+                    11.72541552423462
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58365623124011,
+                    11.643162716927682
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.51404469568197,
+                    11.50963867678575
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.48071388578808,
+                    11.56180553780813
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60388353738433,
+                    11.556968004569134
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60719010340179,
+                    11.733413264635562
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62755736795395,
+                    11.607609569176608
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4778852627895,
+                    11.509465584355242
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49188232957457,
+                    11.595706863434932
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4726525386859,
+                    11.721093916669611
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.63439059583847,
+                    11.741885390747557
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53741608386177,
+                    11.71263648393072
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.59165484748708,
+                    11.664473076393561
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46037857076706,
+                    11.696311911900436
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.54217541753464,
+                    11.617152475582982
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.55372299586169,
+                    11.634463056011006
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.50873117998879,
+                    11.679295564416947
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60217364212124,
+                    11.700465415391081
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.62414357395532,
+                    11.75885631675237
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49901789277685,
+                    11.664489647804613
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.53919469499466,
+                    11.680525364628513
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45504454613949,
+                    11.714826258519096
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49721932758983,
+                    11.590856976489238
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45472488486344,
+                    11.701355453542051
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.45797665739543,
+                    11.722820458343122
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.61647640305117,
+                    11.540990823494155
+                ]
+            },
+            "properties": {
+                "AC_NO": "082",
+                "AC_NAME": "Attur(SC)",
+                "booth_no": 0
+            }
+        }
+    ]
+}

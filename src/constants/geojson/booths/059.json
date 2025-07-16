@@ -1,0 +1,4640 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0715562457722,
+                    11.961170446627433
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98937999813124,
+                    11.941438149632486
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14165943188313,
+                    12.10543546743213
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07643534320653,
+                    12.077532941715804
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03748437439799,
+                    12.117452304045758
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06372670057372,
+                    11.950185475816314
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01268623478268,
+                    11.97609385412355
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07431824708398,
+                    11.955336143768525
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01299904957013,
+                    11.985855235120315
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11418851807068,
+                    12.092657707040345
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08888683900977,
+                    12.091958947309212
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0714466160824,
+                    12.065222731267857
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05478019242558,
+                    12.139285451375008
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95490141530526,
+                    11.930964344910373
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10116640189725,
+                    12.092260395044146
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.135327238585,
+                    12.032316252050139
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11080565288584,
+                    12.075312427459433
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0556153738849,
+                    12.044866153361745
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10677323504494,
+                    12.171152845088915
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04918587931412,
+                    11.958319918622712
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02377887002562,
+                    12.014150003121637
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14545062604869,
+                    12.042718744519398
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98242590396477,
+                    12.07010642813513
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01172369107385,
+                    12.081723724805405
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93506919579248,
+                    11.91915148882056
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05173065113925,
+                    11.941288476010333
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99783260989925,
+                    11.970007338615096
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13765916021397,
+                    12.012158764671176
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97831701781135,
+                    12.011947685411318
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01916524539132,
+                    12.016907597519657
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0796073685046,
+                    12.021955686736561
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05316927294527,
+                    12.18135851153156
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0168796553099,
+                    11.958329090069999
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04139009117091,
+                    11.962108477648135
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03487668770187,
+                    11.99053625159333
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0675525569379,
+                    12.011618128183981
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99182974143018,
+                    11.93394361677138
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03770334554689,
+                    11.974353767752218
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.111944956699,
+                    12.133334465854656
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16290388844618,
+                    12.132959423400152
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0509177441071,
+                    12.018862188392704
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04171026401424,
+                    11.960441888233715
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19671231125429,
+                    12.137057088443546
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14243701461962,
+                    11.997000824987998
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14545047933066,
+                    12.031490007378991
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11922729218806,
+                    12.044459470898246
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10589008868787,
+                    12.077734566509875
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01993764096899,
+                    12.09146951301287
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04221823903663,
+                    12.034340820579951
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15800035903133,
+                    12.117610719829342
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07855872846174,
+                    12.170050746279342
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97886434443379,
+                    11.905662242804002
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06178020450896,
+                    11.982808335948198
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00372734207744,
+                    12.011436505499605
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9741025079374,
+                    11.938121297996357
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12490638453538,
+                    12.110728008019978
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0673955976885,
+                    12.187252085232043
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07309477422676,
+                    12.085417882214754
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04385619397934,
+                    12.174372563005527
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14103821053807,
+                    12.059099738902713
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05365023208856,
+                    12.068396657615935
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9453974221816,
+                    11.902944399676212
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97028407843239,
+                    11.969052124483
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99673965476059,
+                    12.065698961760782
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98238052802535,
+                    12.11500767063567
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99155632978089,
+                    11.927752852443312
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99185941320009,
+                    11.934692999101783
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01880547520506,
+                    11.948533799342243
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07853744682467,
+                    12.084610372774613
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1537161569751,
+                    12.082203213766306
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96888424926281,
+                    12.122153079394826
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01077042290187,
+                    11.97094554484791
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02007649097963,
+                    12.071344464416368
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0276920066273,
+                    12.156288725300945
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14486014967686,
+                    12.022265857099674
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14114793133002,
+                    11.988525726502422
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0762999746561,
+                    12.086965762276627
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98179161822478,
+                    11.984198643468083
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17749162993458,
+                    12.030847516769475
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08318776140753,
+                    12.175401477012311
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01760761962538,
+                    11.930674622110358
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04934764869667,
+                    12.093863299081578
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99698522634587,
+                    12.101976115195376
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11959182819132,
+                    11.995388762971952
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98962237865113,
+                    12.091257493095204
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08519926542748,
+                    12.119479565354405
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06577965091817,
+                    11.94060793990961
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99157387323199,
+                    12.086953624436301
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05814129997367,
+                    12.164901825391516
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00655634980654,
+                    12.001684293824894
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09622157213349,
+                    12.09968283582572
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13463257523631,
+                    12.125925600345264
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98112918577063,
+                    11.969192147744332
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.104523040566,
+                    12.184693573697805
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96521803096425,
+                    11.958091494587435
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08791810313271,
+                    12.16981265695644
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04051962868802,
+                    11.954319358186714
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14500473480368,
+                    12.079594885339768
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04123827817213,
+                    12.170336820068
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04403874100962,
+                    11.988850577956839
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0361295209552,
+                    12.131863000907346
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00778092554819,
+                    12.132679945635875
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.000439210916,
+                    12.099124569519853
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02384076033252,
+                    12.10002583118871
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0311340599696,
+                    11.947042388513205
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0659512730993,
+                    12.041772322686194
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0784294774121,
+                    12.063263832149957
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11657903877385,
+                    12.058520673954638
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10656778506514,
+                    12.119116700066472
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15702866996295,
+                    12.138888596511064
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06752865772658,
+                    12.070625421929694
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12792966597662,
+                    12.038881346525455
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9994714592901,
+                    11.930271784041311
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05354140169025,
+                    12.023577480866928
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08677633652077,
+                    12.127381095624584
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0080392900794,
+                    12.09692636524144
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0700259002791,
+                    12.126795668319145
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01862079230928,
+                    11.963745861731638
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1745296755322,
+                    12.045820836140214
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96725109941183,
+                    12.10411430217727
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03430437928286,
+                    12.02394086737514
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04574936366083,
+                    12.131852937507565
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94826538328016,
+                    11.95442054684108
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02434238765079,
+                    12.13863069610377
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1140094556471,
+                    12.089907607705307
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08938761542423,
+                    12.036202916995071
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93516841184757,
+                    11.921479346143814
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04654266984444,
+                    12.083587189139177
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11154747366106,
+                    12.128376171636594
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08631431975387,
+                    12.041068455983886
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10195392976543,
+                    12.128832972994044
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14214957676577,
+                    12.132193050078348
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93862699646479,
+                    11.904264487574508
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07377711665796,
+                    12.046151087470102
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1152177534686,
+                    12.025650293232136
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08510832401613,
+                    12.0644547305234
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03530313214172,
+                    12.118943097773775
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98685327931538,
+                    11.963106444674526
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08968919979507,
+                    12.043309541769043
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17886219389703,
+                    12.036575755290702
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99795403100475,
+                    11.930591775109729
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11566646313742,
+                    12.03472195987217
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0926892732899,
+                    12.053817980497904
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0842750945294,
+                    12.063543319219725
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05816533851986,
+                    11.947173158281648
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12121728984695,
+                    12.062761743411704
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08786826523713,
+                    12.057449833233168
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0895186211874,
+                    12.056900146063631
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0427215624373,
+                    12.131955382328519
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11243432897602,
+                    12.057509530097107
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06693447169745,
+                    11.977428749612807
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18284552639629,
+                    12.04019957486918
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11654502558358,
+                    12.022862972338363
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17606453491365,
+                    12.149101104582696
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14248600805755,
+                    12.08661885863354
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02605407370034,
+                    12.106914466716358
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10534411901645,
+                    11.988894024243585
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06133900221909,
+                    12.082879398741298
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05868962339643,
+                    12.137830285526057
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19079922692225,
+                    12.126239334756038
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13063665117572,
+                    12.084833337975539
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06114462719707,
+                    12.11536155612289
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07116649296559,
+                    11.996119007142983
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95297132373084,
+                    12.092433515554207
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98986567477498,
+                    12.090163194118533
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1182214591974,
+                    12.080268760605085
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01115120257917,
+                    12.104665606785698
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00520401602142,
+                    11.999583668049198
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96870363774089,
+                    11.941945291722549
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09733951000695,
+                    12.08798642709457
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13936964366043,
+                    12.131924567829536
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06492909029467,
+                    12.10018713879593
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12371794117493,
+                    12.029797083145573
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13192642543459,
+                    12.01028142015432
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03877107027516,
+                    12.137063292316025
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04651720103293,
+                    12.011760507887397
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03226424875798,
+                    11.975836515287718
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14557163676452,
+                    12.047007194255736
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04505966838344,
+                    12.033389561798746
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00268256101792,
+                    11.977869479300708
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00457609103684,
+                    11.934652897316127
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06523534731492,
+                    12.023790837160476
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0772580095369,
+                    11.948039247241034
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00116216457718,
+                    12.007202702366532
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01551929469615,
+                    12.125525984621541
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1294535928398,
+                    12.007366149823149
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03069939427479,
+                    11.951924956112268
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0763860803171,
+                    11.996690538359218
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02198995230486,
+                    11.988246582964177
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05379394391767,
+                    12.142832147238254
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05711039891996,
+                    12.177865494350133
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13084186241691,
+                    12.055794182452642
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09933259471062,
+                    12.173815077547385
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99716641255284,
+                    11.911491002419888
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09159232584055,
+                    11.952148469367819
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0037234493936,
+                    12.120782099488295
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15250532123758,
+                    12.027339684755317
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05120464767265,
+                    12.116823092082974
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08600779846805,
+                    12.18043510607077
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00153059542289,
+                    11.921685688993296
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02943458634954,
+                    12.14447149818076
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13897929570999,
+                    12.02690444332622
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94836263376995,
+                    11.950242255345865
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96162160653634,
+                    11.943182977292661
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03977124462196,
+                    12.09462913158151
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11065232230607,
+                    11.971440691224563
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00821221881479,
+                    11.937762727623129
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11259967665892,
+                    12.053843438879115
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06223536489996,
+                    12.148680114115043
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10127883587674,
+                    12.142896308494729
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07663073984445,
+                    12.133541258645092
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14109341840822,
+                    12.123569753769612
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09942122414444,
+                    11.986296289310474
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96433304901933,
+                    11.904528017268769
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03073575757313,
+                    12.163650985940725
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98970779417499,
+                    12.107243725139819
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07154143279564,
+                    11.982134100142149
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10040346226711,
+                    12.130408248679739
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1257341657301,
+                    11.9984264148356
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10033374959494,
+                    12.105416418880923
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06647537960464,
+                    12.042586558750447
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99357694647655,
+                    11.935901011295615
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19976898788079,
+                    12.13798486692725
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07385731743919,
+                    12.13251969116465
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00407230805044,
+                    11.941959717507984
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97614781751672,
+                    12.088674227137908
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1158513623323,
+                    12.012464912678631
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9899783200915,
+                    12.09594402835637
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08628974174074,
+                    12.175962767067077
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.983706289311,
+                    11.953365673167745
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0199737206336,
+                    12.133152033076733
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07872666286553,
+                    12.01159418387646
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97477528198449,
+                    11.982336314088604
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0107051529474,
+                    12.00882294226986
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13904084300357,
+                    12.015665816251712
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12998479782516,
+                    12.048790124864247
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99825810467726,
+                    11.995668397068583
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08839829428074,
+                    11.988243839971172
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99666046560569,
+                    11.979618714163609
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.150733588693,
+                    12.04879029632831
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01295865490236,
+                    11.988899989036952
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02413883438199,
+                    11.978778921957149
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12727936352174,
+                    11.993145365324784
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1019512010721,
+                    11.99506782611419
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06090019832156,
+                    12.065934178394846
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1286109038769,
+                    12.092663132864212
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12859940665454,
+                    12.036323365908837
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11250314138593,
+                    12.020476775071561
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16337199134291,
+                    12.144429878213465
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03952947069402,
+                    12.083589467964496
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02928954497533,
+                    12.016659067052961
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05401714178718,
+                    12.12580712434598
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.029044249812,
+                    12.100976372512699
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99820451974507,
+                    12.105622434313688
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03379873999552,
+                    11.976996740654368
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10225170001011,
+                    12.169138479924264
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12360288402773,
+                    12.009748002498199
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06417776723364,
+                    12.1490426370625
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01426755103948,
+                    11.923537892795121
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02648945703872,
+                    11.981272855485036
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0301787110611,
+                    11.99114513808954
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01746166447059,
+                    11.99604278627933
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97997243722345,
+                    12.104520594642711
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04717483286255,
+                    11.9528435553142
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19464130598416,
+                    12.138006398627578
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13213392489651,
+                    12.122242126784913
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96273058047474,
+                    12.128512158463016
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05107745056998,
+                    12.170591065489303
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10343916378679,
+                    12.09655383582292
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97266018050682,
+                    11.939017244166143
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09909442770947,
+                    12.05191446513789
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9807887643687,
+                    11.947467775275292
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99667202026849,
+                    12.001787360896637
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03868284378383,
+                    12.061968189976076
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1271552711259,
+                    12.0943426683965
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03550972947647,
+                    11.941046520474002
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14054412124456,
+                    12.124119872199676
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03607071865426,
+                    12.001086244507814
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01881315777585,
+                    12.005951764334755
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05286218719047,
+                    12.107961990791706
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08460806747654,
+                    12.088889636467032
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97989380832311,
+                    11.98957025648205
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12537938624958,
+                    12.121255872426245
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11522658200127,
+                    12.06802166910305
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95692030312155,
+                    11.917669913398484
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02502332988345,
+                    11.997368311590602
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.138343528663,
+                    12.11179271740377
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18310411196352,
+                    12.053433906213861
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06002351092434,
+                    12.027074298313174
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98803392020265,
+                    12.074773527229556
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01537660829028,
+                    11.944861056755515
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07597242992979,
+                    12.054814187365634
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00179664996259,
+                    11.943426562590796
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04422800173083,
+                    11.968168927239972
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13333543574235,
+                    12.043900609065286
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0886032469806,
+                    12.133819051066212
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07453297662273,
+                    12.015379638797874
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99565617560522,
+                    11.931815081615875
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16398300129887,
+                    12.129911814050107
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05858562336327,
+                    11.957996801630063
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08567059319924,
+                    12.00236643853032
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95239295302798,
+                    12.081560892975958
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98607042979748,
+                    11.958673627988958
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 303
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10761692591089,
+                    12.034870657826124
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01394946579047,
+                    11.977612585329668
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10048456293013,
+                    11.990270158947789
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 306
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08754462840028,
+                    12.14313932489243
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10232734995051,
+                    12.000167787332508
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0715562457722,
+                    11.961170446627433
+                ]
+            },
+            "properties": {
+                "AC_NO": "059",
+                "AC_NAME": "Dharmapuri",
+                "booth_no": 0
+            }
+        }
+    ]
+}

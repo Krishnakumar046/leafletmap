@@ -1,0 +1,4550 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63702033376887,
+                    11.357100935206741
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69390397446685,
+                    11.366290557750688
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6446531976547,
+                    11.335905188178765
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68990882323743,
+                    11.344205077315747
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67806386863856,
+                    11.425405772369924
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74615778047392,
+                    11.319751083828798
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69835235511054,
+                    11.315712787967726
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60417040652682,
+                    11.215202500430774
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62216546405482,
+                    11.260354889591856
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68064610219577,
+                    11.22132170623059
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66326364260124,
+                    11.38079282205805
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61473449813131,
+                    11.22247797308936
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65556861716026,
+                    11.301438606789054
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63611526628691,
+                    11.314398350495773
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65888264207568,
+                    11.245760519534258
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68937242718656,
+                    11.386228281869897
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75568611968933,
+                    11.330164644484165
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64933798546933,
+                    11.23590051832838
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66410145127485,
+                    11.375053069378962
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66711093505081,
+                    11.291174557706345
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64398589133228,
+                    11.432405180973426
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66865614609341,
+                    11.26142518751726
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66992835642591,
+                    11.431494748335297
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.71598950350115,
+                    11.298377486513765
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68657872651873,
+                    11.326943653134755
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64813782376237,
+                    11.426212932253636
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63860979865831,
+                    11.299193799600133
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63780188241594,
+                    11.346578789337041
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65440645901305,
+                    11.329766730433983
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6244640956218,
+                    11.27327311898715
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63930180198365,
+                    11.223138935119628
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69004380770392,
+                    11.286446846962876
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68471973646322,
+                    11.311141891188466
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70892979033798,
+                    11.295668420586589
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62803928790397,
+                    11.324828297168043
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65053824867535,
+                    11.346756450067613
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67620174162556,
+                    11.353764702827226
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63101751285906,
+                    11.326315786797888
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6818914236687,
+                    11.33140186499066
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64235582864643,
+                    11.246945748308978
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67623958019858,
+                    11.416029949748317
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70111840529198,
+                    11.347709632738177
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60317479690664,
+                    11.230205933055897
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70841704339132,
+                    11.32029043784602
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64464393007529,
+                    11.431810007980117
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6464514935021,
+                    11.315334991999704
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6213118152934,
+                    11.21797133856134
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65654409124865,
+                    11.447611083726276
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67099795984103,
+                    11.425865682381335
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68001688482697,
+                    11.291382050210458
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67714456442867,
+                    11.412859375185006
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65696073030243,
+                    11.221680157269704
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66357167505578,
+                    11.220384572964063
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70167884177313,
+                    11.39584552613383
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66257282080115,
+                    11.411069026014504
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65965963363324,
+                    11.287589198337487
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69220204945488,
+                    11.319933395277245
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63121536782806,
+                    11.24625176013779
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67284516522062,
+                    11.285106243661138
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6389303235506,
+                    11.386382419187063
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69001240888122,
+                    11.305929999666196
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65381791850781,
+                    11.235590271242492
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67191134904189,
+                    11.323809539124946
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67283723227037,
+                    11.418527520703332
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65703375596861,
+                    11.235372865105257
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67753668579849,
+                    11.294352960362504
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65053072200398,
+                    11.35277921095982
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65082501936607,
+                    11.432339783098453
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68362462510474,
+                    11.272924326026613
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63549359147531,
+                    11.286772458185085
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65069487469746,
+                    11.443958938866928
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65750575448448,
+                    11.224883657127974
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62584536056005,
+                    11.249880493565135
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69444218418444,
+                    11.3008993293127
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6810932530298,
+                    11.410811472504403
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62948524948585,
+                    11.294504615088446
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63471920319469,
+                    11.343404451263128
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6324704216159,
+                    11.2956724856568
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65346008721733,
+                    11.349271884366964
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64909694168135,
+                    11.431049904855636
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63461441204379,
+                    11.297691622459459
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7109014119622,
+                    11.31461327090503
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62599145103637,
+                    11.296855716054676
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64280395831928,
+                    11.378965515081543
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66362726734803,
+                    11.400971843762703
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63662173903236,
+                    11.229659230011274
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69011997132496,
+                    11.289050663069972
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64646913592095,
+                    11.210237829369948
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65127631731596,
+                    11.40824523726508
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60915192725278,
+                    11.273823284734075
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62917682687063,
+                    11.258923209711108
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.71800284448871,
+                    11.296017523335362
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66577196668153,
+                    11.413791971105042
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63366503413428,
+                    11.344856506890551
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66518676711269,
+                    11.364696593170066
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65030672580897,
+                    11.343024555112207
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63726243546164,
+                    11.207136430963766
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62812608479605,
+                    11.353633950846792
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67033047427302,
+                    11.38627435797339
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66818924266606,
+                    11.433609808504238
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65776695474433,
+                    11.248900182482272
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64543559554228,
+                    11.201762372120314
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.71787067704493,
+                    11.321259499125594
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68482683592002,
+                    11.392423333436271
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66148650853401,
+                    11.221107905973579
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67179880676946,
+                    11.440540360248978
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68170951293064,
+                    11.416452694963453
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66947396302207,
+                    11.288925487791959
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65065408092782,
+                    11.295349858258337
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63214959150307,
+                    11.34625443543684
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70024038950494,
+                    11.316540460035478
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69071273129538,
+                    11.353359244749264
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61249213223823,
+                    11.266266724474988
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67106832855188,
+                    11.221473871979834
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63459874241317,
+                    11.194111424221326
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70756413854085,
+                    11.355528424912006
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65316297920933,
+                    11.290356863908903
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6853497512588,
+                    11.22000291914672
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66929482901845,
+                    11.425858056178841
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65238786581453,
+                    11.317370967505985
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63914642457213,
+                    11.343874594602513
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63167921965331,
+                    11.227320612900588
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66640011558233,
+                    11.284002083239823
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66738307179946,
+                    11.329714941102027
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64327110095427,
+                    11.358406090561383
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65929653295431,
+                    11.370956773557568
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63669829399333,
+                    11.278546234178192
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62942593634975,
+                    11.324170965514497
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68632978795239,
+                    11.307670217731685
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61346427488277,
+                    11.239770613021804
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67500320600601,
+                    11.410660280415863
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63366763273346,
+                    11.318573694483513
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66062197476198,
+                    11.263466315313579
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.72704398629614,
+                    11.308928159053847
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65651179072215,
+                    11.267185669643753
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66013246004347,
+                    11.39902990803355
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63540895999252,
+                    11.218266457958125
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63326625045293,
+                    11.24077274100429
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74282117280086,
+                    11.317734075150733
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64462807321911,
+                    11.406972192734507
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67318446095871,
+                    11.27526267848196
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64490358975175,
+                    11.36138067957461
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63004168656532,
+                    11.375978747855969
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63101115081201,
+                    11.281319906120759
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68132001707865,
+                    11.281064928583476
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69745429139252,
+                    11.295535666640603
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66371098062888,
+                    11.377061108413637
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63293133331761,
+                    11.289821234857419
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.72146328248898,
+                    11.29937736861826
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7095794165669,
+                    11.314242247891325
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6743278951345,
+                    11.371781258881565
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61625394095968,
+                    11.221687240920554
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6878905950357,
+                    11.397880485306198
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64080399707771,
+                    11.302473587866919
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67275912301642,
+                    11.264458424476013
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67152468808361,
+                    11.422932800281403
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66767401831885,
+                    11.289613790305696
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67578770878116,
+                    11.3062763032926
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64703974771042,
+                    11.356023706233122
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64088162341613,
+                    11.313719187398522
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67064213289395,
+                    11.363955780048185
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65154323848503,
+                    11.422089007540045
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67583811741186,
+                    11.315264424552279
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6481494884126,
+                    11.367469166098099
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7144315557002,
+                    11.312053592601442
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65662050411265,
+                    11.262806814235917
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67577473307391,
+                    11.288725742814105
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68341255758946,
+                    11.321982560808632
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64729086718923,
+                    11.345453575120175
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65984319631306,
+                    11.323143775347368
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67990650794377,
+                    11.339250224273394
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6757996652762,
+                    11.322318421685736
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64129709415604,
+                    11.437307910609704
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65021828905076,
+                    11.334383440474271
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60712705833821,
+                    11.249444018381858
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6711338031972,
+                    11.362493029570675
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61678438513495,
+                    11.2741370413418
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64742971405694,
+                    11.411829425364772
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69397863909738,
+                    11.302396792609839
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67145089107265,
+                    11.291693137342822
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68563879339192,
+                    11.370173266440162
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66633387879911,
+                    11.328487521969612
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67692433772025,
+                    11.221496631695137
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73763025965519,
+                    11.318493757909353
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6818054973763,
+                    11.27244384006781
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63337499032369,
+                    11.228519276900219
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70324626812666,
+                    11.359878322470117
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64864085986758,
+                    11.285863015394836
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64442125499272,
+                    11.381241220401416
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6377243600903,
+                    11.365171244416944
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75714152302453,
+                    11.33589143807156
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67820580802578,
+                    11.273305105209715
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64485256764047,
+                    11.38390124661863
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6775642724028,
+                    11.232961610371754
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63255054175644,
+                    11.37373956717866
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6817773305053,
+                    11.3146842649225
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6555502498506,
+                    11.322657047854268
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6578732244987,
+                    11.34202196456665
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65232548007367,
+                    11.368833321232598
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76698231693035,
+                    11.323413474290955
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69734019895259,
+                    11.292266761927207
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64825015934018,
+                    11.236316922290717
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64794025090002,
+                    11.369263134075247
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66955298870474,
+                    11.3009170440796
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62860570037942,
+                    11.291879294117384
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64900031539658,
+                    11.403943398086604
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69316213251379,
+                    11.364164523033931
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64404795839225,
+                    11.315625100281816
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67553293156334,
+                    11.278071602983317
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70241536818425,
+                    11.372464826859485
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68039835581435,
+                    11.330838268172764
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65521416791552,
+                    11.26743592410625
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65715390364811,
+                    11.435497638859191
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62335215770403,
+                    11.241569269038743
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68681094146385,
+                    11.374012209525011
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64057746115662,
+                    11.192227107783188
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66447413258142,
+                    11.287433758739157
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64422299597041,
+                    11.2773337659666
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65842212496742,
+                    11.356695483703957
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70038785510155,
+                    11.28981962385784
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66525025062577,
+                    11.227160566195675
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6457982033618,
+                    11.430606411619923
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65839757459847,
+                    11.260625398247372
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67025911552359,
+                    11.351561541474306
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66221455363969,
+                    11.286942810524135
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62992025454952,
+                    11.301326831032446
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6658363911025,
+                    11.358797212964939
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74361215676517,
+                    11.3237197157658
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64767000728038,
+                    11.41510378153106
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69575843456269,
+                    11.316981899631893
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64942767124688,
+                    11.315381939996179
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63225562478222,
+                    11.305852720242799
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64286016090891,
+                    11.329396142123661
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63605920616887,
+                    11.240763692958462
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68308285857971,
+                    11.267175623223459
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66182771227298,
+                    11.25291025492417
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.5979064145053,
+                    11.242751641915753
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65193775148158,
+                    11.399970816554218
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65806849325908,
+                    11.356701750655551
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65232722671352,
+                    11.257822849712536
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63558129067384,
+                    11.252279044450336
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65268370523698,
+                    11.356699734892198
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65422679211584,
+                    11.45241723127672
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65415501802555,
+                    11.39714538793705
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66708985240777,
+                    11.240534001586502
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68971657839887,
+                    11.347674542116971
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68895695480317,
+                    11.348357579269756
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61638868597643,
+                    11.217090425327244
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6230833114012,
+                    11.250216666613202
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63996941234569,
+                    11.390296204149609
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.66453387010132,
+                    11.298712890458184
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.70073183655411,
+                    11.34971473031964
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63870791923098,
+                    11.363570954587336
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69101039453517,
+                    11.394325202937864
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65410092335986,
+                    11.304237632330336
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64061793615656,
+                    11.244336928220697
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69930538474313,
+                    11.351349006477927
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6663034450582,
+                    11.37613888383856
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6390428562722,
+                    11.273737822029494
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64122044874905,
+                    11.380345472268665
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63104322442994,
+                    11.252780653109902
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65783304853875,
+                    11.332879942233383
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62564851604589,
+                    11.325875069826942
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62636801286887,
+                    11.27614796427187
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6971876220657,
+                    11.348613338538081
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65213132551519,
+                    11.413952533824311
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60824026905732,
+                    11.235859607098256
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67876224469273,
+                    11.22653925699296
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6484865434604,
+                    11.43852787882636
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6506310459534,
+                    11.346722830748329
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69095109570277,
+                    11.321377792801952
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62956970477389,
+                    11.281532790099218
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6671848039476,
+                    11.322960089207172
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.61559265508546,
+                    11.288460522971222
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65175156894186,
+                    11.385886359539382
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68314332753143,
+                    11.315301756018279
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68418497524874,
+                    11.39285059907604
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75798219226925,
+                    11.333439315367267
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67338792944592,
+                    11.285913266084787
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62210847302238,
+                    11.19394737891888
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65691823911956,
+                    11.428402544605744
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6627056792304,
+                    11.422005499329686
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68416518801615,
+                    11.387028200742373
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65575617299933,
+                    11.415645739514924
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65830999754674,
+                    11.408166204249401
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.62991879565983,
+                    11.324702032003819
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.72093024245328,
+                    11.307873306776543
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68867862555243,
+                    11.37950919344641
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74536167139493,
+                    11.3283321759163
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67233872210019,
+                    11.338398670675504
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6218363191294,
+                    11.225375971006377
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65659781812694,
+                    11.284537664809479
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65028058088366,
+                    11.331727635746468
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.68696266510692,
+                    11.348530274823585
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73983473333563,
+                    11.322936438361996
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.65676156149833,
+                    11.297354660416165
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.67539455553123,
+                    11.38259801669944
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.754096637543,
+                    11.337154914615303
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64846575654644,
+                    11.377153125881119
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.71208213940704,
+                    11.305631134535124
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.64038923075215,
+                    11.235135577953109
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60784501272606,
+                    11.240526872332703
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63702033376887,
+                    11.357100935206741
+                ]
+            },
+            "properties": {
+                "AC_NO": "099",
+                "AC_NAME": "Erode (West)",
+                "booth_no": 0
+            }
+        }
+    ]
+}

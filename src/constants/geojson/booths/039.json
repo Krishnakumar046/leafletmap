@@ -1,0 +1,4505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37641479204095,
+                    12.981069527262191
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48444461772165,
+                    12.887801690001451
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45684604849943,
+                    13.040927759951538
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35588512627555,
+                    13.062297729646117
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47310082136136,
+                    13.038187400714522
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59602616807584,
+                    12.969152393439215
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53045031502496,
+                    12.863262303065014
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51494715681257,
+                    12.962100118357522
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45492290785202,
+                    12.994689164628856
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56812513251137,
+                    12.960827641333353
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34546763652068,
+                    13.023573196839882
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39278054953134,
+                    13.043297131442987
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54700549076051,
+                    12.949345496292699
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45702239272649,
+                    12.956350292723897
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47642699518026,
+                    12.937001995990986
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51345440549841,
+                    12.916127138936162
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47631959546558,
+                    12.943571047400203
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56645865259098,
+                    13.081853140403862
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56620680395886,
+                    13.010793764798903
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43738059630641,
+                    13.041435522997544
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44267546866453,
+                    13.050019294114112
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54082126674315,
+                    12.978470433445713
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42837062569525,
+                    13.13870695485498
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42183843559087,
+                    13.042223157694712
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51474975813052,
+                    12.959731924343576
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57006550299035,
+                    12.971543178505485
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48206094573104,
+                    12.950036533873329
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47028449763835,
+                    12.957509421090748
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4096023247322,
+                    13.000570752288287
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46380625913842,
+                    12.99613351045115
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5460152117243,
+                    13.068162678192378
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64801102881779,
+                    12.94748842235282
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52716854955047,
+                    12.883555070301078
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36410868247934,
+                    13.043825578566413
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55635244424354,
+                    12.969714693469859
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4424306016718,
+                    12.997023485283693
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45995254096353,
+                    13.030066875879623
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51400261749527,
+                    12.898728951529993
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59435050056004,
+                    13.008816264791003
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.32454955674015,
+                    13.075089853270034
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43450577741775,
+                    13.100899529025599
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50174064359797,
+                    13.103840032288284
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42651560024612,
+                    13.100702673173037
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52757199065779,
+                    12.89936504696691
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54513240228341,
+                    13.027586688677328
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44147833021887,
+                    13.004717271019565
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40913632283659,
+                    13.11377846111432
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55840869837132,
+                    12.981235336795773
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55747115495588,
+                    12.8683831163846
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54504178385166,
+                    13.058797327112199
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55154344477951,
+                    12.982900585785906
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37595598468273,
+                    12.99255474328567
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45217072919372,
+                    12.93236225303429
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51067987823232,
+                    13.04375445905176
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54645297452758,
+                    13.019487981756743
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50098289283227,
+                    12.875598891897713
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59840154003572,
+                    12.938777153334154
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37745575813803,
+                    12.972998012742416
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5064309355411,
+                    13.073842519449094
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48236391389268,
+                    12.881253668759562
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56578292084984,
+                    13.098230868985473
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4150922754868,
+                    13.115208620844875
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36573715475062,
+                    12.985490743359454
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52587239317664,
+                    12.897440841961467
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36236573444003,
+                    13.055821814195602
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5428862976791,
+                    13.120359045901687
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53588366719244,
+                    13.012329104709627
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4480207618281,
+                    13.069654748969674
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52196949278158,
+                    12.9316068661638
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53731871094855,
+                    13.11889848218844
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46692868448169,
+                    12.923807222175833
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5322264880504,
+                    13.071864814667055
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52883807303142,
+                    12.991754635056722
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58838857485821,
+                    12.971142791896838
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45017197467867,
+                    13.0301314078957
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48734609693322,
+                    12.913176903853097
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54411213080255,
+                    12.882858343368737
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61009168024886,
+                    12.940138104104907
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56254519021932,
+                    13.05543644934765
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48011867857326,
+                    13.083334428700473
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54648169599469,
+                    12.94107266390898
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44888922401591,
+                    13.08758550986647
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39418646111564,
+                    13.042099984444219
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48928496241068,
+                    12.938764247270417
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53943552125061,
+                    13.010375375009337
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38683472099035,
+                    13.040030401124431
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52963927925427,
+                    13.043254617134883
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54283743435371,
+                    12.939926071104088
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54289342144186,
+                    13.0049787549968
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49775845939072,
+                    12.878584692202894
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48592817861856,
+                    12.89512707876137
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48559898450915,
+                    13.036068580980531
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54874275505746,
+                    13.0335857121964
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33278464022337,
+                    13.036858308386515
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34204135940026,
+                    13.041852865053544
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46590129292953,
+                    12.891535754668858
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50862271603908,
+                    13.02486749018986
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36635332686265,
+                    13.049324917912024
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42680309436412,
+                    12.975395399544434
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36306740921067,
+                    13.019312864455875
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5274889901567,
+                    13.105966598142897
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57837655624029,
+                    12.991024185129238
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50414516322884,
+                    12.982087843375535
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60078811804856,
+                    12.9387185721127
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35022291914964,
+                    13.046814223495572
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5489727512837,
+                    12.941687443015189
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34974544165723,
+                    12.996540836502627
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54667999861059,
+                    13.077846078509829
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.32611772537142,
+                    13.048417453047799
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53875329121547,
+                    13.121312604610354
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56297776219719,
+                    13.02712279023491
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42956687734761,
+                    13.044696004873783
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33414799155138,
+                    13.051786664308247
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58315735975462,
+                    12.98063685114123
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34674941930653,
+                    13.029243106953235
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4251305390398,
+                    13.115845728934234
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57373257288491,
+                    12.984722154206871
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47518767587077,
+                    12.993682455924175
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51654681967406,
+                    13.122491194026459
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45639518823924,
+                    12.897416735590232
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48514772241356,
+                    12.887767181589068
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35085692631726,
+                    12.997649417009763
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47692082351924,
+                    13.07554541206933
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53765870390436,
+                    12.878209951031115
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50907516493253,
+                    12.946998976173894
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57910209357928,
+                    12.92609629687086
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53463766901041,
+                    12.909868647395117
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57891301662866,
+                    12.995165276708573
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44454431852033,
+                    13.01580545834172
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4590286137798,
+                    13.055424223256884
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48386988313752,
+                    12.883486545847575
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58527637867829,
+                    12.904993081538068
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5248257093173,
+                    13.079699199509863
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35583038095335,
+                    12.989263062176315
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52653854993856,
+                    13.124826802791162
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53018427979593,
+                    12.877764761599334
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50768916298597,
+                    13.05571606481636
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42973769092333,
+                    13.047893770452793
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51711215262563,
+                    12.88652564218696
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40589096013838,
+                    13.08306847799465
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5373188789329,
+                    13.128689867287177
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56611807709407,
+                    12.920480653029111
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36960608968346,
+                    12.999828214403818
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43359296372041,
+                    13.07490305783679
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52174594349492,
+                    13.019183819743235
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5163740715015,
+                    13.033570022283072
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53704020575681,
+                    12.925887852409131
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57722481962223,
+                    13.096219879135035
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46286223953923,
+                    12.948478040205115
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45416328842474,
+                    13.041196936559302
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36242828284509,
+                    13.063245117644694
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60023111812832,
+                    12.969159957304921
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44765973196479,
+                    13.004354948120938
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38866956464902,
+                    12.968210111191217
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43227278995987,
+                    13.007548992226017
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3755962977814,
+                    13.043104646059033
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39694515893899,
+                    13.06599851863046
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48005772608526,
+                    12.98537886967665
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55547825136867,
+                    12.894086457444102
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47046159063015,
+                    13.095376529633244
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46064124450263,
+                    12.979181421660623
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35203257131249,
+                    13.033885138040711
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.31514098534039,
+                    13.067613318665252
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62682195434449,
+                    12.960170829311979
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51454862098403,
+                    12.872250492794278
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48958898217822,
+                    12.916738973286217
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56067425034011,
+                    12.98516961673065
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51226010215773,
+                    13.052741889300517
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48104647368689,
+                    13.090962429917269
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53315461979649,
+                    12.941771653633989
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46004687850719,
+                    13.003798100315674
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44611538793083,
+                    13.07051214304975
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40032944020966,
+                    13.003369696546407
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40873191608809,
+                    13.006835372331716
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33097312956933,
+                    13.03458835536644
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64307829172817,
+                    12.940684238432627
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60509502227119,
+                    12.984287947994124
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40146381430367,
+                    13.020698929208391
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4899991995444,
+                    12.896688103104127
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47957608790473,
+                    12.897979630262622
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50530742957218,
+                    13.124003640694736
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57854726903142,
+                    12.99054656759401
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48776454857496,
+                    13.01192655530066
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42741386435716,
+                    13.032084150875503
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46758889748881,
+                    13.104867414772931
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4332356029808,
+                    13.0659548865142
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49570682451592,
+                    12.94760186628041
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52729511810217,
+                    12.970218422278364
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41067870402658,
+                    13.111810878640446
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48094095214265,
+                    12.980817915417486
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.388182760116,
+                    13.062593897045353
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38540350000869,
+                    13.04944690024994
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57304943020907,
+                    13.062545252040449
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49308843572285,
+                    12.93033511778619
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56231205083489,
+                    12.939337051419706
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5829713112153,
+                    12.904763309730798
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40806296104614,
+                    13.080709713452785
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35132633437013,
+                    13.026079236191771
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45933290665279,
+                    12.908448241423324
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46069555540402,
+                    13.026306990767113
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60520063081066,
+                    12.939079644035939
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54106055876221,
+                    12.921785213161225
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37165007473351,
+                    13.016938931783903
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62320432338848,
+                    12.96609133007075
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37055264039851,
+                    13.064195452444372
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41887797226444,
+                    13.132613767735329
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59889097965849,
+                    12.914341778405957
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53781877229338,
+                    13.095672062945349
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49790391960278,
+                    13.051495211931092
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3853025866353,
+                    12.96680427582963
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50880107825202,
+                    12.938282612743613
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47507897198234,
+                    12.939911310772858
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53318826106108,
+                    12.94972148206954
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49670904701529,
+                    12.890977510980141
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60421615020289,
+                    12.936830821510787
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47531534911137,
+                    13.023020905112901
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48152959785145,
+                    12.965095454965201
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49856169521144,
+                    13.001432360082143
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33609568781652,
+                    13.052539236423106
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49624547657932,
+                    13.025999475669325
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49255999873516,
+                    13.089047057458957
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5102367854889,
+                    13.123816005859366
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43619464841746,
+                    12.993636280351994
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6223651917624,
+                    12.928699480690288
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.598665834682,
+                    12.916688322008099
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61366830994669,
+                    12.96905812057982
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64407975836984,
+                    12.932985861590854
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49032947746262,
+                    13.032542492193066
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50519587017753,
+                    12.95752879502597
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33759904581288,
+                    13.04574948263797
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52895066157267,
+                    12.981650389793733
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49661654260356,
+                    13.032059172714273
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64847313721593,
+                    12.94220079160837
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56753825471948,
+                    13.018273651526622
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55568463483941,
+                    13.073922684655999
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53944586761382,
+                    12.909404822947584
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61785563177015,
+                    12.957554057350608
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51508872171128,
+                    12.886763700569102
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53607322732854,
+                    12.970457412797945
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55589143135532,
+                    12.90869927199888
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44889047639805,
+                    12.938889309571826
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41502036387631,
+                    13.072243200696676
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51785386720317,
+                    13.060749461872819
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4286635746654,
+                    13.050836510906663
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35753851196257,
+                    13.003425399513622
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58399942221651,
+                    12.972610665081552
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52583969460561,
+                    13.124718105057655
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49142811906482,
+                    13.050760805888338
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52615717584523,
+                    13.021468099171368
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55806623934103,
+                    13.094970225795615
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49104910051484,
+                    12.873778769929254
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42502184325375,
+                    13.0620743514418
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54206589391742,
+                    12.948700714343095
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52214629440012,
+                    12.917602388851545
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45755901698455,
+                    13.067988914833052
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34028834537982,
+                    13.055961850278994
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.493562176401,
+                    12.96306096426043
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33103189630611,
+                    13.043194507512137
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35865493817028,
+                    13.007972667666895
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53954351332541,
+                    12.976927331573933
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47277989193454,
+                    12.89107588782979
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54223775033749,
+                    12.952763352811584
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36369479141715,
+                    13.012519470839965
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55527531842041,
+                    13.030865698262179
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57267440634182,
+                    12.983042220528244
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51280388039217,
+                    13.096547022349235
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37684813464153,
+                    12.992951240484848
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53301926977241,
+                    12.923896045053278
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43379917496542,
+                    13.05921942526588
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48273243842793,
+                    12.962622831113956
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34071830277738,
+                    13.01565409188711
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47154303804147,
+                    12.971917550335757
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48014524823772,
+                    12.966314597653643
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60198242231725,
+                    12.958311034453342
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57469553945357,
+                    13.000053092661002
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47863559110647,
+                    12.988553612263761
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59050244905937,
+                    12.955321069930006
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47785876537668,
+                    13.053019608886899
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33525835477215,
+                    13.030192868022647
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53709732034902,
+                    12.880914587497628
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52214008308013,
+                    13.071082957652285
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39565188366497,
+                    13.02125389080242
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42874676885754,
+                    13.079266360674776
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48426343020417,
+                    13.031099671409853
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3934566207231,
+                    12.991370235052862
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39933752707279,
+                    13.076916471273169
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48563564546815,
+                    12.949400061692346
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44976350884473,
+                    13.030887758223962
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44406534288234,
+                    13.12243371083029
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54805338720796,
+                    12.903175908204627
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46746283274975,
+                    13.024646162238575
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38767543780538,
+                    13.018419098304445
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4894616586295,
+                    12.965567428088958
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47961415268281,
+                    13.107369119391553
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4607017975012,
+                    13.043896138104985
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64070954926748,
+                    12.932837094259908
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57729723535418,
+                    12.926725853603044
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37222398080111,
+                    12.999985318381688
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51938812900866,
+                    13.134177767725983
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37641479204095,
+                    12.981069527262191
+                ]
+            },
+            "properties": {
+                "AC_NO": "039",
+                "AC_NAME": "Sholingur",
+                "booth_no": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,4430 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80438891908926,
+                    12.113181671546899
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92186388510174,
+                    12.144172431078703
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74916810349283,
+                    11.979148691604596
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96852951746253,
+                    12.202999235195131
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93954472548533,
+                    12.023675139739659
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78941901503372,
+                    12.112662690418972
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89395146813999,
+                    12.02347177485538
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98692103203987,
+                    12.027447906862964
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77134457872525,
+                    11.91951775154507
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82134998693091,
+                    12.02124815304507
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83123702747065,
+                    12.046539550154453
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8900981138757,
+                    12.170957090877106
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8076563053574,
+                    12.039970932096871
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76380011216175,
+                    12.018056589008815
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88855886450918,
+                    11.958528463196561
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9415672281379,
+                    12.13709409438184
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76306682065605,
+                    11.963774368443769
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82037716502836,
+                    12.080236982627053
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83788167570604,
+                    11.995040733938175
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80466914188004,
+                    12.084202104397006
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81390752274598,
+                    12.096976665864219
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8653124186586,
+                    12.260282901175593
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91912042799947,
+                    12.314412322120157
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83712572804893,
+                    11.963351813681918
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88111881638193,
+                    11.953373544036317
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73577897258953,
+                    11.990695855317043
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7890660790493,
+                    12.034334918052306
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8793679384399,
+                    11.97171720377164
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7596764240237,
+                    12.026216223053758
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0707632669999,
+                    12.197815663095687
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93977248070182,
+                    11.99654455872625
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0997234258531,
+                    12.248133712922534
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84002988520072,
+                    12.132851029975978
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00209577106706,
+                    12.220519589007719
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88095465232763,
+                    12.114170568198016
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99368958232236,
+                    12.044946407586554
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97415136147126,
+                    12.023245173903474
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01791305067717,
+                    12.02739807348208
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7005013929157,
+                    11.94826734297308
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85135557703047,
+                    11.986334443192332
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94793819937355,
+                    12.189848787041308
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89234738781036,
+                    12.282285930560805
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81489814832248,
+                    12.070400452606547
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12593597147537,
+                    12.232274750505955
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83308483358658,
+                    11.94395526895623
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86680206940797,
+                    12.05838948835266
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12673387231207,
+                    12.239930784181826
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89587772578837,
+                    12.105702867659186
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92125979798695,
+                    12.173493577391058
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89856885251199,
+                    12.049633343601618
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85338102733267,
+                    12.125138531287856
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76326491349523,
+                    11.974175882801072
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93379159273643,
+                    12.171901840121134
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92894361152193,
+                    12.214332304754786
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73355017922268,
+                    11.947717828089774
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98484064664775,
+                    12.195706240451472
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03795129387991,
+                    12.25236000265039
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79923443891538,
+                    12.151914865149095
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99709581743696,
+                    12.213882214228496
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99707129512302,
+                    12.145252191142738
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95355639088159,
+                    12.17847623064999
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90916955763761,
+                    12.022301580963509
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94285157567612,
+                    12.26340660979273
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78892787870296,
+                    11.95859284614186
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89606156671397,
+                    12.252042472234635
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91734016060212,
+                    12.19929001533061
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92541847464776,
+                    12.109236624581664
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9493866177544,
+                    12.214928712995738
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12999122357388,
+                    12.194413429438491
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75434017957039,
+                    12.043298994829868
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10536359079515,
+                    12.224662668921042
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81391489546755,
+                    11.95458625550277
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8640161920271,
+                    11.928232106616388
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99305529048539,
+                    12.197999282938483
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89224207551968,
+                    12.110137397802701
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93677023536219,
+                    12.196114537684277
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81597173499037,
+                    12.210801507164847
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89285341629729,
+                    11.932774334977456
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89419847738499,
+                    12.042508891086465
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8515515409641,
+                    12.097067500499973
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90948738855167,
+                    12.015223052528109
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75398913887635,
+                    11.996175371758016
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73989229317584,
+                    12.033969160102263
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83942174048454,
+                    12.169979580070281
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96856219793058,
+                    12.194765809236538
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9661741806227,
+                    12.005975591901311
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93188969134722,
+                    12.170993663692744
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12019764412643,
+                    12.227530947987617
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05881739382126,
+                    12.190655239167107
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94314175116516,
+                    11.963593280691592
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90760177140547,
+                    12.177512685517193
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82268846627512,
+                    12.089404485005542
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8168747851863,
+                    12.073248162489975
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97867716118762,
+                    12.233072744959467
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7169853383323,
+                    11.951967039586755
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99772898999484,
+                    12.155974876946082
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00154782115749,
+                    12.213187921421964
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00973933023525,
+                    12.06633388986464
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94045261331753,
+                    12.160293515007238
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87173838706444,
+                    12.028174902681698
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92543648268997,
+                    12.124262648764367
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91921185224027,
+                    12.176185334101254
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84436016127428,
+                    12.08756584476459
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79928497136451,
+                    11.949809217171692
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88574311954189,
+                    12.149815443218898
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94932103608296,
+                    11.995581028374891
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83952778884333,
+                    12.090829400836114
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89173358913348,
+                    11.988003758516573
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80318276998693,
+                    11.932745285092116
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.857714738922,
+                    12.235378318403425
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96727858015458,
+                    12.167244625767394
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90944420191276,
+                    12.319033215337369
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69311991626546,
+                    11.974662258898043
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91493683878747,
+                    11.96753179489901
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80335313395655,
+                    12.028754156416959
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88723619607492,
+                    11.915090640017238
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07174531937346,
+                    12.235914709800387
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91810282546507,
+                    11.966248220587806
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.812896440691,
+                    12.153118609532884
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01709261032198,
+                    12.250045738442553
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88020916813143,
+                    12.099476707656
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87386898828224,
+                    11.940851234167367
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03672776579886,
+                    12.19199180320893
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92416265772509,
+                    12.00767957560876
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96425417104999,
+                    12.01252356066026
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81459127098864,
+                    12.22185044341412
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86093133141212,
+                    11.917858220630235
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90363342142261,
+                    12.082071496272793
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89979867557528,
+                    12.210591937633508
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86200327340416,
+                    11.945471791202257
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89748000649283,
+                    12.040650398069575
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99746339335705,
+                    12.186440863823144
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80530168322296,
+                    11.910832514346914
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95176040972288,
+                    12.173597903048622
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82379893838373,
+                    11.994749716213692
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86261663922589,
+                    12.152050252241374
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76757378945975,
+                    12.01182396563169
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82344237107601,
+                    12.21787648249168
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0078739803821,
+                    12.026379074796418
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.71737014907032,
+                    12.02531390787929
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86777202296396,
+                    11.99245052006051
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.906715327001,
+                    11.9563236126477
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76189516418692,
+                    11.995078585754536
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79563456087558,
+                    11.913281126492269
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07724804669554,
+                    12.231351286199551
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04213614177569,
+                    12.23807741869543
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7994045948636,
+                    12.114140718188601
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77368226422314,
+                    12.134408852670584
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90163370952013,
+                    12.200598640268694
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85874482710841,
+                    12.084407711613194
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91315375368528,
+                    11.997663281441218
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96571525276605,
+                    12.026452764174596
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10273937958117,
+                    12.213338965462135
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92781311816107,
+                    11.963890407326499
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76061132020371,
+                    11.926289091512794
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80826503953517,
+                    12.09301567767024
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03844233553215,
+                    12.181658767759226
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89335079515511,
+                    11.950849161503209
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02209347296824,
+                    12.232993015233124
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91318001992714,
+                    11.916780705747167
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93205677501457,
+                    12.205702064140375
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75918245410212,
+                    12.007921158332822
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99314605579988,
+                    12.052617453535188
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90371199696747,
+                    12.234784546232387
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94317923038166,
+                    12.23486628008837
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06228566465548,
+                    12.210672132847408
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8518864568449,
+                    11.910528930810061
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88597053485451,
+                    11.920579486648496
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75443571464616,
+                    12.070795968500668
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76473304800112,
+                    12.133983241437987
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98480649300964,
+                    12.138217001161872
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8713740795597,
+                    11.934563163917268
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85459108747357,
+                    12.21435378838773
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81643069742006,
+                    12.039280324302474
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73901613833891,
+                    11.948650779143058
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14281113243297,
+                    12.185846667244686
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82076951704032,
+                    12.14851622906551
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99969944121683,
+                    12.148595199147364
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85989708008194,
+                    12.090578040010044
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73892143771042,
+                    11.975068819223544
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84745583994743,
+                    12.199055835012986
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97476547357958,
+                    12.192741725496404
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01879364601945,
+                    12.045547630745004
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90092642501338,
+                    11.966908151591893
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94294637732901,
+                    11.990099290244554
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77229983119891,
+                    12.106141295682757
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.776078572226,
+                    12.154983785588087
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04123101048603,
+                    12.267802631400961
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9152405154626,
+                    11.915520523616095
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.974936860478,
+                    12.242231666510584
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80836825597967,
+                    11.95693714222829
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96566834169644,
+                    12.012021201430931
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04092030758967,
+                    12.192330821092156
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93431671132966,
+                    12.060761029465544
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99418714781481,
+                    12.217887920942418
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74668824840039,
+                    11.932851084598248
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77368308594876,
+                    11.94242959651171
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79482711840808,
+                    12.027640469590082
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13956142913943,
+                    12.221008183714039
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74147838380385,
+                    11.9324314997821
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93666897055921,
+                    11.95346224111257
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69569099027404,
+                    11.953032325467062
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88406338290574,
+                    11.995910301334916
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8729299988818,
+                    12.000476681935005
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94720849655343,
+                    12.112685154191196
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88518711151002,
+                    12.213000455775548
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75936177075575,
+                    12.06497128975163
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85358675527208,
+                    12.066631068298685
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81627475466802,
+                    11.948354901692106
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.130992201853,
+                    12.240111545556138
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83488256046009,
+                    11.9451013605579
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82941274619917,
+                    12.016403068287401
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04516460785833,
+                    12.195769984907285
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92127300919537,
+                    12.180215699760483
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87983324233628,
+                    12.120456445149287
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87320118107736,
+                    12.013964731912466
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83926004858031,
+                    12.114675968702892
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86037881384209,
+                    12.21919043630362
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76653449565372,
+                    12.02994734996837
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90522142001552,
+                    11.96241288035515
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93979626399344,
+                    12.03768770204581
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80176904812555,
+                    11.926258825546839
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75348392078098,
+                    12.14133021778852
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86287032543207,
+                    12.11300855367953
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87235759052143,
+                    12.178930572297238
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93520542470431,
+                    12.181330008729777
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82276549182632,
+                    12.063427833821672
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04751500532359,
+                    12.19239306433959
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91504590795043,
+                    12.036963391130394
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75678566728806,
+                    12.06741130165685
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84727063311884,
+                    12.050886913696878
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81366130407928,
+                    12.17209498396824
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11581231445635,
+                    12.185151485258222
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91107026445019,
+                    12.199314364812015
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00967051150931,
+                    12.197101295762897
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81625595328984,
+                    12.12442889576839
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92436997453068,
+                    12.183483844003083
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83145530717444,
+                    11.941827276376976
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7835226429069,
+                    12.146254532182995
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.936704371892,
+                    11.993786176188022
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84119294865833,
+                    12.17230605149174
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89502362832273,
+                    12.10114550564331
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93823695091378,
+                    12.29511706796732
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75276041267456,
+                    12.009394584130563
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93434326110909,
+                    12.218918623951504
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76510901494844,
+                    11.969202033105573
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02386964863527,
+                    12.191392072687172
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9592809435072,
+                    12.014387044529393
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74442500102751,
+                    11.967328976468838
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81937545655458,
+                    11.940586244923088
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82966145200888,
+                    12.198261529573932
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88523717662208,
+                    12.230329671744864
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86578535391206,
+                    12.155755788144837
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82165757611854,
+                    11.955831305447452
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08765323188899,
+                    12.212066484454118
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77869812736976,
+                    11.929148822137133
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6864458387794,
+                    11.970069199743069
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09541989992218,
+                    12.216106172216278
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79967519496655,
+                    12.149829332159495
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88611819691602,
+                    12.293066976762843
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80495586144632,
+                    12.17226831079267
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8755831633254,
+                    12.096163448574277
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86317779762001,
+                    12.075929469294643
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90398859193553,
+                    12.32732561792628
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88522919130978,
+                    11.980708554362847
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90109136145804,
+                    11.921430301169012
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79823344733548,
+                    12.14903961659244
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05955821382354,
+                    12.265451856507614
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74797025089005,
+                    11.968530669072981
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92414460020294,
+                    12.010407213194467
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9466704384191,
+                    12.288091670516893
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94496065752479,
+                    12.009613784878173
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87811957581324,
+                    12.266460388489104
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.840251564179,
+                    12.005383954260319
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09721810578544,
+                    12.223083656224162
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76864538728684,
+                    12.044930838138956
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75214248860394,
+                    12.075958533396843
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06668277903589,
+                    12.248939071505273
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84095386789676,
+                    12.015172047794376
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86905430582634,
+                    12.137993836060769
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78414707075268,
+                    12.008875591026852
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77126762893353,
+                    11.994034591891245
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79624165576635,
+                    11.965988375279293
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76259533713367,
+                    11.947737416572092
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77857637743615,
+                    11.912545728366899
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03955858290172,
+                    12.222447353497424
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83859250633202,
+                    12.134099153973041
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06557724043329,
+                    12.200845993767173
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.73912656670569,
+                    11.995309215899923
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87397457836589,
+                    12.09279281941692
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88018636680181,
+                    11.973423377228263
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93570793149645,
+                    12.230175017087605
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.063768244037,
+                    12.193930107457497
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81069493748615,
+                    11.987102949914203
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80438891908926,
+                    12.113181671546899
+                ]
+            },
+            "properties": {
+                "AC_NO": "058",
+                "AC_NAME": "Pennagaram",
+                "booth_no": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,3950 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25858246898174,
+                    13.025733376020709
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24154618888926,
+                    13.03015671147108
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27022235305141,
+                    13.037129487182373
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25952083213372,
+                    13.015617840100429
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27129932410502,
+                    13.035424179542199
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26659599023117,
+                    13.030914321071096
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27407430146397,
+                    13.034991479036854
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26893199488394,
+                    13.02986617436821
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27522994039587,
+                    13.045792063312929
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27748511361564,
+                    13.037342002850883
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25862862148965,
+                    13.014205625064221
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2508934643422,
+                    13.027405580467867
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26632062718983,
+                    13.032239594375019
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27418908027796,
+                    13.033923366003235
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27049051815149,
+                    13.019165072393298
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26709186253191,
+                    13.035751183434638
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26589717889055,
+                    13.03772915592481
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25653739988036,
+                    13.02196989797066
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28279654046608,
+                    13.045255498223556
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25952788342538,
+                    13.024978415058202
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28107021815694,
+                    13.03561506627003
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27993283087312,
+                    13.033457186730494
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26746873723066,
+                    13.03724524299682
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27533795543849,
+                    13.043534200696007
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25792209696183,
+                    13.016540144514845
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27289179959119,
+                    13.03939796971983
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26840093593745,
+                    13.01860986268909
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25847211911031,
+                    13.029626690290797
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27513057023123,
+                    13.023061962230509
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26412789882013,
+                    13.029413215709502
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27442224977213,
+                    13.031105800064811
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26063438565166,
+                    13.01516706417119
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26623556466733,
+                    13.027314064640555
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26068065577508,
+                    13.029373702681042
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25376140079446,
+                    13.021548289272628
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26065997979202,
+                    13.025487533444503
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27047731942663,
+                    13.017487543121863
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2682396180925,
+                    13.040084507520445
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2801655985048,
+                    13.04163236623671
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24967029599682,
+                    13.032107853657532
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25720837172369,
+                    13.033687139948782
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25473748536712,
+                    13.02446427884298
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26211196853302,
+                    13.016482804150122
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26319505824567,
+                    13.02175295248495
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27748976076019,
+                    13.038486447947054
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27740998161748,
+                    13.016030318097014
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27096329217672,
+                    13.037805020943516
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26144140405312,
+                    13.021415879128098
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25863844366334,
+                    13.031567781527993
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26516807442849,
+                    13.022240617655859
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25002428644643,
+                    13.033146988845717
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24888566436118,
+                    13.035592487701228
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25473783777004,
+                    13.037099520738822
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24403259320222,
+                    13.032235654023633
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27116393787216,
+                    13.015430588533349
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26474684784868,
+                    13.014136812318553
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25090352463612,
+                    13.023974524501806
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24665205610349,
+                    13.034706440646357
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26884307728875,
+                    13.03388561155813
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27518867631447,
+                    13.04327890199656
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25826076318067,
+                    13.038339139837293
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2510645624127,
+                    13.021327566604507
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25797462183542,
+                    13.023110695279147
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27573906305696,
+                    13.031697824545635
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25213128278389,
+                    13.020647833108146
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2608594132739,
+                    13.031913512891597
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27408552657505,
+                    13.03159701954056
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2763584711154,
+                    13.031481855224175
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26206157657255,
+                    13.031653701080277
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27404983653531,
+                    13.01427356566731
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25135312667574,
+                    13.024398976438848
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25062231652925,
+                    13.02028032549285
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25895512982201,
+                    13.015199108134754
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24510683923681,
+                    13.032454733066707
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25978237894043,
+                    13.014313383520486
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27182393442523,
+                    13.032496245007168
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2676853291774,
+                    13.020476093833807
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25611865862949,
+                    13.02705978604975
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24413504575745,
+                    13.028109522270828
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28026663447892,
+                    13.03870395162165
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2715594261249,
+                    13.018790779812335
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25635339423724,
+                    13.03342089659277
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25212292458058,
+                    13.022420505496616
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26286475716223,
+                    13.025791469545217
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24248934540087,
+                    13.028843955786662
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26908148484284,
+                    13.034992484492022
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2583289588129,
+                    13.017151101545473
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27397313214554,
+                    13.013839127137969
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27699505057632,
+                    13.03434139775062
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2526624340095,
+                    13.036041735546949
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27311488629526,
+                    13.032653017415203
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26857661269158,
+                    13.01784508332824
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25763194509656,
+                    13.02492473742509
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27033139573867,
+                    13.013737949924288
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25257741222866,
+                    13.037951680600692
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26789852561198,
+                    13.032420123964286
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26302885095026,
+                    13.037973681036847
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25029155002305,
+                    13.037112000502615
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24703382745727,
+                    13.0257221283591
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27795618149736,
+                    13.0310966724303
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25176174659272,
+                    13.031385206100511
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26077556557043,
+                    13.02930352750168
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2577102276333,
+                    13.026311440586108
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24610198233673,
+                    13.03625651622114
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24389789704941,
+                    13.031435894946929
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25658234464501,
+                    13.025869964804729
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27062506670832,
+                    13.028430564401287
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26879892064191,
+                    13.0212114383938
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27385008327637,
+                    13.038457370556667
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27556238072438,
+                    13.044905635240177
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26386237953334,
+                    13.014676300551782
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25154922585007,
+                    13.025624161006151
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25223205687661,
+                    13.032885913169238
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27910055904574,
+                    13.030207481905423
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27270603300666,
+                    13.044151075659666
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25863476063216,
+                    13.019893687878508
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26040883693382,
+                    13.022062609353462
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26708151094633,
+                    13.038467863161546
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2488702669484,
+                    13.028477698775793
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27816599187082,
+                    13.041673123610927
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27860614892155,
+                    13.019457174493592
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25705946347362,
+                    13.019740249676643
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26998062048321,
+                    13.037291483845292
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27991909413649,
+                    13.04350782578368
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24971237791242,
+                    13.02739874509816
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26079597914921,
+                    13.03611585760358
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2655889766838,
+                    13.018838600410692
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27895236623834,
+                    13.025456970772268
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25592218159244,
+                    13.037393895836791
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24744828138114,
+                    13.023477096222063
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26982879359107,
+                    13.045783807528526
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25411106580677,
+                    13.02528961152765
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25686481114484,
+                    13.035666475705709
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2785862046177,
+                    13.027691774738592
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2677952223559,
+                    13.0186758600538
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2668923756311,
+                    13.035388151909862
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26523434530641,
+                    13.034394303537322
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2759044129232,
+                    13.028549254652225
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26950570189501,
+                    13.044093786528295
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28187272646392,
+                    13.040971257712576
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25763112788387,
+                    13.03654168341117
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26801486069841,
+                    13.023465308664449
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27726547956787,
+                    13.024147765644058
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26897706922709,
+                    13.036069653121233
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2585165963082,
+                    13.021814978051559
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25942258343734,
+                    13.030704642359119
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25509343169826,
+                    13.015906741908413
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27740893217127,
+                    13.031534681642675
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26672342858936,
+                    13.043704961004314
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27629756812644,
+                    13.040779554812623
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27636741566491,
+                    13.042506409341675
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28038911619628,
+                    13.037122596942352
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27787330643943,
+                    13.033213251861497
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27732161719616,
+                    13.018644257581961
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2637276720408,
+                    13.038614773998553
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25769997536554,
+                    13.022195921713331
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26487553851632,
+                    13.019243119821343
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25251618584593,
+                    13.027704422466522
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28037897596991,
+                    13.04152100662584
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27772662192172,
+                    13.03985653720265
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24803189399782,
+                    13.033853605186117
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2654047449792,
+                    13.016587859732587
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2747432811887,
+                    13.032480601352562
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24694306990118,
+                    13.034825556264817
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27008893207231,
+                    13.025475323087127
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27637641901121,
+                    13.018757291150623
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27899444376939,
+                    13.028420005757692
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27634643832012,
+                    13.036522400354613
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26818364267825,
+                    13.021644351259436
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2580146059382,
+                    13.031438966635802
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25732669379744,
+                    13.037701723959302
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25711180976505,
+                    13.023049633164463
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26747605203616,
+                    13.014093357847521
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24642429442022,
+                    13.028729329648348
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26320882726571,
+                    13.020468405527428
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27286229086208,
+                    13.043964694639644
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27480228457775,
+                    13.040748738725663
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25217303949258,
+                    13.019566170919598
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2697119262081,
+                    13.032711092152773
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2588532617594,
+                    13.029722691740783
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25150941575004,
+                    13.027291836198948
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24579762345346,
+                    13.029092480294063
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26194096851971,
+                    13.018230968627236
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26503620095376,
+                    13.033966789189373
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27869706690927,
+                    13.027366197475734
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26267435716314,
+                    13.027351258490906
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25769651431797,
+                    13.02578121355896
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2561843590569,
+                    13.024446996668129
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25433684580018,
+                    13.019623157642451
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27235219533503,
+                    13.02902278470763
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26798565837814,
+                    13.031745051601359
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2778663522437,
+                    13.031379976996622
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24256865874975,
+                    13.030696983484896
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2456208660224,
+                    13.026235405635303
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27012702438608,
+                    13.034505700614686
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25148860518523,
+                    13.034892485268708
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27313032026694,
+                    13.035845201363095
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24371225603744,
+                    13.032212433904327
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25502986582897,
+                    13.029511016111572
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24647382700395,
+                    13.035215078417357
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2757387749717,
+                    13.01949444520302
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25913917441716,
+                    13.019344330904785
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2433513483232,
+                    13.03345314739376
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2780365769903,
+                    13.031201494776242
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25454149929621,
+                    13.019246076103409
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2706084526594,
+                    13.024929145451964
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27553943176173,
+                    13.017556044224559
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27847115143905,
+                    13.023703237916838
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27720728303831,
+                    13.031181397502124
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27184129205769,
+                    13.02724586073825
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26761462685626,
+                    13.037502815727544
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27537586447794,
+                    13.034946125225233
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27517918899471,
+                    13.025274533906082
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27322008060854,
+                    13.026708842311736
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24105916867138,
+                    13.030868979862591
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2634035501162,
+                    13.038032864448155
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27752932912057,
+                    13.045058589896007
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2698707516243,
+                    13.030331040097897
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24568604058771,
+                    13.034708389846042
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26798938340356,
+                    13.032186935792549
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27215192317048,
+                    13.031344558547852
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26933406237632,
+                    13.016180571679403
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2691071234452,
+                    13.042209212968048
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25880622001763,
+                    13.025176712695998
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26656647814168,
+                    13.036326568502798
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2728825547249,
+                    13.037951927333376
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25565306098412,
+                    13.036477611172128
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25843146456022,
+                    13.03615661790678
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26089759063828,
+                    13.021735139180363
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25349332965126,
+                    13.032260954773722
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27681659894087,
+                    13.017569986383522
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2765521966803,
+                    13.015524173103541
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27688737107125,
+                    13.026559590545588
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2767083481423,
+                    13.037700329887945
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26258000885088,
+                    13.01898866757977
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28024826938561,
+                    13.030796630633212
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27856278918736,
+                    13.04442870131093
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26159260319533,
+                    13.016876651754872
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27695611688853,
+                    13.037816381698729
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25342461713558,
+                    13.02816268121047
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27815218294842,
+                    13.04200074503726
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2783216951889,
+                    13.02653783640869
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26270916069221,
+                    13.027009047581888
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26539094229555,
+                    13.029892995834055
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26637409637136,
+                    13.02840395181229
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26974061254286,
+                    13.020812611713248
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25917776318349,
+                    13.021183097701725
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25101650939592,
+                    13.018312545950694
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25006905822751,
+                    13.029906325725847
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27227773217804,
+                    13.018493380616116
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27725172423058,
+                    13.033049381898076
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27269116202544,
+                    13.027503957025925
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26100248035175,
+                    13.038384008501168
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27559931333514,
+                    13.033702621245583
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24960045008065,
+                    13.027125895048139
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27387454543289,
+                    13.01528818324534
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27427014937281,
+                    13.026099376323272
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27317527022018,
+                    13.031763463338665
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.28073513418359,
+                    13.044479955374928
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26430534549601,
+                    13.021858672395537
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24685424275054,
+                    13.02984789905542
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2664461291285,
+                    13.033672542058833
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25858246898174,
+                    13.025733376020709
+                ]
+            },
+            "properties": {
+                "AC_NO": "025",
+                "AC_NAME": "Mylapore",
+                "booth_no": 0
+            }
+        }
+    ]
+}

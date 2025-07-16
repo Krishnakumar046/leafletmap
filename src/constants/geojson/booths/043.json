@@ -1,0 +1,3665 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17274224837668,
+                    12.909651972137384
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09246511877268,
+                    12.930852970176307
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11882103098465,
+                    12.929731042682873
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18666864064602,
+                    12.922733307121101
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13580192910858,
+                    12.932236134623002
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12102138747835,
+                    12.921752621392228
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09408160703819,
+                    12.891460633023799
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12960588790745,
+                    12.937556137668992
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18550769966257,
+                    12.917997982607224
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13189520499907,
+                    12.898806411312822
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1712610209363,
+                    12.943030395362397
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08841118308754,
+                    12.907695403233753
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09391088861634,
+                    12.901087002982454
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11524274343613,
+                    12.910165856340152
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1018647290845,
+                    12.919458867418527
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13250850137366,
+                    12.910991041897777
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13157205515115,
+                    12.934247037599242
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13688714567598,
+                    12.91016867777846
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16579809917832,
+                    12.913848055193796
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19384930639401,
+                    12.938615319079984
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16216899811593,
+                    12.92670111251623
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1757421724063,
+                    12.900636546725314
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18019334269867,
+                    12.94027890883129
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16648566946569,
+                    12.889847937759164
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18480159216956,
+                    12.924132259239169
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14004280824145,
+                    12.916894830667152
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13153058992803,
+                    12.934382289598423
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09037449879163,
+                    12.907471492730073
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11385599803013,
+                    12.935508149644605
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20569044173584,
+                    12.900896667456811
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15630765802018,
+                    12.910658284103016
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17695905991467,
+                    12.936315903989858
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14489256192125,
+                    12.886691737191237
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16805232079093,
+                    12.900853586104052
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19312770138276,
+                    12.902857575973151
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16091748079653,
+                    12.890316167022162
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16135660254578,
+                    12.929531865299111
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19836846537936,
+                    12.941294790824303
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10748526562222,
+                    12.918679403721045
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12924938237623,
+                    12.907180370890929
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14624926692818,
+                    12.894823397505101
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14173988591993,
+                    12.904791529409971
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13201596460075,
+                    12.932277643473219
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17817307466656,
+                    12.906566842334056
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19388479254881,
+                    12.943757922622321
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10494918458758,
+                    12.914831045735223
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1694328606372,
+                    12.949145341741666
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1159344498367,
+                    12.936091580516482
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16909172044811,
+                    12.902612036959207
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17017701006924,
+                    12.952756711288284
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14785471835533,
+                    12.9207418066579
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18321714915666,
+                    12.916958477359934
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.109639798472,
+                    12.913417141146414
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14981997598385,
+                    12.913778464017485
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1332985128486,
+                    12.894637008993751
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17370133071506,
+                    12.918987117981859
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18492646885889,
+                    12.895766805118633
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16818872019255,
+                    12.891342022089317
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11784736323573,
+                    12.915509984355799
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11045788377767,
+                    12.906537275383359
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16171916275397,
+                    12.92368695652624
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1292964699154,
+                    12.898148209751055
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14408188242875,
+                    12.905336355437662
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13251551680679,
+                    12.898151749800844
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1678899488774,
+                    12.943803638192886
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15950704544596,
+                    12.925780590226521
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08656837812946,
+                    12.932540046896952
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.183461205233,
+                    12.948500120581762
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14754857581131,
+                    12.883228389235692
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14042537020012,
+                    12.917786792291878
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18544044348491,
+                    12.882797186406544
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16246002618848,
+                    12.937257108432533
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21419413295457,
+                    12.94967120752243
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12177468660236,
+                    12.917797071906653
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11839124678023,
+                    12.914838718154165
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08713940771382,
+                    12.928368209169555
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1941888763318,
+                    12.902352920312795
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1855812558544,
+                    12.910339540554157
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09416330568239,
+                    12.893874440274192
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0955969764032,
+                    12.8967455107089
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0940754570604,
+                    12.896232119777908
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15547218075143,
+                    12.895249169170283
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12788821718479,
+                    12.905403060975836
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18311608913571,
+                    12.929480710128168
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10362876392396,
+                    12.898293828095369
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1405209980669,
+                    12.89912682024186
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13205087702282,
+                    12.931454605772776
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09288119630591,
+                    12.919499617567894
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15953663850969,
+                    12.91182130924905
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12920715744292,
+                    12.91475827910319
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19023419307808,
+                    12.94583781312105
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13359484376122,
+                    12.907332750567805
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20592116754976,
+                    12.896428614807236
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13429757164172,
+                    12.930778707544164
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16041023144967,
+                    12.923511620356418
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09936230214701,
+                    12.92187899919635
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14036199576252,
+                    12.918146371367298
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1190362423564,
+                    12.920579756469996
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20450884257066,
+                    12.944782189478586
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14910269151277,
+                    12.927245596790218
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10668584090436,
+                    12.913471415651937
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11334478681444,
+                    12.910642382009566
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17139529065632,
+                    12.952099652153853
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0835590134667,
+                    12.91113853433678
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18741971662428,
+                    12.92778750362436
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15547944028428,
+                    12.885457086002939
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15764372729807,
+                    12.915521736956505
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20259841823689,
+                    12.943442586591672
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18893376366721,
+                    12.928465437432562
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12738538876373,
+                    12.898797136289929
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17815394628957,
+                    12.901308603305464
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1382541791187,
+                    12.922637710636577
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18438870366042,
+                    12.90783007240312
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10765497601221,
+                    12.92105079270908
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18286355740952,
+                    12.932372798667517
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13649568269472,
+                    12.895161776027425
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20760123073178,
+                    12.89656482544962
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12751091899159,
+                    12.923940321887702
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15360937006692,
+                    12.902426546663206
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14192936417943,
+                    12.886928078716542
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11977813693368,
+                    12.929110184626644
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18227412878072,
+                    12.94229275154438
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13330017419547,
+                    12.916149128209497
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08285680945212,
+                    12.933757059926284
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12708912291576,
+                    12.901081914499871
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12083905065981,
+                    12.926878322165281
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.2047229800777,
+                    12.89060377222308
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20420140780598,
+                    12.899641912465839
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17000347656582,
+                    12.885257192423687
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15574515543169,
+                    12.918440634484684
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14945849750097,
+                    12.89160059556105
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13124576615017,
+                    12.898551319641825
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14499915639415,
+                    12.938630667008585
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10253098501703,
+                    12.895183681486731
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08738783881003,
+                    12.927241603373195
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09263058574939,
+                    12.932034568878507
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14674902967309,
+                    12.925718540111761
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19775859187052,
+                    12.897923248893463
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19121219882877,
+                    12.937259590333683
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18892572427993,
+                    12.94463356646603
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12968806031594,
+                    12.896469748261408
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17803184871862,
+                    12.91128076158563
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10493686587881,
+                    12.903187390904417
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11627967040405,
+                    12.905926244043313
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14319846779753,
+                    12.899252521116402
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19206627780696,
+                    12.904521840669775
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15838898568886,
+                    12.902098083509763
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15365359288892,
+                    12.91820090638741
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11517330295324,
+                    12.93273504397314
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17345087621743,
+                    12.894978427535088
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14949778449243,
+                    12.896835777886444
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1300279462866,
+                    12.924480203654145
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08188326147176,
+                    12.912826424519015
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1843877021879,
+                    12.92599255683873
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.2064449666466,
+                    12.948585300726439
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15430087534082,
+                    12.918537836158881
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09254346047943,
+                    12.929024842395306
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20358474383737,
+                    12.89929534408609
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1848899023139,
+                    12.888947177019258
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11499464580574,
+                    12.904017597577157
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16230516739651,
+                    12.911990866034552
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15770221544274,
+                    12.911990981470582
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10638525378246,
+                    12.906047120406907
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08555580669753,
+                    12.908199529294741
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1762764870061,
+                    12.931718717688195
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14246433015316,
+                    12.914811557678231
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08308068332964,
+                    12.908907456259879
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17858668418579,
+                    12.938842834368204
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1436725483858,
+                    12.883908523397796
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1348245406412,
+                    12.936945605033918
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18002996309751,
+                    12.88517582210484
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21265801215894,
+                    12.942559979137608
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13539946210203,
+                    12.895685203269519
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1342187011804,
+                    12.928881589551708
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16580960896003,
+                    12.93341188343671
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16231685895245,
+                    12.908224948165158
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13602710548962,
+                    12.912451613606422
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19945208256323,
+                    12.896571625064052
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14832289260859,
+                    12.919492632936448
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11575417428152,
+                    12.932734426833449
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19014447956826,
+                    12.922990044210067
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12507584072452,
+                    12.914057933580754
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08857119953103,
+                    12.911873510921431
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12729615860727,
+                    12.91272403089755
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1587655104467,
+                    12.916140154512336
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10564398226443,
+                    12.91396907754857
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18860982891188,
+                    12.938160531234741
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14199878296378,
+                    12.887775191030727
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13257847516348,
+                    12.897006869110847
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10061054785656,
+                    12.893631255781147
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1621943098478,
+                    12.932013047378348
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14191713414768,
+                    12.91086494503865
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17658525925803,
+                    12.949001069008704
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12595387144226,
+                    12.93699356209826
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11821560549853,
+                    12.928239827292453
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18989240377852,
+                    12.91122530719127
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16715339603378,
+                    12.901244012335479
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10724664817546,
+                    12.904103093072491
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15315246022638,
+                    12.917353822148835
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16078717472374,
+                    12.945601247683573
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15145145752335,
+                    12.921694809437712
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10554806079604,
+                    12.901321375378775
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19060096807665,
+                    12.938709248658725
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1492874414984,
+                    12.930138836100337
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19726665521367,
+                    12.948785353279685
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1122721639382,
+                    12.906330613201433
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21085023545872,
+                    12.949146710825808
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16534334426575,
+                    12.894071704388002
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16501246984078,
+                    12.93736601301357
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13677327537012,
+                    12.883598529639661
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12545595384458,
+                    12.910124218619563
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09858521871065,
+                    12.909534367206938
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18979106681404,
+                    12.910846103271348
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1263125276815,
+                    12.907134261360603
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16158117104135,
+                    12.91779280650734
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14909321515373,
+                    12.92624958618536
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17662021021182,
+                    12.89228341144261
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.148481339623,
+                    12.888186382810787
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18414650808226,
+                    12.929047375537161
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.166214157854,
+                    12.90928208762477
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13729904418295,
+                    12.916968687861527
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13200002983632,
+                    12.886900704976034
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15912951266398,
+                    12.90373922935156
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17492424130421,
+                    12.924119962766323
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10507070015531,
+                    12.920827361287376
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13692734729793,
+                    12.916436654295234
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15567984905745,
+                    12.891977466632392
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11746740686849,
+                    12.923382462493613
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19173041503194,
+                    12.945490018158978
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13912570939071,
+                    12.91911947022991
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16997922742286,
+                    12.918204498867897
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10795019026007,
+                    12.91825208106279
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13098624849903,
+                    12.917409886767638
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1875906587052,
+                    12.937463730151014
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18623718693273,
+                    12.944829518221018
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17288626630291,
+                    12.947565217679056
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16122455273873,
+                    12.934079573552959
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13993256436873,
+                    12.934391433840052
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16881656126455,
+                    12.896179818792426
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11098888300403,
+                    12.92516543207225
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16821236600285,
+                    12.952252162489025
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10397322760912,
+                    12.922228021996377
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14374079830712,
+                    12.900538672449336
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17274224837668,
+                    12.909651972137384
+                ]
+            },
+            "properties": {
+                "AC_NO": "043",
+                "AC_NAME": "Vellore",
+                "booth_no": 0
+            }
+        }
+    ]
+}

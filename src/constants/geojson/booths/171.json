@@ -1,0 +1,4355 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40332861035499,
+                    10.903866100500366
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39515642297161,
+                    11.042679266857329
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4036016655137,
+                    10.925152662988644
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38798852988208,
+                    11.00874137962687
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.320204749165,
+                    11.011057029624565
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40295465569454,
+                    11.000605465577284
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34966025813307,
+                    10.937000372673907
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35109954638135,
+                    11.033997928025824
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37595177679655,
+                    10.989867238764464
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35749153044192,
+                    11.026756778031215
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39466229528135,
+                    10.993446234559817
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36925376993071,
+                    10.954665673346042
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39479552284708,
+                    10.937861450188379
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33242483151672,
+                    10.98488486326599
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36122927862807,
+                    10.899855558271717
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38771580831187,
+                    10.985671097944266
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40384412766076,
+                    10.958570969530433
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37911903194617,
+                    10.945467710654688
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38985581283542,
+                    11.061457436254258
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43169124277749,
+                    10.964061251275877
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37754679087915,
+                    10.957706529358614
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40733451975728,
+                    10.912080232379239
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40430284539165,
+                    10.955018875432494
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38213888938941,
+                    10.985320224218139
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36710317445298,
+                    10.91442822885263
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33899381210583,
+                    10.922507863213278
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38871476574138,
+                    11.039379312245288
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40784318147587,
+                    10.967210463093545
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36397092639187,
+                    10.945152132092453
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39237253441635,
+                    10.931416384546566
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36452743641655,
+                    10.984438121290335
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40104717718529,
+                    11.025061023877926
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3754165424846,
+                    11.040374557549177
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38469858797887,
+                    10.98316821562053
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42708226633353,
+                    10.95857141593074
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36673189287175,
+                    10.983475775903745
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.32344440430857,
+                    11.008061073706665
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34375731290199,
+                    10.921341101749833
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3604108190629,
+                    11.007465458971387
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3615483570766,
+                    11.032272621023106
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38774294976959,
+                    10.965496761895528
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35859412649795,
+                    10.993420358788681
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3785453831905,
+                    10.952549993524913
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4073269392299,
+                    10.990396398174077
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38266713117427,
+                    10.920736444081395
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35328011233884,
+                    11.00035348663862
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40532429585704,
+                    11.002970602622161
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36335456416535,
+                    10.89901166070558
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33283336981177,
+                    10.98427473795354
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34691181598261,
+                    10.983180192467138
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36095924312178,
+                    10.995034472400391
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35704152539626,
+                    10.957930258795727
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3745225225634,
+                    10.95094216204354
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3544998245211,
+                    10.905325404398866
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39760888475273,
+                    10.967035221709638
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.31503704174112,
+                    11.019612647522205
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4041351766968,
+                    10.97062484472098
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37009491481875,
+                    11.043224522925925
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3921648664885,
+                    10.978823484082438
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35901256005873,
+                    11.041583022885943
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36176755042133,
+                    10.931125652279734
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39881056722824,
+                    11.016719301042514
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38371803748497,
+                    11.039357105661749
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39251195514777,
+                    11.004473030500424
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38357311957776,
+                    10.952477881458861
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38969552467593,
+                    10.99513119696473
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37483561515644,
+                    10.921566823909489
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3726875519239,
+                    11.008295007041514
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36346965174837,
+                    10.999534387482752
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35561244535636,
+                    11.013251855347988
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33828727955526,
+                    11.003409141787124
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38486173915354,
+                    11.01764662047852
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41118961023257,
+                    11.054057508486714
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38284345575828,
+                    11.035699547629132
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3715938925332,
+                    10.951707778391404
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41555156932922,
+                    10.95563889680412
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40769677835223,
+                    11.056318128572059
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36615714000388,
+                    11.014674640433604
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40767078423033,
+                    10.912005061490452
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34791739832859,
+                    11.034480110579173
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38042024153596,
+                    11.050864689128584
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39874473665628,
+                    10.93188511534043
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38495755455065,
+                    10.918274869467199
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38960116566618,
+                    10.988433956989397
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39800608319956,
+                    11.03181905988586
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4001586210605,
+                    10.969543688729571
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39888690101489,
+                    11.03198451474561
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36984137455532,
+                    10.895120203363497
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36758180986142,
+                    10.971658388321186
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41302373559894,
+                    10.925132795337872
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39784731104538,
+                    10.921930038379827
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39518927040642,
+                    11.042615238854228
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37251710988956,
+                    10.933515566635872
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.32255580847787,
+                    11.009705335065732
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4018845734182,
+                    10.941929669211305
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38487864203857,
+                    10.903451348289279
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40055776839218,
+                    11.00838811387803
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38335532620975,
+                    10.969815803001287
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3752072861404,
+                    10.899347399735259
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37217896207909,
+                    10.982236374201205
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38158936669176,
+                    11.02013790939475
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39949605622505,
+                    10.954982526249042
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36679574002916,
+                    11.001885525496157
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34211643247978,
+                    10.996412789091933
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3668566665814,
+                    11.001003265874758
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39371607089299,
+                    10.977545191019031
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35640732609593,
+                    10.950335970881168
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39608495710134,
+                    10.901901453154009
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38387126978259,
+                    11.019299959929702
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40537920551678,
+                    10.910095571180833
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41058205383185,
+                    10.953423864923389
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38467623415556,
+                    10.970649266673016
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41400590504232,
+                    11.029423301731864
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40176446963574,
+                    10.95732629384872
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36548557764331,
+                    10.993187206933158
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33893011854121,
+                    11.020203106872644
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34366278302305,
+                    10.935919201697834
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3842115091969,
+                    10.932591159971878
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41531050738526,
+                    11.047891846801765
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38485916977218,
+                    10.908162147322434
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.32986863164449,
+                    11.01729744638243
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39732734420947,
+                    10.938110666023777
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3728309579516,
+                    10.903704430682017
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38987519488369,
+                    10.984261639163371
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41040702985434,
+                    11.003779866200254
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36450379924877,
+                    10.919338320124378
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3871186820271,
+                    11.025824018327233
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40225999224286,
+                    11.04477953782487
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35091499258809,
+                    10.932277491834663
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40156695157759,
+                    10.923492562104098
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37411583859556,
+                    10.930194524437502
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34935690296068,
+                    10.910929672861073
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4073009861122,
+                    10.963847840629999
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41268475748501,
+                    10.911523982802331
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38841196922425,
+                    10.953540723542426
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38274544508432,
+                    10.908616766356124
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36769441498753,
+                    10.966468384645514
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38601445626331,
+                    10.910472669238827
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3660630317784,
+                    10.937948169922068
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40818755295535,
+                    10.94811049705642
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33134932641671,
+                    10.91587255590925
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39502989803073,
+                    10.913977246367976
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35362642421126,
+                    10.907395832747818
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38838979767384,
+                    10.919688681195668
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35940196728562,
+                    10.955246765745555
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38395745907245,
+                    10.983081803467359
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3625441892142,
+                    10.962451239861057
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40226739347568,
+                    11.009028697899385
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38340433101544,
+                    11.005254474387998
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36452419871962,
+                    10.947478433947316
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39342261078882,
+                    10.928374531605034
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39133311314326,
+                    10.944313368860744
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37796274257433,
+                    11.031057578051046
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37244153737889,
+                    11.011453125265305
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.31651394511198,
+                    11.020526796157126
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35803076984175,
+                    11.042644665611434
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39172586959273,
+                    10.934787892022277
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38546126194366,
+                    11.005191822297046
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40905985470009,
+                    11.02767017001408
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40594673890473,
+                    11.048022855539456
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41635905714543,
+                    10.912970252281694
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43451507148117,
+                    10.965624997647556
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36129205591523,
+                    10.974554602388547
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34368264249738,
+                    10.919242690994217
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34227424450962,
+                    10.992015526887064
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38110635371177,
+                    10.913349385132271
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34150228262858,
+                    10.978998726465969
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33711504292668,
+                    11.001493145348073
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34811646488387,
+                    10.921197892502274
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35411091436993,
+                    10.90724729581985
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40398188129143,
+                    11.041025740732058
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33783930788678,
+                    11.017528848107569
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35721222868972,
+                    10.924046104025066
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33740944686744,
+                    10.99145588717948
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41856048167053,
+                    10.9280715487236
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.32552497130783,
+                    11.026386957044046
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35320019272497,
+                    10.91054316872224
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34888465208313,
+                    11.011402342456389
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3605684278152,
+                    10.963879398867542
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37038077990435,
+                    10.947342207416899
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39728939313733,
+                    10.994546868735236
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35543461252153,
+                    10.907659051834518
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38830189077753,
+                    10.963280954786729
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33142933643188,
+                    10.997839294011287
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34860243807665,
+                    10.934257886750405
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40287267834974,
+                    10.931871513882937
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38215949817013,
+                    10.963759591500585
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38501907627246,
+                    11.034486486995533
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37142859098847,
+                    11.010047829241405
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39666597975253,
+                    10.962612982867643
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36120520932694,
+                    10.961198116841786
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3638881594732,
+                    10.907636966976511
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37018647987769,
+                    10.934642892485765
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40129839463822,
+                    11.02059044249217
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38842796407259,
+                    11.05810018956083
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35936862851229,
+                    10.931128494336727
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39394533249613,
+                    10.990109934309343
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38629303779864,
+                    10.949226563507418
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36963896437373,
+                    10.90269645481024
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38474094715212,
+                    11.024540600478261
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39477762088787,
+                    10.980770493729025
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3987138530461,
+                    10.899349018421535
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36418869707781,
+                    11.047458032125899
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36559570464611,
+                    11.005564354949113
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3831772938126,
+                    10.94114931051763
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37202752319392,
+                    10.998850555932655
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36723512188333,
+                    10.976614940145605
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36733358831697,
+                    10.957201522781203
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38592002857095,
+                    10.968493199267012
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33748675457197,
+                    10.914590680589086
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40596640443849,
+                    10.98659481360974
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39063410849238,
+                    11.035165026638683
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37936387191264,
+                    11.007884489486965
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36135980273144,
+                    10.962674130020602
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41296948838774,
+                    10.899058565894054
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40404311340585,
+                    11.048235990324239
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41112342516293,
+                    10.899286620810383
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38743731592635,
+                    10.946719039942668
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36683052052089,
+                    11.00041860116804
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40310485856646,
+                    10.94256711485453
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.31635878817332,
+                    11.016303436969231
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39790018247838,
+                    10.931797113646057
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4147983694471,
+                    10.908956279311385
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34329518684298,
+                    10.981472875566455
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38964854240521,
+                    10.997620651295115
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39323658906586,
+                    11.043603809447887
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40256411335564,
+                    10.992009644501413
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38415380276376,
+                    11.052452922528227
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39153097027277,
+                    11.05411304143412
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34484954847638,
+                    11.012153148763826
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33644379306301,
+                    11.032235760585356
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36347459747653,
+                    11.033228298058058
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38965899349657,
+                    10.99610969183737
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3828235402374,
+                    10.961183226678259
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36013079977084,
+                    11.009885206209256
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33700024543847,
+                    11.022689331366273
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3754894481987,
+                    10.917348566301529
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3273303036424,
+                    11.007582341781543
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37155216177158,
+                    10.904833857050429
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39026662750821,
+                    10.964983368324312
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33454066168723,
+                    11.018364137775023
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35728526389514,
+                    10.964525536146196
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34324528456719,
+                    11.033789413921303
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.31766310439947,
+                    11.019110523238995
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3359487919733,
+                    10.92057703592081
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37935880926099,
+                    11.02645392619566
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39839661808979,
+                    11.035242734110957
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3473997491205,
+                    10.936132998801767
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33426159403334,
+                    10.99014831827446
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41274859695802,
+                    11.005807521856266
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33177458147296,
+                    10.917759551059417
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39335869059988,
+                    11.011895951800655
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41077403195095,
+                    10.92101190701731
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38054878907953,
+                    10.959898559383259
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40940911186613,
+                    11.027671041540417
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34445789325288,
+                    11.011079994647005
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40735014372548,
+                    11.050124432879706
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38323127950605,
+                    11.012359607251009
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3987333027052,
+                    10.9898402317482
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.3668619865255,
+                    11.004070266268094
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38041356155635,
+                    10.920159286505953
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41072871961569,
+                    11.007062050815765
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36211347238847,
+                    11.030703266565084
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36654940768267,
+                    10.981629192387466
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40320826960593,
+                    10.945469634867358
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38108360691243,
+                    11.03908012142826
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36892403113136,
+                    10.960646096678873
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38895018005068,
+                    10.90158147918486
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37919820408231,
+                    10.990455511253545
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42023178145354,
+                    10.959343609339326
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39152809670512,
+                    11.029081194890983
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33317040265564,
+                    10.990087120546578
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39015917483121,
+                    10.98015829174739
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39606491237174,
+                    10.975065331905407
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4417692341192,
+                    10.975598307571378
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38167045601318,
+                    11.056724952169851
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38965612201345,
+                    10.982040774917357
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38887711379915,
+                    11.005256823279838
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41178459965332,
+                    11.050309831224931
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35253779771871,
+                    11.035744575568655
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.38310643459101,
+                    11.052411614358261
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.33460292495008,
+                    10.980161001600091
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39003353267674,
+                    10.923757069121502
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40576628491917,
+                    11.046434423318187
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.34216852470037,
+                    11.020433629565655
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39467546683373,
+                    10.913641892373494
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.37113645115785,
+                    11.037232926639561
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36409135411287,
+                    10.938430826336376
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.36390246156722,
+                    11.04708370827509
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40332861035499,
+                    10.903866100500366
+                ]
+            },
+            "properties": {
+                "AC_NO": "171",
+                "AC_NAME": "Kumbakonam",
+                "booth_no": 0
+            }
+        }
+    ]
+}

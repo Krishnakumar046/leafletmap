@@ -1,0 +1,3425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7286012398793,
+                    10.54426223663435
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84161113988677,
+                    10.310655006763524
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8215358328367,
+                    10.43187055876752
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74977629972797,
+                    10.432882795472814
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74278746305026,
+                    10.479324371934283
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6989057301176,
+                    10.478433613844729
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68991956627397,
+                    10.34980394483424
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85497280663971,
+                    10.368871514186443
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65910047793525,
+                    10.377425150991884
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78114496621784,
+                    10.54478580667151
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75700924101223,
+                    10.388989349447076
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76173160087241,
+                    10.369810723200734
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75175554702116,
+                    10.400992755708154
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64714338238598,
+                    10.378414495348839
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69087771642415,
+                    10.408406728909215
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81793421863047,
+                    10.497586829931548
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82561561320114,
+                    10.405995836259255
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74175695412588,
+                    10.369031021256026
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7211248600227,
+                    10.562659102437676
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83257504852423,
+                    10.475527408755513
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79119349079411,
+                    10.4738885340532
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73358567206681,
+                    10.309010588764744
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.822864704975,
+                    10.431963905908733
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83554737884398,
+                    10.375571384174076
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74571392623189,
+                    10.333839036223964
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79500826153819,
+                    10.32659999557174
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8305418628237,
+                    10.513827403358288
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81762161521804,
+                    10.338743397263622
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82500733953006,
+                    10.38109970843807
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82672264030843,
+                    10.417644763821887
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71309745924906,
+                    10.450291566833375
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76497800776842,
+                    10.452592696292742
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8135132577945,
+                    10.276767432197666
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83683314606297,
+                    10.390510353860131
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73076545541487,
+                    10.58862813335968
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7037023543641,
+                    10.512404163965154
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85908860913875,
+                    10.320032930078352
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81406897132368,
+                    10.486584696302959
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68065819396682,
+                    10.575449038087239
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86951938498406,
+                    10.347742297752744
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7244761842822,
+                    10.47009794496722
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73622858928938,
+                    10.334505804049456
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65877326924097,
+                    10.368680646034369
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8625680663589,
+                    10.376490540908955
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8107729771386,
+                    10.288533404122823
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71027635916523,
+                    10.28813582084369
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85212865932716,
+                    10.410973116281673
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80255185700992,
+                    10.5076131464319
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74665252275865,
+                    10.405577720068315
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78211025603609,
+                    10.456487364106025
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85123036310362,
+                    10.471528793548629
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6996968219416,
+                    10.316152339584063
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69461131532128,
+                    10.452464072937621
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81697351870048,
+                    10.358722472840226
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74219571373958,
+                    10.579905233918684
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81410032640359,
+                    10.312532690428723
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71730585382468,
+                    10.588900836009213
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8077008846987,
+                    10.442382339290324
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75957847665238,
+                    10.343704145233671
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77129181927353,
+                    10.345147368317743
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7173948252412,
+                    10.526719052886376
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84589532542473,
+                    10.480712176310202
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82616848614502,
+                    10.325878119518219
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8378647150322,
+                    10.36652486968928
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68349518247527,
+                    10.398337252594207
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73229423252936,
+                    10.361486656011987
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72010519905885,
+                    10.493143748817834
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75536890756716,
+                    10.447718187169853
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.725017345137,
+                    10.423186046338053
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69265772098358,
+                    10.575694992345682
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70449887578701,
+                    10.588911672937972
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66568864858247,
+                    10.34766179123253
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78130936089036,
+                    10.472155140562082
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7507483898193,
+                    10.561884364686849
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64504996279396,
+                    10.447304204164421
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85058579611797,
+                    10.34178711738926
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80469643341944,
+                    10.529881865425672
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83833056836338,
+                    10.336031826828147
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74902820527701,
+                    10.562942084397815
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64946984718257,
+                    10.382084022676695
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87184110352447,
+                    10.348827494789468
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73532420528352,
+                    10.402372078570538
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68825253460145,
+                    10.438961752718557
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8163428884189,
+                    10.491794552765244
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77619312334878,
+                    10.354484394365473
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82651400112576,
+                    10.363526654901472
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76731509713566,
+                    10.561493049112046
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81160544609143,
+                    10.291885298211534
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.690155482805,
+                    10.588229147539511
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81822715948618,
+                    10.284991953866877
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83052075351775,
+                    10.335758657021493
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80534265023319,
+                    10.370374388265914
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84912693815772,
+                    10.518635261990397
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76687530887232,
+                    10.550544378447803
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80375592570132,
+                    10.374065803475288
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76498835221506,
+                    10.555818992964424
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75855553132138,
+                    10.570154535467069
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76067588032123,
+                    10.325941656561373
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77870103373151,
+                    10.378316543867443
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63631863404636,
+                    10.43486145661808
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7574798748729,
+                    10.299092165787746
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7869715937189,
+                    10.341228859009005
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83194172964669,
+                    10.507646876912519
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71133503364847,
+                    10.418038268902116
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69732484289389,
+                    10.383808529259804
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72344085238481,
+                    10.508410037961495
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68443280195012,
+                    10.399545396417457
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77917552448199,
+                    10.280268307177334
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85205889524622,
+                    10.521142817448714
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72236595097175,
+                    10.548209677265348
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78969554585171,
+                    10.406733130384058
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82879240264411,
+                    10.397784260398641
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79580248680685,
+                    10.52903983398326
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76280804233247,
+                    10.320249699598712
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82870083167643,
+                    10.452623529703057
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72935552480219,
+                    10.476274968830035
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75079941492771,
+                    10.488133528056881
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77907858973262,
+                    10.488954381862476
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78087244539618,
+                    10.38807420909308
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77424618424222,
+                    10.466030115085369
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71079641111622,
+                    10.350984471680277
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80493122137072,
+                    10.353428106951123
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8067966085678,
+                    10.321415959042275
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85536816741157,
+                    10.393680460706772
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8128381082454,
+                    10.43889755806755
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8595986495777,
+                    10.496087699604187
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79258780427918,
+                    10.315413430486082
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82856583771894,
+                    10.357583976429883
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72672365394179,
+                    10.341682219457926
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69779933149253,
+                    10.423412217294961
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81727982446824,
+                    10.394781327710994
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85567754014593,
+                    10.285988529278386
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80512530921992,
+                    10.342944342967204
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85244293322391,
+                    10.290531087198515
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7724071457886,
+                    10.48100600379771
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81935945052447,
+                    10.348947154838182
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66359099629267,
+                    10.34655713638546
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69385722345807,
+                    10.580121588028376
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67258749799952,
+                    10.402884997565714
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69229008406403,
+                    10.510328041010444
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80769814139067,
+                    10.282951357880565
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7641119617861,
+                    10.275614504566791
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69568380765514,
+                    10.504080149417193
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72266689772377,
+                    10.28378445520953
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84208852087455,
+                    10.394085816393265
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75362096402996,
+                    10.322514317865368
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74837742554726,
+                    10.341547453007667
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81226748608465,
+                    10.49545148581016
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66064454430264,
+                    10.367892159420277
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79540262507977,
+                    10.484570577148302
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65232137557344,
+                    10.427939468789528
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7975686817318,
+                    10.419667616243846
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83924524001517,
+                    10.405595025127552
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79035806780803,
+                    10.47287071841148
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64741562984732,
+                    10.35820931574028
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72193600452738,
+                    10.51084054741424
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78826790768,
+                    10.525214364818552
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64663986763706,
+                    10.36447054942714
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81431145988763,
+                    10.306984363297312
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82391091335026,
+                    10.31630873152073
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80617934381819,
+                    10.368283701840202
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74077929728983,
+                    10.46726156457747
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81241090071629,
+                    10.447332756181606
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69809230113695,
+                    10.4792728766168
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72274290558028,
+                    10.338584628603357
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78053054021522,
+                    10.276145875786758
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73966724530213,
+                    10.401830066268024
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83803367379042,
+                    10.331162727007664
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82812632957072,
+                    10.414841480802966
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80405482351792,
+                    10.32599116662376
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75827701310642,
+                    10.403865179800528
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75522717170857,
+                    10.418497930139113
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81249658937917,
+                    10.403568319662115
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85031135077492,
+                    10.541139542233541
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79302495577045,
+                    10.515985076853424
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80098374503169,
+                    10.29843152512941
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77164977195505,
+                    10.467874223748732
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85316869039151,
+                    10.32500706488072
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69042152138114,
+                    10.412648346861891
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70810250752837,
+                    10.3526454807855
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75739919270005,
+                    10.481143614805326
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80309426619384,
+                    10.46158029060842
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83313266817842,
+                    10.46643850176727
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74533280032726,
+                    10.45041075699739
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69458376988314,
+                    10.576626535657283
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8078278774392,
+                    10.29671005590162
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7460964350459,
+                    10.403120058616832
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75634992741104,
+                    10.488074629832733
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66539612222249,
+                    10.360400305779354
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77804256092827,
+                    10.280964698468209
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70683630230928,
+                    10.518613281769952
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68046438648697,
+                    10.388595576315522
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80482490780477,
+                    10.319230844049924
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8220852858348,
+                    10.332053949419794
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80115585688088,
+                    10.483856873974787
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67059282006397,
+                    10.427920439122897
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82605673890849,
+                    10.485463931473573
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74000720401855,
+                    10.426291621201548
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72782825337256,
+                    10.570314847547376
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7636181058187,
+                    10.488136560143147
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79386040435124,
+                    10.390244083012535
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86378320648666,
+                    10.395916054153005
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73642129023412,
+                    10.320214581673358
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63883458803775,
+                    10.444599278800396
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76705772964705,
+                    10.48534543700746
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80817651495917,
+                    10.35576571292878
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8617613747288,
+                    10.370953684276987
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74595602817139,
+                    10.41979878620947
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84583874477389,
+                    10.50458591501268
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82945447567184,
+                    10.311772630076204
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78974536611844,
+                    10.397845241540846
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69754907847256,
+                    10.413561045080165
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84288147972177,
+                    10.371647350176413
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80347014094814,
+                    10.533788483085393
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72857900461278,
+                    10.425134439905449
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74917438854888,
+                    10.389223079673767
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83154965289114,
+                    10.379264834925609
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79666021111544,
+                    10.556952105842067
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84717725933268,
+                    10.404672695215016
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72667473347119,
+                    10.375902783614437
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69903688677519,
+                    10.429183537921942
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68593546384447,
+                    10.558789865176594
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68757631346992,
+                    10.33616067590904
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76997774806554,
+                    10.549526356716795
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85829359141799,
+                    10.450801578794081
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76703830820382,
+                    10.48118944261191
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7487726712668,
+                    10.46533695703016
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7286012398793,
+                    10.54426223663435
+                ]
+            },
+            "properties": {
+                "AC_NO": "165",
+                "AC_NAME": "Vedaranyam",
+                "booth_no": 0
+            }
+        }
+    ]
+}

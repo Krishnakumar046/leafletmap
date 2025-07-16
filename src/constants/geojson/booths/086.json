@@ -1,0 +1,4835 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76578619539444,
+                    11.595997499410402
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88268353511891,
+                    11.54793223409589
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90461014560158,
+                    11.580142781829895
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94134798975625,
+                    11.664977893198492
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82944527758029,
+                    11.633339298978314
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86205166781507,
+                    11.748120940599877
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85389029037748,
+                    11.706131709309942
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85361354215138,
+                    11.689511287096261
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85402492676293,
+                    11.53307237712097
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87606530985654,
+                    11.546773302101055
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89788176559604,
+                    11.78539141121341
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82795847618702,
+                    11.657394904077119
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7597034987687,
+                    11.62490698069566
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74455534623284,
+                    11.582485268979932
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89692327941184,
+                    11.665507517592431
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89043429089352,
+                    11.549314720671443
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87317889486147,
+                    11.583290260144024
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74048497556554,
+                    11.592141194942608
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.77306506796407,
+                    11.598865786458463
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78733904153907,
+                    11.715902581579742
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88574057775358,
+                    11.58891723609301
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86186967101327,
+                    11.580846174726894
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86321301776132,
+                    11.622555714566172
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76029825384097,
+                    11.645282379311542
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9210476287021,
+                    11.736307633752567
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80887461893929,
+                    11.654849297892595
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86750526930875,
+                    11.636926211029284
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90094944280403,
+                    11.656214201113519
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84720981131773,
+                    11.675070134237572
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90412852469274,
+                    11.651332288596926
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92409346209375,
+                    11.594697678254114
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91558115194546,
+                    11.764109506641084
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94681862263576,
+                    11.579389303718077
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84344668971073,
+                    11.625529710903647
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90976585425521,
+                    11.60005356627594
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86034063034307,
+                    11.647221561709369
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87520289808626,
+                    11.583551829491537
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87883345275792,
+                    11.553804671170322
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84888944730345,
+                    11.549430224840878
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91274934342147,
+                    11.63445820269168
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85748844176743,
+                    11.570844656491246
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89475358785285,
+                    11.64320862220159
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86751325161187,
+                    11.790702494386329
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75352997533004,
+                    11.618329176464659
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79227833884399,
+                    11.633550875002225
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87333090535306,
+                    11.675579981780716
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95082419593813,
+                    11.583852041659526
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79941384534425,
+                    11.620751016939021
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90477386124547,
+                    11.56057179131302
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78267092055435,
+                    11.605797915304892
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91990322188109,
+                    11.58082580470038
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86902557062443,
+                    11.630727729388026
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78386008130533,
+                    11.610974696844485
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86305506541638,
+                    11.529986044921172
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89350257010922,
+                    11.594530246218085
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89935301340955,
+                    11.700100340313666
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89450041354755,
+                    11.64398846672017
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92475796846166,
+                    11.72989975755671
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84008562737219,
+                    11.594921080054508
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87114867334216,
+                    11.6884556368091
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80611042367217,
+                    11.67846409485285
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85437543836358,
+                    11.550647900633317
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90514542125206,
+                    11.796138283226817
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9365440267528,
+                    11.573489251806691
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80840231047074,
+                    11.627332002952123
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80281555610338,
+                    11.734031936285133
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9069206130368,
+                    11.78117594827079
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88668118087594,
+                    11.759503862453471
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90497105702877,
+                    11.60126512636519
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81760601383968,
+                    11.68353905783352
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85278711593396,
+                    11.69316357868066
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80056279866551,
+                    11.750939094195985
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7748698560373,
+                    11.614193192014175
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84819592224962,
+                    11.7491899790411
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88726006284416,
+                    11.565102544501414
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79524712439844,
+                    11.67056482220142
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90664318621928,
+                    11.647510784580103
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93508731005856,
+                    11.752800677639295
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80196441383944,
+                    11.752823856280813
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78885705903586,
+                    11.693294586966008
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9461473136063,
+                    11.58337993551252
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91723923562584,
+                    11.560795484551406
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90386513953528,
+                    11.72131022461134
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84060110393771,
+                    11.535422996195198
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88736370167494,
+                    11.746474322748762
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81040048916275,
+                    11.679256151814261
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90736102383836,
+                    11.651214534798829
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76782699478768,
+                    11.649963984149933
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90918417379552,
+                    11.651735359523343
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88444788171279,
+                    11.571561311913326
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85649834631536,
+                    11.588051019046173
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87225372303882,
+                    11.784312399053523
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88158532273813,
+                    11.745746263706769
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8998923422555,
+                    11.655468710454363
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93689301821004,
+                    11.573796996404528
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82460890763062,
+                    11.675070424143193
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84538443400527,
+                    11.695199540824847
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85116175253488,
+                    11.684954115259965
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7638579733338,
+                    11.631869231404314
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85335794027921,
+                    11.694627693393075
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86031347408638,
+                    11.632164797496413
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87436412804126,
+                    11.594894820609415
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82379886451314,
+                    11.698394356051399
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85791962000502,
+                    11.65524527739298
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90588679723164,
+                    11.574179891017291
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8281697778967,
+                    11.60980632265937
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82216115710676,
+                    11.673558405233102
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92667879991615,
+                    11.72961303815794
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81959491065804,
+                    11.725025219641601
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85309928541879,
+                    11.635360001624695
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89127527600638,
+                    11.77660474307039
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8394902027083,
+                    11.728249558421984
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82874223962088,
+                    11.62767815643215
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91212766991,
+                    11.535854929158715
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85744913426443,
+                    11.719514504909988
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87730667649706,
+                    11.680154609657595
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95121232500364,
+                    11.617047572766516
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80531776863562,
+                    11.61981959707439
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85296034740647,
+                    11.558145196555275
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93497959804729,
+                    11.732160770802691
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88035146689295,
+                    11.531539230697735
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88259601013974,
+                    11.640614420703942
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86979120731321,
+                    11.746352308768909
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88396426961658,
+                    11.602344464251804
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84852143487541,
+                    11.598991868826415
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89094046876038,
+                    11.729513983593613
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82594478506543,
+                    11.586164823767824
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79294355579312,
+                    11.676692899636942
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81992494214295,
+                    11.726256189383623
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78527761344029,
+                    11.653105836995147
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80309182088975,
+                    11.67408891420732
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82551506914479,
+                    11.647983668678489
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82180529350667,
+                    11.641677741084594
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82250462848125,
+                    11.623541789187387
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85588579216397,
+                    11.601319025600407
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8970028404361,
+                    11.781986462337318
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8312071129833,
+                    11.683849338370077
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85112087888402,
+                    11.553950418033399
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79476383878618,
+                    11.716435222390016
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81209911608812,
+                    11.60800835040608
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89040415339929,
+                    11.766632291387243
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85606954832457,
+                    11.643030134784912
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7516060642898,
+                    11.608933431468415
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90582443375892,
+                    11.63843841309963
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83125251406626,
+                    11.628804353563249
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93027800912783,
+                    11.645581376818821
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78769737791418,
+                    11.718128894879774
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82365866905609,
+                    11.713942990989487
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8240677278723,
+                    11.568249674263434
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74792177684292,
+                    11.588772356419058
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84995177472015,
+                    11.654270975993382
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9020797836428,
+                    11.713467056901356
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91963822966437,
+                    11.765870974782429
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90708625768048,
+                    11.540253271144708
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81870514084368,
+                    11.636333598170827
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79355671857897,
+                    11.711442202950419
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90747508632201,
+                    11.629480578689263
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87137580573541,
+                    11.747316799585727
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87203471735468,
+                    11.682867528508442
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90273360368819,
+                    11.569081790177652
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84054596490277,
+                    11.612673728485312
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74831663870923,
+                    11.5987364754849
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90795014675179,
+                    11.75362407575328
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86976778892212,
+                    11.599588244354667
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93492874122846,
+                    11.632084490937295
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83907043425441,
+                    11.660482456547063
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87834696305814,
+                    11.65505861459881
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78213971485792,
+                    11.675002995572223
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76581032919225,
+                    11.663523797293989
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84249601938379,
+                    11.62641000449964
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83576224395469,
+                    11.603523811436885
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78983460003609,
+                    11.591049377515862
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83042787850943,
+                    11.718297250123442
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83332807762812,
+                    11.757720288816941
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75141067004114,
+                    11.616378478846602
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84044143202655,
+                    11.622860020728202
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90180334629035,
+                    11.64262859730349
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89400509220793,
+                    11.62360246281816
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86957758325026,
+                    11.73378118279378
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89010330525602,
+                    11.647357019187446
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74800661612362,
+                    11.608785381453018
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79535751419202,
+                    11.600446279089825
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8703560558524,
+                    11.690495099778808
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92275080597146,
+                    11.779838377883328
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86697815161439,
+                    11.68660793982182
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90895017843607,
+                    11.774050496159221
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79860188632368,
+                    11.715809199878233
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88061299294662,
+                    11.6189553883283
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86128077777418,
+                    11.548010788583882
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85039055028025,
+                    11.574607842639658
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74492164660468,
+                    11.583897619399849
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85772344528972,
+                    11.719980241733467
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8909086097703,
+                    11.735599809789749
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78176952704342,
+                    11.592221229290935
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90007236481377,
+                    11.670635730860917
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7541590796164,
+                    11.617693128937157
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88902639106377,
+                    11.604837165010519
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8741151513339,
+                    11.634241058524122
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7657504138382,
+                    11.63950647419786
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84978760044197,
+                    11.718336900827087
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84718513637158,
+                    11.669511811372013
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87261415491618,
+                    11.754043735888139
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89932195075463,
+                    11.790941625575007
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79104151495588,
+                    11.699356605695977
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86867130267252,
+                    11.545924329363539
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81529044433596,
+                    11.649786004705101
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80225290764348,
+                    11.629595058947917
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83396107545818,
+                    11.635757558411116
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92414389311169,
+                    11.784374054998178
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93148463945383,
+                    11.591508883229764
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90565352038632,
+                    11.602556504798951
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74791032761402,
+                    11.58293529172402
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78202573325513,
+                    11.626088581767707
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88361493248375,
+                    11.729703866766107
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89001298316667,
+                    11.573309177994172
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87938594305685,
+                    11.730145701079172
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9103994578274,
+                    11.741469707174762
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81993471352516,
+                    11.690976603088432
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80850854449612,
+                    11.580707774095542
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88659062060403,
+                    11.703479371814499
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79887985893158,
+                    11.733074120437044
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83664674580882,
+                    11.733692980686277
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86039682299868,
+                    11.56522909872666
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80552578931162,
+                    11.721816857304315
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8766839563084,
+                    11.570667101850603
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.78563046921639,
+                    11.661132534655993
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85566054265824,
+                    11.584655970370896
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85445794590753,
+                    11.589997749311443
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81709721641482,
+                    11.744425968425944
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83014195536948,
+                    11.60271810722911
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87940693106117,
+                    11.746565911787613
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82282597999428,
+                    11.683463968683235
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84745161652857,
+                    11.727080787164303
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87884888174104,
+                    11.762409625598766
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89191117934418,
+                    11.576608971270888
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8148052818341,
+                    11.727706129999817
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89770666074608,
+                    11.684061910702447
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81418313864793,
+                    11.6847276050536
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9150477456545,
+                    11.59170583312569
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.876052008919,
+                    11.74676274818863
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83831538496516,
+                    11.757520791750583
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88442378137269,
+                    11.62392871959519
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86997118567331,
+                    11.694207173407232
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92390705799356,
+                    11.607084929193498
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82886413444086,
+                    11.661206153752568
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89603981490504,
+                    11.703323194416635
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81627772327317,
+                    11.686844403540597
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76669917895731,
+                    11.626262883916013
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86810724819982,
+                    11.723682240920446
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91347329109891,
+                    11.780563872261082
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83674497214034,
+                    11.682186246112042
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80388119941284,
+                    11.597209134983412
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92132618513108,
+                    11.795254408264851
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85826090012453,
+                    11.671567740897972
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82470986472276,
+                    11.72838812214998
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86035513586923,
+                    11.61016792277052
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87471545209311,
+                    11.683394903022965
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75460638896827,
+                    11.592483096281317
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8978401654359,
+                    11.651836521644773
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8711877600958,
+                    11.576824891803199
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89950378815286,
+                    11.710659949506052
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86963405636261,
+                    11.583095317352052
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79564869691599,
+                    11.605056986534308
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8444581262977,
+                    11.728992119361905
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86846090172396,
+                    11.566930808438276
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8134275237483,
+                    11.560481552210307
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.87652163604781,
+                    11.7445477116138
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88557071019245,
+                    11.603718250437769
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90792026874693,
+                    11.537600148384195
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84488442801991,
+                    11.577531131676276
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7556486396109,
+                    11.594621809314914
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84119857314107,
+                    11.58490413288405
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88207801324005,
+                    11.63232320574607
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93101264163174,
+                    11.75222748182421
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9228044360202,
+                    11.591002366283202
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8237607611656,
+                    11.66594178583427
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86620153091306,
+                    11.696028013562522
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89327477072192,
+                    11.560580672194776
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82355142588928,
+                    11.741054659774173
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8013406860822,
+                    11.676263647977704
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83287895104495,
+                    11.693184055342599
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79054732065329,
+                    11.719635067362708
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91318449907597,
+                    11.66286001144055
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.88706280631507,
+                    11.58496608637805
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84296063861092,
+                    11.741703406782474
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79235479506616,
+                    11.67476071423474
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82759302841498,
+                    11.562977592008405
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82970000726074,
+                    11.748968326163205
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86632886019311,
+                    11.79137986085356
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75470204298432,
+                    11.620911466813327
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9039560778826,
+                    11.781238207204916
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85691442320096,
+                    11.558499559122481
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9371233004618,
+                    11.66605120748317
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8722992979284,
+                    11.616951934373482
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7748868190886,
+                    11.686208174768732
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.84912819396558,
+                    11.752073491052155
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94340581320756,
+                    11.613777449224713
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.81752241162435,
+                    11.573275976120051
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9002812627062,
+                    11.700575298483257
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92826755999296,
+                    11.731574773811689
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83834420552431,
+                    11.595448587845674
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90687111321493,
+                    11.789847911121582
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.82664946370039,
+                    11.669052319225106
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 303
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92770086718278,
+                    11.60887904601059
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90319130158784,
+                    11.732580724703947
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7975835035758,
+                    11.75609296616616
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 306
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9026666029643,
+                    11.643729240765955
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86742082694786,
+                    11.662036583057006
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75318280812296,
+                    11.611057541503225
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 309
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76655355543143,
+                    11.630624055192015
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 310
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85230198363742,
+                    11.57389983943891
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 311
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.83228666122727,
+                    11.637759606497053
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86278436872016,
+                    11.545248733004652
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 313
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76543254596555,
+                    11.613175219997405
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 314
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79920490494372,
+                    11.633360186880529
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 315
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.74471613099678,
+                    11.555742073837942
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 316
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76203078305504,
+                    11.61647703195923
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 317
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.80494795266382,
+                    11.694166492586097
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 318
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.85005310264404,
+                    11.694600233644326
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 319
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86998391676386,
+                    11.755692586822121
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 320
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8414247658559,
+                    11.65923301007981
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 321
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.76578619539444,
+                    11.595997499410402
+                ]
+            },
+            "properties": {
+                "AC_NO": "086",
+                "AC_NAME": "Edappadi",
+                "booth_no": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,4640 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68180887504752,
+                    10.763132940171861
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49816688998901,
+                    10.759685161668678
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5229129177543,
+                    10.663687944342197
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57661667254504,
+                    10.680026909614554
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55831492787397,
+                    10.697602707867777
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53417799127432,
+                    10.773650565197126
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4665768495484,
+                    10.813090956715566
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62704528252834,
+                    10.65966239871378
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4941559651902,
+                    10.789810487087935
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60542133268804,
+                    10.774109368064401
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51584699749982,
+                    10.773406816492269
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54286301255274,
+                    10.694846769319687
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55127588623306,
+                    10.823190627645062
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51463530897504,
+                    10.689718931483386
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63099195406623,
+                    10.701161800005956
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4767146974019,
+                    10.815002661586545
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63252341057547,
+                    10.68445300743735
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5513897366808,
+                    10.775905192085164
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61913310821001,
+                    10.774576107559927
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69545105854586,
+                    10.766259506328428
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51611109403292,
+                    10.704452971636696
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60898765014737,
+                    10.75123233463476
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55785259389073,
+                    10.760763539789883
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58920904081222,
+                    10.673572579954385
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59306379212028,
+                    10.710820004002722
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46854928292959,
+                    10.818842771650555
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61174171051293,
+                    10.753222291636032
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58270936622507,
+                    10.803659393602096
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62404527808263,
+                    10.77954823809712
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58574534368674,
+                    10.775474748569376
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6633301332695,
+                    10.730389944433924
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51530906182278,
+                    10.747228219308461
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.570137978024,
+                    10.705235844271108
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59224414269072,
+                    10.678489196642156
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66940870808222,
+                    10.770019094578553
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58569907977692,
+                    10.801789771300763
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5750298627792,
+                    10.741878885795872
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64135784344604,
+                    10.72671050817573
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55924073570802,
+                    10.7896774636287
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62345590031471,
+                    10.750879295974554
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62487844870272,
+                    10.741606033869514
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51764844337727,
+                    10.778898678100818
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51002523816081,
+                    10.804991409630288
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49937192506826,
+                    10.780376049395322
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62593884172026,
+                    10.68085293000891
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55612468157737,
+                    10.7650892648336
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68545868344255,
+                    10.760570543016529
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50606995594995,
+                    10.815625331946872
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61487961601539,
+                    10.697308675121471
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59769843921462,
+                    10.820534682335808
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71391694370102,
+                    10.806499837397608
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69189558451077,
+                    10.760752319974154
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52813879894322,
+                    10.706532730272578
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54760434371856,
+                    10.761679058586832
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63119343661148,
+                    10.748829149323116
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53535386270867,
+                    10.804367663529714
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49941665567923,
+                    10.760186044883806
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46573698466146,
+                    10.755176779198928
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65339002025642,
+                    10.77530923274558
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6117476789769,
+                    10.72719858606997
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4814452682082,
+                    10.821352680347374
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55118352634227,
+                    10.734991330027338
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6985462205659,
+                    10.78748198715952
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64586551700309,
+                    10.676646207431988
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64033591671058,
+                    10.705361457383912
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54561017288331,
+                    10.804804129201774
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5327297257641,
+                    10.82225754635441
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63926418813664,
+                    10.76731790102329
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47669051499987,
+                    10.764092309011716
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51372134225645,
+                    10.78774514235589
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71228402370562,
+                    10.788989824583224
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54287827737471,
+                    10.815677790377938
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51557308437174,
+                    10.761269013661108
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.581101176906,
+                    10.735969088232082
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52548486824901,
+                    10.731274672764986
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54604141214442,
+                    10.70488573091237
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54687616876467,
+                    10.82316984485646
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47835693010592,
+                    10.770481157500596
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58852368229203,
+                    10.674851799506408
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51968378403895,
+                    10.684604783248215
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62054954203488,
+                    10.793928119068944
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69775047353704,
+                    10.790734046670831
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72508117440672,
+                    10.824992759620127
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66252653127216,
+                    10.661293224470018
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55937776074867,
+                    10.690403999184861
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63851798623053,
+                    10.720237245702787
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63921624582332,
+                    10.793280196732415
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50676014172967,
+                    10.754558799096829
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53405856708125,
+                    10.78973762077616
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6554634654936,
+                    10.712678829444307
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66971930384946,
+                    10.781481273411732
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68272076404735,
+                    10.733888341456161
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4789262249926,
+                    10.761905203282074
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49141052396733,
+                    10.756034823014968
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58288232786158,
+                    10.808255094036491
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60324611432009,
+                    10.721679955678859
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54073972398999,
+                    10.702855127183764
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45576933521747,
+                    10.801172269430715
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66847038517177,
+                    10.713462857071926
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53136037494886,
+                    10.734121344412642
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7169878329313,
+                    10.823383377103182
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51806719752227,
+                    10.684942559809572
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62435392887362,
+                    10.713686041181157
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52015023804158,
+                    10.826913299442127
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5377323813719,
+                    10.782826096513565
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67000747427466,
+                    10.678675733472428
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51596582047189,
+                    10.764751790276524
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68257220206272,
+                    10.73263365106644
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50010991903636,
+                    10.784150046132812
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57610056837854,
+                    10.789499077493629
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59478377895445,
+                    10.68371571199159
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65015075271086,
+                    10.736593059636196
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72135913443495,
+                    10.796183392442426
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63586044091704,
+                    10.79459250833057
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56871919783144,
+                    10.791729965698563
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68326660233629,
+                    10.764456941472673
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64819259792483,
+                    10.792637479959433
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5892946017674,
+                    10.816468051735592
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52177314596258,
+                    10.715199889932531
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63309065169999,
+                    10.71088481730441
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46484021359716,
+                    10.81449070777006
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4958027664031,
+                    10.815445157382195
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72052319573498,
+                    10.829141529379655
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61900084288833,
+                    10.795939165874682
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56292414556037,
+                    10.691647131221798
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60419223489876,
+                    10.73430472285508
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5435239736539,
+                    10.7719091553423
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62405460143088,
+                    10.788608978771846
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68915573891813,
+                    10.757659948307428
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5011994544271,
+                    10.77115063990199
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50132071160587,
+                    10.768086628669211
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63110016061731,
+                    10.737953015882423
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53191299327553,
+                    10.725091555151833
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5655921892796,
+                    10.69172452418475
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51725444451787,
+                    10.656092005133889
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71489508998518,
+                    10.787931262746016
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5297903585377,
+                    10.701947521865486
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57686003266514,
+                    10.785038462309823
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5656968381418,
+                    10.80119116773001
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57826050606407,
+                    10.729222525100106
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64492584036803,
+                    10.772038111743838
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62426621971102,
+                    10.684924526670175
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65429978327283,
+                    10.714086294558617
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7180352285509,
+                    10.80225650394968
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70765319268911,
+                    10.785401764135619
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59592657112,
+                    10.7813617309241
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54847160602527,
+                    10.822012676221412
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64662228640621,
+                    10.718440510651114
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54049294313945,
+                    10.818984970408732
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53295938262524,
+                    10.744706839548794
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59810269274361,
+                    10.733136219260043
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5913432946664,
+                    10.798891406284943
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60623271588689,
+                    10.694963323073079
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66205320378229,
+                    10.653190220922852
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6073083249375,
+                    10.67165812008693
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53139607140362,
+                    10.803527408595091
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50822308138618,
+                    10.825411305241733
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65041792857873,
+                    10.772443083009763
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63689395114302,
+                    10.81253797002314
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48822133298538,
+                    10.777919782423188
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56190124400021,
+                    10.834257092911063
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55856310687005,
+                    10.809418559495825
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47370828584322,
+                    10.780183212032142
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73064427143478,
+                    10.804734120796294
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57900244922979,
+                    10.728924541636719
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55325999764077,
+                    10.697035515144012
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57419847426034,
+                    10.825534155883195
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64445943711145,
+                    10.650575933225824
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62885931637891,
+                    10.80537222644313
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51015164605653,
+                    10.679812763409304
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67431778997593,
+                    10.714722266291632
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5939003432454,
+                    10.675751233397763
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48908243701936,
+                    10.826770527131291
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51489235442364,
+                    10.756144678563786
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58586906638958,
+                    10.777168358361147
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50011729971486,
+                    10.812984298449747
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58496785421585,
+                    10.67099120702187
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61525159395103,
+                    10.740613500653627
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67262804196808,
+                    10.745394304857369
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48965340821076,
+                    10.806176192275363
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64007565255149,
+                    10.814380303854257
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70696415593338,
+                    10.805191005973674
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51939905788885,
+                    10.817859002746651
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52096096761301,
+                    10.830201382269804
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69851826601382,
+                    10.811348927595326
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46595194068954,
+                    10.81179744552264
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6596973004891,
+                    10.799944099160534
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63383934070862,
+                    10.805931977840386
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68137919553166,
+                    10.735546555039148
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52430160006863,
+                    10.838115032278447
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52732347233146,
+                    10.682092086737477
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54569105558718,
+                    10.763218628153188
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63969609399645,
+                    10.65431265305979
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67711617333546,
+                    10.720657078603576
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71137146960733,
+                    10.805997039344348
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60947386780089,
+                    10.781294131287318
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49711781027474,
+                    10.81293959124248
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.556932042941,
+                    10.786284819095242
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58523215795888,
+                    10.741345059788026
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55798616288068,
+                    10.772445761556394
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65831717324114,
+                    10.754529337776498
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63448161725064,
+                    10.684747984566112
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55451858923428,
+                    10.674227271339413
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56134610655474,
+                    10.723563444624855
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66023539732126,
+                    10.783502451362885
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48313711477522,
+                    10.82227391530576
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6629143592514,
+                    10.68491916702719
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66206608432408,
+                    10.784650390286016
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56870865233205,
+                    10.792977602583896
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70628868416183,
+                    10.821799413337667
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53505788032344,
+                    10.718624918142496
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51443615228773,
+                    10.670768434083513
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58752544828089,
+                    10.665766921402357
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56892053440232,
+                    10.699579018204663
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48847552183072,
+                    10.795871825640546
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69885093080238,
+                    10.775973414147956
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54199156759402,
+                    10.709371499747101
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51925748245758,
+                    10.767626695439587
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57838228235467,
+                    10.736763194435575
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62114139493458,
+                    10.809581002125606
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62719583636913,
+                    10.803089599447713
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6728997018972,
+                    10.768644259775677
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64996798118362,
+                    10.777783978653066
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59166622382925,
+                    10.785418505386291
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61324204197885,
+                    10.67752393640778
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5466713264519,
+                    10.763167516350714
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58079146801448,
+                    10.734883909718887
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58553130574066,
+                    10.65995687878156
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50034419064586,
+                    10.778933744050509
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69915460029848,
+                    10.822573929134482
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6532639560003,
+                    10.7128174596291
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60148244682645,
+                    10.67155445410514
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55197583382358,
+                    10.820422216822028
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65399750192366,
+                    10.752326410520578
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54215251751438,
+                    10.679736148521087
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67551052523577,
+                    10.782594403634844
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62086208392763,
+                    10.79354859922225
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69163245381651,
+                    10.756833977669535
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52682261686164,
+                    10.750470475782734
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53640030908032,
+                    10.831408991673852
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64322850934322,
+                    10.772250160764687
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57642747536057,
+                    10.662312181003438
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62588628701634,
+                    10.702635684434318
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57379969404765,
+                    10.699584296437823
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54092441562932,
+                    10.823318236363008
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71993851538514,
+                    10.796397165280421
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48837114742213,
+                    10.801618599974004
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47770893704731,
+                    10.795568471543765
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59262331157807,
+                    10.703684149234924
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60538688425007,
+                    10.805887633445707
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53761562065834,
+                    10.780127224539168
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53868394126599,
+                    10.718132486436263
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59351603625302,
+                    10.689759726095527
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5418908289447,
+                    10.745276170275233
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64750974986163,
+                    10.70105283687143
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67802996552255,
+                    10.815476055240511
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68958757163715,
+                    10.737624655400234
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52258479033046,
+                    10.80140647996707
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53249775210635,
+                    10.741466273747205
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6995375085406,
+                    10.812851826082195
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66128969035906,
+                    10.803811378467918
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6991790567483,
+                    10.797022586705891
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64363961548337,
+                    10.648549978133216
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71914664882685,
+                    10.807051125257349
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68028226000094,
+                    10.735010068870032
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5499779938093,
+                    10.792190076001743
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59074291884714,
+                    10.748343942782476
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69146165517489,
+                    10.821936111336292
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53384187059159,
+                    10.763993110631015
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67869322858559,
+                    10.773136446899871
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66313654927895,
+                    10.812558163883676
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64271054183868,
+                    10.768527136191135
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47169068712341,
+                    10.817820307070345
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6054155784418,
+                    10.69478784083785
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62795225303674,
+                    10.702057515444599
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63110750305488,
+                    10.798975673049856
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49104501100986,
+                    10.787358850073824
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46774536520736,
+                    10.763513233515535
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5913762927307,
+                    10.748196567593787
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62538236218988,
+                    10.659470275128307
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53204595865306,
+                    10.767956059391679
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46456988371665,
+                    10.809041529578163
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56640796879917,
+                    10.781296756987906
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5636599750231,
+                    10.767321190441967
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6289812437806,
+                    10.783936581725058
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53941716962191,
+                    10.723526350490111
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64169179952391,
+                    10.7965199228025
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59103685683657,
+                    10.731837951156084
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60261373281962,
+                    10.680096879168076
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6272412237799,
+                    10.78765733713349
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.545749336049,
+                    10.82755290547038
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63384332803686,
+                    10.788884523603407
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66417358741964,
+                    10.717419397606715
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51715922765044,
+                    10.761631125392547
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52269122349958,
+                    10.781275384957915
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51388823732913,
+                    10.81819854649966
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63662358600352,
+                    10.757786998942159
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53625542784533,
+                    10.689007343804168
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69340469388915,
+                    10.774235625814827
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69695272582729,
+                    10.753414883755227
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46627012147445,
+                    10.79076479796134
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64002858579707,
+                    10.815697896146673
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58060589075275,
+                    10.813404568969167
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 303
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64204125792544,
+                    10.763923101961689
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61367175916276,
+                    10.725704504748135
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.63211573239013,
+                    10.698037686786984
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 306
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5126776645904,
+                    10.66951044252792
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54303324599853,
+                    10.690706522157978
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68180887504752,
+                    10.763132940171861
+                ]
+            },
+            "properties": {
+                "AC_NO": "168",
+                "AC_NAME": "Thiruvarur",
+                "booth_no": 0
+            }
+        }
+    ]
+}

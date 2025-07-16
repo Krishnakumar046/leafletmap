@@ -1,0 +1,5270 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1580400993327,
+                    13.08413501797546
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15655049421875,
+                    13.138791639197347
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16861893898317,
+                    13.131526626458006
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18412965247272,
+                    13.088386317839339
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15517969101623,
+                    13.097932185045277
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17816455714642,
+                    13.07488738597542
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1809281545118,
+                    13.092067597917264
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17876899629283,
+                    13.128178520526387
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18450908829298,
+                    13.11371971398639
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17912660711926,
+                    13.099974378906099
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1705161440816,
+                    13.088828031275966
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14863406954868,
+                    13.118147966432895
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17930545317996,
+                    13.111298226845683
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18982580729974,
+                    13.109025632227654
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15958957046358,
+                    13.138742194500447
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15394594803615,
+                    13.08991783745108
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15752316268382,
+                    13.098480298528571
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16332367327485,
+                    13.123559141004268
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1764255142119,
+                    13.098624840151665
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16684526184854,
+                    13.10812991673179
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1741836245849,
+                    13.137158663093492
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16496196513584,
+                    13.115991818734864
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17038604221929,
+                    13.12429588014744
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14447261965775,
+                    13.106230640144254
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2000588986638,
+                    13.121764923396771
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15943339903491,
+                    13.10346016673254
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17860099595313,
+                    13.097119043318388
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14864392533073,
+                    13.11148017479278
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18774266058077,
+                    13.110779131815192
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15603613268051,
+                    13.119309482812485
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18946396444075,
+                    13.105565331898335
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18628985738764,
+                    13.119172526129532
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15326147412533,
+                    13.133880953744415
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15765710929469,
+                    13.11639187539198
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16867234236227,
+                    13.092460711815876
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16137045846499,
+                    13.09403053935063
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17226099239322,
+                    13.125924024846976
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15711287324946,
+                    13.131138890233563
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1758546046632,
+                    13.097080259886422
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15909970494756,
+                    13.115016824224899
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15894644398811,
+                    13.131886393008859
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1695344528139,
+                    13.121283249411372
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19363296100424,
+                    13.130223167646339
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18013156449545,
+                    13.074810339359002
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15028117781189,
+                    13.138231238349688
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17121860179942,
+                    13.131035212875044
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16633454836091,
+                    13.115253474347135
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17052524964326,
+                    13.126033813873372
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17498154600649,
+                    13.11914461773026
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15801132166465,
+                    13.115807022801608
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14346905227343,
+                    13.113894602155169
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14448387834074,
+                    13.115418423921648
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18719288994237,
+                    13.117581163986635
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18280563608968,
+                    13.133608478674649
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1750285384757,
+                    13.088276378431962
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17947345168308,
+                    13.110708797618578
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15996163417465,
+                    13.141683097176797
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14512649048615,
+                    13.122573660838972
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1746162127333,
+                    13.098763895531063
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1947510214412,
+                    13.128638326632437
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17435269484773,
+                    13.11122012790124
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16968386494133,
+                    13.098166315648777
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1823861974708,
+                    13.111645261169226
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17356353605454,
+                    13.124888016763828
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16936992056398,
+                    13.088116994204116
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18492212531137,
+                    13.075802035400766
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1517696648691,
+                    13.132376121565875
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16173416413308,
+                    13.084617667437067
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17396063446424,
+                    13.12894992097979
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17587918532612,
+                    13.134480344972832
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16108106317297,
+                    13.130822818992154
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18570618618193,
+                    13.116700674322242
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15321540670283,
+                    13.108835524792871
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17572650583426,
+                    13.086682534355969
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15593699858157,
+                    13.118566506507094
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1759138599918,
+                    13.127885624802984
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15107731545227,
+                    13.112948104917741
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18763024405546,
+                    13.110180353783491
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1887056908604,
+                    13.096632431162863
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17917038191437,
+                    13.07463603565407
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16701556174326,
+                    13.088955080836467
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18226622498788,
+                    13.12396092189675
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16689990739951,
+                    13.12285538579166
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18674323658574,
+                    13.084466423625067
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19289441283291,
+                    13.130042843004887
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17799368208186,
+                    13.130513256518539
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15887513424799,
+                    13.127031466194332
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16425416988103,
+                    13.098792603287176
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15013064220979,
+                    13.108673148895837
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1596223503861,
+                    13.093594357005868
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18396283608428,
+                    13.136127098805513
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17540722203907,
+                    13.133250929083044
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17985705462168,
+                    13.124320481843599
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17987351491611,
+                    13.121581782537454
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1715354686086,
+                    13.088769599481733
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15007265974967,
+                    13.10998750816973
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17640346637538,
+                    13.129427154886795
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18984540921086,
+                    13.130714750494013
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1698525776189,
+                    13.106316360548728
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1646109108764,
+                    13.096124648167736
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14667058008843,
+                    13.102329636715593
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17455020029688,
+                    13.129415142609568
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19839202572525,
+                    13.121553689389046
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1529944347408,
+                    13.130812344784262
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17848548436243,
+                    13.07324984430911
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14428303857439,
+                    13.115380886308209
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1562062463243,
+                    13.13661994050564
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18054959600939,
+                    13.114460303828485
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17777725818935,
+                    13.133245719066553
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15339203061372,
+                    13.099521187455812
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1600396203917,
+                    13.10740058440987
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15558888980362,
+                    13.125010261957907
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16725903047934,
+                    13.107735676323967
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1557336492985,
+                    13.139546520689493
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17252746848159,
+                    13.11141119167176
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17798976237489,
+                    13.10510282041849
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16652187368024,
+                    13.086227362215354
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17059849106373,
+                    13.094120976003962
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17077004711659,
+                    13.129787757278644
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17208471182104,
+                    13.082839759331112
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1492104186923,
+                    13.092791439194672
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16981401878945,
+                    13.084001296487939
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19367756628607,
+                    13.088221523615692
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17632633888704,
+                    13.124215020910354
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17898347040217,
+                    13.072946739062164
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17921665943223,
+                    13.081212666631375
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14981153740165,
+                    13.138382852767824
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17717333303297,
+                    13.117042544697044
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15126928973172,
+                    13.092262567750453
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14663899882856,
+                    13.122908530693001
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17625976375834,
+                    13.114266089464618
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15936971679042,
+                    13.120352527586718
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1798077518752,
+                    13.129201978027215
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19253327147862,
+                    13.126870479782221
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16847338403481,
+                    13.082958359374393
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1641252771843,
+                    13.113001249208947
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17699255035649,
+                    13.10724420397945
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15027425368494,
+                    13.10420881893123
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16076366457695,
+                    13.086939310872381
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17559015828179,
+                    13.105728895567237
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17960977240315,
+                    13.075643436095937
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16332537104422,
+                    13.107693811437338
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19949327374438,
+                    13.121048402668709
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18870108320168,
+                    13.109318785004893
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14711399724182,
+                    13.130781886636575
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19999951473419,
+                    13.121020102659202
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14963692956363,
+                    13.139637530839465
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16804090635311,
+                    13.109433110590505
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18534679105063,
+                    13.115987641639293
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18527876469018,
+                    13.089162118408975
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1575953536694,
+                    13.12377684137865
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1654438596311,
+                    13.122418458010202
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17056792939728,
+                    13.084822913566196
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18796351029891,
+                    13.089973212884042
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18177797380369,
+                    13.075590820205935
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16029848395068,
+                    13.115294432988827
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17794052928375,
+                    13.101542879211513
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15872715740629,
+                    13.09856612923111
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16757016810239,
+                    13.117822720855155
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16197012087251,
+                    13.085340736631373
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15867396680127,
+                    13.115083196496311
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16533895536986,
+                    13.127532532279329
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17237389613403,
+                    13.114825452551022
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14609126603729,
+                    13.121883198321504
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1586715023216,
+                    13.128304338380241
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16273457553673,
+                    13.108978931593752
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18460065743977,
+                    13.075190586107006
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15825619445442,
+                    13.108911242350151
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16468349957607,
+                    13.13582480368752
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16234194217249,
+                    13.089180902357164
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18360525997883,
+                    13.117498769126298
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14905693850041,
+                    13.10709615228618
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17343928893519,
+                    13.116982874097278
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18213970303496,
+                    13.092943161121129
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16911491054508,
+                    13.106051452427614
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18478011912651,
+                    13.110488518325422
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18050223739289,
+                    13.086924637492936
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18264166191278,
+                    13.110142037275082
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17499892215334,
+                    13.133608881090467
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19011653881421,
+                    13.134397381137935
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17905518318196,
+                    13.134389666793462
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15632773337748,
+                    13.096583830038362
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17939392707775,
+                    13.08141533809568
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16696783885487,
+                    13.124286968679066
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15606603685505,
+                    13.083822480357378
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1719631837835,
+                    13.101497168021103
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18776231142651,
+                    13.088468954700225
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16367512105035,
+                    13.100875717179925
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14642068480823,
+                    13.118735501115031
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16858350239018,
+                    13.118108130311244
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15170429746586,
+                    13.097406665628299
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16763841931028,
+                    13.137236432405077
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16003633952624,
+                    13.115858319842726
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18199837532144,
+                    13.122885667591104
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16614353055553,
+                    13.08559854824909
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15963673255492,
+                    13.125841353120265
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18087144366508,
+                    13.135093976131925
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16491531532492,
+                    13.118454028889074
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17840555951878,
+                    13.086478014913968
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18964410347255,
+                    13.10750451185755
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17560785042514,
+                    13.122814778926815
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18873611221767,
+                    13.097744069393105
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15560434234426,
+                    13.110396126547817
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17389496210869,
+                    13.081350589470606
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16997211850537,
+                    13.120952443255753
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15102702602486,
+                    13.09687750663941
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17720225498381,
+                    13.0923851200023
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16197902852568,
+                    13.108127203273096
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14678110299506,
+                    13.135043990131821
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17137712048708,
+                    13.139987496804483
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1890937395039,
+                    13.132707809251201
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17238370399859,
+                    13.083104099273532
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17921627296992,
+                    13.08187597353338
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18687302773922,
+                    13.10668732567143
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1429472814207,
+                    13.106891349953644
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14908509970788,
+                    13.110957834275187
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19478727462757,
+                    13.128173892938651
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14876564509818,
+                    13.11524195642014
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16311423321315,
+                    13.11686691744529
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19069733344936,
+                    13.098332608671303
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1690229825262,
+                    13.125337126550395
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19768275809537,
+                    13.123171401553213
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19036979401118,
+                    13.110837782261074
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17286467222748,
+                    13.088548926453596
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17607465548822,
+                    13.123345058153445
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15196314839038,
+                    13.091631282478069
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1753728900822,
+                    13.087564110764575
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18551998464251,
+                    13.117762870236346
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17114332338812,
+                    13.134185508146365
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17507001944317,
+                    13.11942706916184
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1790089146329,
+                    13.107813900485118
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15505618511915,
+                    13.087673580562726
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1441086604588,
+                    13.10855865368385
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18863351264156,
+                    13.135898355976545
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1694953907619,
+                    13.091549536060251
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15664780798137,
+                    13.099664198752409
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1829544530042,
+                    13.114933662437515
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18443753408124,
+                    13.110035696076045
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16170724819825,
+                    13.119251914800525
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19269561339301,
+                    13.128432679368288
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16748817972022,
+                    13.11645822233946
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15303449625152,
+                    13.097384035822609
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17557097128712,
+                    13.083474319220388
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14971976615924,
+                    13.101699618632574
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14687740133634,
+                    13.09916911123446
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19750576761346,
+                    13.126818003683344
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15005481718231,
+                    13.087744099942975
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1924653943993,
+                    13.088755856315666
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19270772021156,
+                    13.12166020663598
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17466229669428,
+                    13.091416098810106
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17771222148936,
+                    13.137931173765509
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15573703917264,
+                    13.087235485976494
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1620080538961,
+                    13.097494217171086
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16911702608287,
+                    13.140722324012845
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15824996155071,
+                    13.133265130349866
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18389994619014,
+                    13.12296944055704
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16552770610106,
+                    13.094960259593748
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18589324005383,
+                    13.097551582522405
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14784095790111,
+                    13.102907481205305
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19766857669778,
+                    13.116571664405965
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14979695134222,
+                    13.13818925804686
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14921296496998,
+                    13.113418354504049
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17274712387564,
+                    13.090080745080549
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14756158036684,
+                    13.100327865877155
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14231589670132,
+                    13.10690488118884
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16652932625146,
+                    13.084989734228346
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17453983177526,
+                    13.130783684983724
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18355680309928,
+                    13.107426987393659
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17603437476039,
+                    13.129644340200395
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14523094685123,
+                    13.102812262447552
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15521376845676,
+                    13.141770974689901
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18308697093825,
+                    13.111425610272683
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17902634910693,
+                    13.08914907957171
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.186978715051,
+                    13.084313285731334
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18049411209653,
+                    13.090414333701352
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16880264445818,
+                    13.137132800428782
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14846724132646,
+                    13.093282599006065
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17454745864651,
+                    13.091478155121195
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15535938712192,
+                    13.108348860477316
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17862859545265,
+                    13.07314658744478
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1782322866379,
+                    13.103211356462802
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17594653586325,
+                    13.093223905100661
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16430398470327,
+                    13.084576199851234
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14634377428966,
+                    13.091144986059401
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1777990894451,
+                    13.126139209510006
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19383725061603,
+                    13.09649104400178
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1619596386451,
+                    13.095420498225696
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18991378555826,
+                    13.109773099103748
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15469307403359,
+                    13.092983154892552
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17539216809774,
+                    13.112758391652322
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18592733780987,
+                    13.106053747965523
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18811630313705,
+                    13.11757371369716
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1849943479377,
+                    13.102174422160124
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16956305033548,
+                    13.086486469593382
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1817316137191,
+                    13.123320893438049
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15757480954528,
+                    13.129172322170225
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18098476273722,
+                    13.133836912886395
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 297
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1792388341191,
+                    13.111918193225444
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16597314609719,
+                    13.086820586155913
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 299
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16849218336971,
+                    13.088157024689462
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 300
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14253026106282,
+                    13.114331718315155
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16625524247651,
+                    13.132245794596404
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 302
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.146735343506,
+                    13.099394862956254
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 303
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18485917110782,
+                    13.132060541646817
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19032488575655,
+                    13.113418909210605
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15650729526799,
+                    13.116792366171799
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 306
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17639371100506,
+                    13.131707763978666
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 307
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1546784248714,
+                    13.109113171679994
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19392945906667,
+                    13.116588540410687
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 309
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18102787670486,
+                    13.095734968500036
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 310
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18542510771431,
+                    13.107422629272408
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 311
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1597285497711,
+                    13.133474115653472
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15547952526975,
+                    13.113273013942841
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 313
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15734276108768,
+                    13.082781137706522
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 314
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17763217540217,
+                    13.128480813073391
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 315
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18526791862543,
+                    13.124843052229213
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 316
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17654742825445,
+                    13.086215273814695
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 317
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15327917041095,
+                    13.091413947632034
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 318
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14675480252424,
+                    13.135299079178143
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 319
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17206469699892,
+                    13.093279185493174
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 320
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16627621254501,
+                    13.09504046715757
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 321
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19128733668097,
+                    13.131001319968517
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 322
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18884649395903,
+                    13.093702813626953
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 323
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1786946143431,
+                    13.082562492487924
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 324
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.167281366334,
+                    13.121308865126235
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 325
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18675539832384,
+                    13.12771880370002
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 326
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18457919635445,
+                    13.111623132030667
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 327
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16294055149956,
+                    13.123682071638148
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 328
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17542099345211,
+                    13.078949291785644
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 329
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19674345656217,
+                    13.11558775298809
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 330
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16048336163593,
+                    13.13476784874485
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 331
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15122997637141,
+                    13.095335907360978
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 332
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.17520917044959,
+                    13.101320110014026
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 333
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1462539164436,
+                    13.125991378898206
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 334
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18380980564886,
+                    13.123248257850653
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 335
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15590891357661,
+                    13.120690059351425
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 336
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15579902596997,
+                    13.108330935602487
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 337
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1501494927891,
+                    13.092029831595724
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 338
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.14111752027159,
+                    13.107392146509357
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 339
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.16711549225717,
+                    13.132061642155735
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 340
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19175117481421,
+                    13.086224010193469
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 341
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18277997463127,
+                    13.111052624127188
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 342
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.19186452732167,
+                    13.105081751956039
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 343
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.18546227168511,
+                    13.123518794006305
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 344
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15387633286126,
+                    13.10534387067146
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 345
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15073143778766,
+                    13.125724610894721
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 346
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15051441672112,
+                    13.130969232206315
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 347
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15491574970977,
+                    13.12507262289172
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 348
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15076823342169,
+                    13.086040921957899
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 349
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.15655593075451,
+                    13.117549662791678
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 350
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.1580400993327,
+                    13.08413501797546
+                ]
+            },
+            "properties": {
+                "AC_NO": "008",
+                "AC_NAME": "Ambattur",
+                "booth_no": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,4400 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08310746523199,
+                    10.727986454507725
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07289271570825,
+                    10.714026880747213
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18946003717178,
+                    10.79521695051724
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16986831472114,
+                    10.784375499577601
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11264430912031,
+                    10.7406201417731
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09599933479136,
+                    10.735534989953386
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04926181504999,
+                    10.751553710616886
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13240502158999,
+                    10.717574620550682
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13591856171116,
+                    10.730142264734715
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12868578027712,
+                    10.766303224584513
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12069036323187,
+                    10.771620930896233
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1108602509306,
+                    10.72856439987275
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18593070958715,
+                    10.794311346399194
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04533680579135,
+                    10.712869678288449
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05895127358369,
+                    10.742880666839392
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18275492319019,
+                    10.791815517605324
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05144944580363,
+                    10.702141054292204
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1615476747081,
+                    10.7861901843138
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14723492968733,
+                    10.776335748283373
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1008678352393,
+                    10.729591333737762
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08510008698086,
+                    10.723664507659846
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07385553180185,
+                    10.740204847969785
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0713410575073,
+                    10.72707256431571
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10253556360053,
+                    10.735765352372349
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14764057814155,
+                    10.76472729599533
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13880932986586,
+                    10.724636559054415
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1021367654818,
+                    10.747817094776684
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13327333161752,
+                    10.763367267272116
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10887136386846,
+                    10.754026893415638
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16115077172114,
+                    10.796246616443945
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03840322543147,
+                    10.719967348340786
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16044907748737,
+                    10.797870358444701
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14283676171678,
+                    10.811108757925556
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14593413603924,
+                    10.783221755069858
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08715878683716,
+                    10.762696697936416
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09578206081272,
+                    10.758284561160854
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0933946827087,
+                    10.753183840172
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14854058762215,
+                    10.818408186194418
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1400066334344,
+                    10.779480792411338
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12667041326308,
+                    10.766244315561641
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06680821718408,
+                    10.716330851725958
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09385209529862,
+                    10.737307916015512
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13355580652673,
+                    10.715495337154593
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09594050595899,
+                    10.744305568209763
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13829634787142,
+                    10.745932363663169
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13805731740676,
+                    10.75518603657586
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04631158231139,
+                    10.718417560424596
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0764320578033,
+                    10.728607160366865
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13982180252277,
+                    10.754221378706509
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1370085072045,
+                    10.729771331453861
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12947881573196,
+                    10.735703877775148
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05881383270645,
+                    10.707431771170056
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1166373757349,
+                    10.764358775209136
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13658254444921,
+                    10.748323814690252
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11284644264965,
+                    10.731138614471327
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17525682032233,
+                    10.773729550391751
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15249739841133,
+                    10.775613796409587
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05981452726685,
+                    10.746380702709152
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14188107672597,
+                    10.780472727064293
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04807654331941,
+                    10.717415467321644
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14753313129484,
+                    10.796195257416917
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07985221383571,
+                    10.744402680372259
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13580630070109,
+                    10.72636357216508
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08733208131875,
+                    10.747494097462422
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12669732811361,
+                    10.789476717753699
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10381715089636,
+                    10.76457052560653
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04493872730961,
+                    10.709845382192682
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19279791669109,
+                    10.767290401944795
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0900641490869,
+                    10.720419640078731
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09149160502339,
+                    10.763078393697986
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0779141231147,
+                    10.714812876020837
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11028425682731,
+                    10.750900998025312
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05797358292055,
+                    10.70411454277714
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11531875880121,
+                    10.760034524020623
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18181147436358,
+                    10.777961294071233
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1010084705832,
+                    10.745039730536641
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10717711806791,
+                    10.725025986126942
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18886312090964,
+                    10.768216324921246
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12336146115975,
+                    10.751489794591679
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06140510491164,
+                    10.7111639234803
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07783858817416,
+                    10.722379116958264
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13866520651783,
+                    10.815332915497306
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12534934885954,
+                    10.767998828878337
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08935770181947,
+                    10.742133504980163
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10792325215934,
+                    10.721847448796948
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1698941966662,
+                    10.778184468937493
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09813191680476,
+                    10.749622443134848
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14148332064781,
+                    10.819041237056078
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08160159721595,
+                    10.741216214418683
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11255376853617,
+                    10.76920485294779
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05347537804649,
+                    10.707986920455985
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15734146355611,
+                    10.800765088390124
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15383001021755,
+                    10.793225078615981
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08927234205755,
+                    10.733198568966934
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04374490812403,
+                    10.710248095104394
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17944436723272,
+                    10.78473595520501
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09510689959218,
+                    10.730175581712928
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07464897493226,
+                    10.730386481484292
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1889872146041,
+                    10.785425438216041
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18181001299371,
+                    10.763450121807654
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17311432593024,
+                    10.773034181610972
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14273125515886,
+                    10.734638976207851
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10455041269422,
+                    10.748534424761308
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10590598822031,
+                    10.761200280597684
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12629115826283,
+                    10.764306562056841
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17118298613829,
+                    10.76868595199079
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13116213514691,
+                    10.735036502555038
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1313477372871,
+                    10.743183268343246
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09462892480192,
+                    10.755889347172378
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16712294623584,
+                    10.796154291170932
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11959887788689,
+                    10.776378531200338
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07264408292451,
+                    10.717424237272564
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04671114315093,
+                    10.717397073353428
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18521956025546,
+                    10.775362623453763
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12981907463195,
+                    10.819708124013738
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06444183532435,
+                    10.726721665611539
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16126909193285,
+                    10.792789618238817
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11964413432082,
+                    10.762457662533375
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05770107844194,
+                    10.73826560664876
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1400754075653,
+                    10.758125030154151
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08661880539816,
+                    10.739652809905323
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05793806892942,
+                    10.739358603031931
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14590114112679,
+                    10.77115426568064
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11132778721614,
+                    10.741633199132366
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1757343019347,
+                    10.781180054252033
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15287254349695,
+                    10.777093096893866
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16855293698806,
+                    10.775760032485968
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05807605445636,
+                    10.737986257222145
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13322638915311,
+                    10.796255801934702
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18486137848174,
+                    10.776966313012789
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05827957669108,
+                    10.707784346918006
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1299465770734,
+                    10.80813616467544
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13031767045524,
+                    10.76277500628882
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03851420174732,
+                    10.713332671983883
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13547476801766,
+                    10.742790092769086
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05809080266992,
+                    10.755364342871083
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14061035799672,
+                    10.821416072959014
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14192374835532,
+                    10.740419757075347
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13244366915278,
+                    10.794503937396692
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09848430575117,
+                    10.750864688223542
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10227202610868,
+                    10.725533424444105
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15839288323603,
+                    10.79769326368082
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11690479240652,
+                    10.777406544005892
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14162733786452,
+                    10.810663356875775
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19339569431362,
+                    10.770827153684001
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07575928662722,
+                    10.76170908156089
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09566639536435,
+                    10.720646973769945
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0817032127676,
+                    10.761646643034759
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1838151849835,
+                    10.770958212283922
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08766291785402,
+                    10.726311849839949
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0557754284015,
+                    10.709405424055092
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07673241831024,
+                    10.713074663617817
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10762913232786,
+                    10.735115137474102
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07476253585735,
+                    10.717516807776136
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1272878872039,
+                    10.757363002443087
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12553098796934,
+                    10.793960824849965
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06709182152592,
+                    10.72031936710711
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14408212800458,
+                    10.779038001181068
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14565583115267,
+                    10.813450136622833
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08294929314529,
+                    10.748365813831315
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1640530433286,
+                    10.78710627476961
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06513081224996,
+                    10.752235432301498
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05721474568061,
+                    10.716370623056262
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14392311895081,
+                    10.74620283937652
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15087659325997,
+                    10.79231877734186
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19099193917819,
+                    10.793210003794828
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1282177033348,
+                    10.747815759009244
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12569805822831,
+                    10.773158212742786
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18534510538295,
+                    10.776770511481091
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06724255305686,
+                    10.725301893279234
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14563313247957,
+                    10.766283795584753
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13708632686834,
+                    10.758888110880653
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07025833166703,
+                    10.722120280560294
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06961765303937,
+                    10.746065651419684
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16579394560718,
+                    10.780439150009821
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07092748608636,
+                    10.72456131836945
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14216075748345,
+                    10.75575601482861
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05595565451267,
+                    10.70783259860593
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0675134387038,
+                    10.728821546324122
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13012596143109,
+                    10.74611728144514
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06365255999508,
+                    10.728347261113779
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07685037514028,
+                    10.727368018288068
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13528109733163,
+                    10.772621667871878
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11629092159959,
+                    10.749138621794714
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09942329400619,
+                    10.752525689360327
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07195778642719,
+                    10.751221087594251
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14886506064767,
+                    10.77386003554703
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04986234694178,
+                    10.702240746020667
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11570842004475,
+                    10.760013471618418
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07447243259597,
+                    10.735217774459235
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17113552877082,
+                    10.77243312668235
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05777273270157,
+                    10.709635566709254
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.20112020305758,
+                    10.779092910016434
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17426200517916,
+                    10.79388538985456
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10209785221386,
+                    10.764859823313827
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10869520791415,
+                    10.759828840426408
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09493963222211,
+                    10.750027020818802
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16132459249877,
+                    10.794988311623616
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07292362373373,
+                    10.737917949094008
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18957044498407,
+                    10.80207931528091
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12796492254,
+                    10.785371886646583
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1488128830523,
+                    10.783059360222268
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13411178037883,
+                    10.809562533880769
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13069553761166,
+                    10.803617877928929
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11420431210806,
+                    10.73940817397537
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11704009775238,
+                    10.768509168314715
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06752631525123,
+                    10.71902789883977
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12949727565244,
+                    10.784158777313696
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18271962060264,
+                    10.796487332083023
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04139576323178,
+                    10.71832731178343
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13538249602884,
+                    10.784197431094126
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14069935436558,
+                    10.807563051171254
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07190510245722,
+                    10.730708010056494
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1319077181788,
+                    10.780344880902637
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07148121595684,
+                    10.746707507497119
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14805512897804,
+                    10.781944322336313
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06899781665159,
+                    10.727145121952407
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11331833220581,
+                    10.738904431503569
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09880431604915,
+                    10.722136424499956
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09161638701745,
+                    10.733002680506925
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18984514589162,
+                    10.788773826457687
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10745311148511,
+                    10.762373525569531
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11733047468118,
+                    10.767591055128655
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08845344425683,
+                    10.754951835186032
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09238191441993,
+                    10.719673675724374
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14131242561055,
+                    10.733558949757732
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14363075845193,
+                    10.77659136338683
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13135925806066,
+                    10.809315818496724
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16858614016327,
+                    10.771202972738436
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12731607709453,
+                    10.791357408913195
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09313849248565,
+                    10.73055657277446
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05722218808862,
+                    10.712825025718267
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09827790401785,
+                    10.721935644160974
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03470315545493,
+                    10.715602441234669
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10760063496846,
+                    10.71905748808599
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14009088124841,
+                    10.806170006513199
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05226752575939,
+                    10.749135671423986
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15774840503941,
+                    10.798342037896052
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07048756163418,
+                    10.748065289522167
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.18836605455436,
+                    10.792950154811319
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14003198211185,
+                    10.750980967225123
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.051378973198,
+                    10.702962776550534
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15895013254728,
+                    10.794066449049149
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11481210092117,
+                    10.760509799638074
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11142214016091,
+                    10.734451962156378
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06098500179785,
+                    10.736484489171945
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08463251959358,
+                    10.763079281941877
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10809731807171,
+                    10.734227078078066
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13808881396844,
+                    10.80951046630483
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0992793158295,
+                    10.762526167422036
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07744990722836,
+                    10.725031867831987
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10482848841804,
+                    10.723491126779559
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09043674436337,
+                    10.738598238103826
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14960530074435,
+                    10.797734762686382
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05906715477063,
+                    10.72842983347348
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17666673827948,
+                    10.778489799482287
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07987572157006,
+                    10.726975884055731
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12615581522309,
+                    10.801471233788932
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07102782372941,
+                    10.748106283986967
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11241258407489,
+                    10.729788615624312
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05218047154759,
+                    10.71120851466031
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1158970820851,
+                    10.738129590961952
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14184040830736,
+                    10.762624373914928
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05947620041917,
+                    10.736052210143542
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14262873006537,
+                    10.777567557684572
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13221955028133,
+                    10.777824357465738
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07323195501694,
+                    10.726294971747091
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.083415690757,
+                    10.738997762856014
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14145673014018,
+                    10.731807928961999
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07705022637005,
+                    10.71988712545085
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10382606308112,
+                    10.746194324962739
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15504460592446,
+                    10.77984802095565
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12961935655683,
+                    10.773460716091723
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.15785199872995,
+                    10.793797995308235
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16919087883738,
+                    10.796512511831834
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13556142753544,
+                    10.773225345618947
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13897428338545,
+                    10.804593412375636
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07831898816751,
+                    10.759488224989871
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17158543897426,
+                    10.793835049928978
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06100321472594,
+                    10.710843904339248
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0507100267806,
+                    10.718802399853208
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14329066994085,
+                    10.737871261739333
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.16219302990399,
+                    10.791892695724849
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06489334085163,
+                    10.746447988805265
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11762532393577,
+                    10.773422464082547
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12648684154131,
+                    10.780011247640669
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.17046919032455,
+                    10.763854498977805
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05801424233705,
+                    10.75293381603232
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.14174675657867,
+                    10.810830053000883
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19519330790867,
+                    10.790849952456398
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13595942864596,
+                    10.741729447786255
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0774743624558,
+                    10.746560271730802
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08310746523199,
+                    10.727986454507725
+                ]
+            },
+            "properties": {
+                "AC_NO": "174",
+                "AC_NAME": "Thanjavur",
+                "booth_no": 0
+            }
+        }
+    ]
+}

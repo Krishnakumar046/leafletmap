@@ -1,0 +1,4040 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.86955420819291,
+                    12.688891095537597
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93155298617484,
+                    12.745838506073614
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.032800619911,
+                    12.871328350817278
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96569216256958,
+                    12.913191696437856
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04031481150838,
+                    12.802469805110176
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01422545990783,
+                    12.86042877078486
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00010123419985,
+                    12.775654337334245
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98288102171362,
+                    12.720559664802927
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0613936529592,
+                    12.804670603770653
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00525618810035,
+                    12.792438360482814
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89984404290456,
+                    12.800713091033037
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98452434840752,
+                    12.758171128700903
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.109540697054,
+                    12.815413446839784
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98496528817712,
+                    12.824834729365147
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.84892726464672,
+                    12.748077960511546
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04522064281737,
+                    12.906511631293148
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02254593473975,
+                    12.826475798403472
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.99937121548543,
+                    12.787640768007849
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95177928899142,
+                    12.841682928950718
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09508206441826,
+                    12.819142813723502
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10419371142638,
+                    12.824195866402363
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.8806825576327,
+                    12.848062817529643
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08797868400917,
+                    12.91894901655468
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9205335804201,
+                    12.717143812816484
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.913882427071,
+                    12.838167963670697
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.85693450690563,
+                    12.768869312340891
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95191353048276,
+                    12.706963989786571
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95836762136041,
+                    12.704021756469071
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98748566633891,
+                    12.911037512348425
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88395814532515,
+                    12.855940457211764
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02946275014546,
+                    12.709502249308997
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89354146493558,
+                    12.756428774157072
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.90394170408365,
+                    12.699078329588282
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02697189270785,
+                    12.878880854607756
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07553076674694,
+                    12.880153092611287
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94706468811552,
+                    12.893258765841825
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94410380237794,
+                    12.769881814065474
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98147239028067,
+                    12.767199447403208
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1111695596195,
+                    12.876510939519083
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01081980454995,
+                    12.712045407883826
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02789788682061,
+                    12.88178542435209
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9196517804504,
+                    12.799990907935873
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93827725997046,
+                    12.680171852972144
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96651177502277,
+                    12.779116709392987
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93261954162094,
+                    12.752000649716352
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96400872744034,
+                    12.760047559876362
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97973773799927,
+                    12.724238889768156
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92599869540473,
+                    12.723835783815314
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94075766372637,
+                    12.880762078030923
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.942772929728,
+                    12.848403671161329
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11957011677721,
+                    12.879978545846237
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01265518803665,
+                    12.77541662928827
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00238483958618,
+                    12.709030842247014
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88992415070294,
+                    12.724906081456153
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96420874628117,
+                    12.831809185620948
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04528820418649,
+                    12.904385327849832
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.8774410604776,
+                    12.680784203548146
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04485443988878,
+                    12.786996501273872
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93419900870602,
+                    12.82281407785285
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93343408245002,
+                    12.704163663080728
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95815665129598,
+                    12.775101080721088
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97787264714832,
+                    12.80758795913974
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.90386593798071,
+                    12.827334062581581
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9343610229733,
+                    12.678247571431355
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9694479583057,
+                    12.78602248051307
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92132038920451,
+                    12.802428292408733
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91466315046257,
+                    12.722700409010145
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02924143314131,
+                    12.820862413141471
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0505067776992,
+                    12.820831126305103
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92086682725073,
+                    12.758590214815728
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04220666584855,
+                    12.902505353473723
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97629005862208,
+                    12.735308750262144
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07153923914505,
+                    12.824606347105881
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91263787248413,
+                    12.73066635931617
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03721395279045,
+                    12.832569490837749
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88208203790845,
+                    12.704206433508043
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.84779547369071,
+                    12.748506870098442
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13389312252238,
+                    12.850445662666791
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89993796878333,
+                    12.759972361421822
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.99999246578476,
+                    12.731504759941046
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06381998705444,
+                    12.765203105321941
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04242924320708,
+                    12.835035165932501
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98832185777752,
+                    12.754383232934595
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08558061939421,
+                    12.923634154852326
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95337772723957,
+                    12.768296106710451
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03049801414089,
+                    12.729714418498723
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06910507000715,
+                    12.895019551656524
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89751794723215,
+                    12.690260764764972
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95671036872992,
+                    12.890798172005164
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00906496512732,
+                    12.819815608238326
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91271073105257,
+                    12.73553253537862
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94056131402812,
+                    12.779905355892053
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08307872238083,
+                    12.864378101833339
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96169971691104,
+                    12.731069018600355
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92636945641154,
+                    12.778663387291738
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04889411854954,
+                    12.786541683099136
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95966878339159,
+                    12.758381989230102
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1088723074742,
+                    12.887049635764754
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9394909066251,
+                    12.763182635594823
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01804947085559,
+                    12.765871881787623
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97425367228348,
+                    12.776112460347703
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97754200364612,
+                    12.821516174188988
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.86423942165382,
+                    12.7431754774934
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89196232914178,
+                    12.75331881962228
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08497586332257,
+                    12.804442875999946
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03444644708432,
+                    12.780039316312788
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9292289225791,
+                    12.704251026889423
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97330469563842,
+                    12.92924485389219
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93466532922645,
+                    12.716669544579622
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95126602043175,
+                    12.854683790793699
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96158536516919,
+                    12.814185253606944
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04027379510376,
+                    12.737126845181619
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98348656480738,
+                    12.80958551429979
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00883064143316,
+                    12.837070650448815
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92975381250365,
+                    12.82793985943178
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95004043951326,
+                    12.859179741856067
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98187443502695,
+                    12.734692153217296
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.85440883164364,
+                    12.664879998018634
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.85821572195715,
+                    12.74448947356803
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98989091824511,
+                    12.737891805269124
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.99913925212866,
+                    12.78272397133615
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00007515540813,
+                    12.754267964325564
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88628954838774,
+                    12.69920994992948
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97579456204808,
+                    12.787736869667512
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92957858428946,
+                    12.842807890039737
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9362398922752,
+                    12.746650413282465
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11479554024807,
+                    12.828075932292531
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04885449573884,
+                    12.84528191072722
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88538933656608,
+                    12.715561090627192
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94517618711177,
+                    12.718853189609058
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95069745156836,
+                    12.796062132246483
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93142904255006,
+                    12.729687661369727
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91055938154196,
+                    12.749694012121552
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0350623758801,
+                    12.736090364036645
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07680288439296,
+                    12.820318779045063
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94924964979627,
+                    12.745406048588228
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.85035472169932,
+                    12.75326895054531
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.86319531339248,
+                    12.70715147000208
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07059404397275,
+                    12.860447111470577
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06357202319352,
+                    12.878051070052678
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11591692144023,
+                    12.881545465567676
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97963253783104,
+                    12.886438086465539
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88489987254586,
+                    12.747247408389375
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05434398872737,
+                    12.913364841854513
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01182667503711,
+                    12.910439628630305
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0368706923707,
+                    12.826285326588339
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00538594851763,
+                    12.887836751058364
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89969216821942,
+                    12.702399549882106
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.87660925498227,
+                    12.756822517383787
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95240848739128,
+                    12.739118456951326
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00402677584448,
+                    12.744506056376647
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92152182431967,
+                    12.845674258966033
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91304466898788,
+                    12.802511250630442
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.99829175481754,
+                    12.775862546879122
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01662359082093,
+                    12.904381919411914
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95487184721338,
+                    12.760299163959937
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94142035645007,
+                    12.762414262089004
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96258759139988,
+                    12.78813220336315
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11003642492302,
+                    12.833543013031598
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96811153429124,
+                    12.775276068559576
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96285352034474,
+                    12.707792486646921
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95923415943176,
+                    12.780969941671446
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00673332527126,
+                    12.903508968059231
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07840079964505,
+                    12.82587846545061
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.90502262966969,
+                    12.797099164284965
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9256476171224,
+                    12.79790193067978
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.99995943459538,
+                    12.824066854069821
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05237190236204,
+                    12.75612578470694
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96545138433089,
+                    12.751579212311551
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.87245961171843,
+                    12.74865365238032
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.87758901591691,
+                    12.716789205451825
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03444294581696,
+                    12.884688407921889
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94633483844679,
+                    12.712962527419887
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9197691873666,
+                    12.904246883020207
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93434669187388,
+                    12.766357752022323
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01072967492357,
+                    12.881740557611375
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0741992182845,
+                    12.864632273876856
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88053484640852,
+                    12.744564274693364
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89699712400491,
+                    12.76022444855936
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09338676963252,
+                    12.765458668652307
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10268374971595,
+                    12.863758204932589
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97726617763719,
+                    12.910192160377104
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96770345226702,
+                    12.745870998371217
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05881356400445,
+                    12.885216737736279
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96757971080018,
+                    12.868503896936584
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00672273621288,
+                    12.821453596281483
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97846679931486,
+                    12.77235881531659
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.898455683583,
+                    12.74484753535182
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03912842145131,
+                    12.873059922838172
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93107617176878,
+                    12.754849217728657
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00965497036482,
+                    12.725337286757155
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0586251872012,
+                    12.845743034268331
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.90228461832264,
+                    12.70900207448434
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.88560389909527,
+                    12.695659024292212
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97543991967476,
+                    12.855881695243822
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01269340460469,
+                    12.756435200923002
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97024140449817,
+                    12.832555314812387
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05222060533622,
+                    12.804072838704167
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94884957876266,
+                    12.79723390180336
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91912325743017,
+                    12.768496908919552
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9722235353999,
+                    12.67867561211282
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.87821380206063,
+                    12.769360577202024
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02204671502521,
+                    12.810193495943512
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.90304769605157,
+                    12.703213773469624
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92443781261807,
+                    12.763121974340454
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00104423787361,
+                    12.79356970677478
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.99286946732114,
+                    12.871517057470005
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06092442254324,
+                    12.921332724653126
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97957677378068,
+                    12.735340113584083
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0465412749062,
+                    12.773779468149044
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95936747644406,
+                    12.776905031756986
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00857048079054,
+                    12.925221433971322
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09587655988834,
+                    12.808788348236758
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93465669280458,
+                    12.793376709935107
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93815103249699,
+                    12.883397669711687
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.8662452820103,
+                    12.74144439420725
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89317007606374,
+                    12.855168282346026
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9521091768668,
+                    12.823976175646308
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.02680347500981,
+                    12.90333506477131
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0710719359243,
+                    12.829543484072182
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92261217025406,
+                    12.878222598550833
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03815700269409,
+                    12.822926662692506
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97213883631228,
+                    12.824543484641913
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09106702866488,
+                    12.770331443291203
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.13669670082862,
+                    12.846230756937489
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04322675941754,
+                    12.82563719839092
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96399414148073,
+                    12.84005176956987
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03918891273743,
+                    12.83441471914354
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.10820178105514,
+                    12.814198107405623
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97581879388542,
+                    12.839758308038563
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0489235034402,
+                    12.843762023778952
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95155865817019,
+                    12.709650366004444
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03353216062658,
+                    12.865402377580915
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.93381934981858,
+                    12.78608901347505
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08393669673076,
+                    12.846760198584759
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.0153020689286,
+                    12.899297162839341
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92803959665056,
+                    12.752418384122013
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94232521337722,
+                    12.897768088931373
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96760398885137,
+                    12.727641139418727
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.96674448131763,
+                    12.72584546009745
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.91190206563908,
+                    12.763564166645441
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92036882319073,
+                    12.782134088560104
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04879065719659,
+                    12.749461648901425
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07257264275191,
+                    12.760214360894423
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.11825760536045,
+                    12.887213661055387
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.04255461338063,
+                    12.854180503631165
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.98923816016905,
+                    12.791612179782271
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12051958280495,
+                    12.838521198164075
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06265016792698,
+                    12.85690887788318
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00929753177235,
+                    12.890194475111905
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92044830319725,
+                    12.723938286011395
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08916750381707,
+                    12.758773676072295
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.89794995952442,
+                    12.710782801800532
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92465562900647,
+                    12.70340783039024
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.90725885269477,
+                    12.816546098742574
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05312023068048,
+                    12.906055553806596
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95076566825854,
+                    12.874425693302651
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.92079392247177,
+                    12.826861565820053
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.07055519325056,
+                    12.861945511868004
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.03358192303557,
+                    12.8849792787421
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05615999505521,
+                    12.748394240575802
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.94355009955314,
+                    12.864817776393744
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.08327246530682,
+                    12.842724221360301
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.97533299341971,
+                    12.784117085502485
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.01467054455472,
+                    12.8519957969249
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.95627648901801,
+                    12.891567914703272
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.9408952843702,
+                    12.784036338965338
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.959077995928,
+                    12.83174627776407
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.86955420819291,
+                    12.688891095537597
+                ]
+            },
+            "properties": {
+                "AC_NO": "044",
+                "AC_NAME": "Anaikattu",
+                "booth_no": 0
+            }
+        }
+    ]
+}

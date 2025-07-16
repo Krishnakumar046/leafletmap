@@ -1,0 +1,3095 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24679376554624,
+                    13.094832199520084
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2664949193235,
+                    13.102113515862694
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24499929700713,
+                    13.10034386331222
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27137659011437,
+                    13.097243538611265
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24530112679498,
+                    13.09723823743058
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25810983403764,
+                    13.108704307994513
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24638141546566,
+                    13.090150092541469
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24049258480835,
+                    13.08824497739978
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2614683137108,
+                    13.107295002783731
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24217152436098,
+                    13.099650818351124
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2424543547859,
+                    13.087737324391927
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25726062736805,
+                    13.102956559840388
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26097526047218,
+                    13.093273725699225
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25784544989789,
+                    13.105866351239778
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26751731081673,
+                    13.105378960540898
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24342606055414,
+                    13.10181798227491
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25311220212434,
+                    13.0927113240895
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24334368542785,
+                    13.100171700727865
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24831831564634,
+                    13.098772982866713
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25739238401262,
+                    13.097241646649847
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26478740424572,
+                    13.101390323583653
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2500017891977,
+                    13.093606700955068
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24210515281649,
+                    13.093773686468898
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25852609611843,
+                    13.10552021125407
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2467714794878,
+                    13.10570349616836
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24680866688419,
+                    13.094737940800837
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25753216966706,
+                    13.092000274248033
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25298837531876,
+                    13.101050001860083
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24660293530195,
+                    13.097178555589883
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2603692969432,
+                    13.106830975701374
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25060313558126,
+                    13.105535231452667
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24497691213632,
+                    13.097824333407978
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24812469906637,
+                    13.091555781999904
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24522215977746,
+                    13.096894723462048
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25474612027013,
+                    13.099491034808546
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26959238307072,
+                    13.098493939468055
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25251916186238,
+                    13.094495941858266
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24453411067904,
+                    13.093724233104451
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26175722870924,
+                    13.101032591908442
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24547539393832,
+                    13.101468586754043
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26204388843287,
+                    13.1076151373806
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25624743332385,
+                    13.095374722238947
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26382193195668,
+                    13.108481741509124
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24893045876783,
+                    13.10758040038698
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25459379088538,
+                    13.109083644904022
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2495175833113,
+                    13.090975076691002
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2439930178548,
+                    13.096397325769646
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26563783367105,
+                    13.102233100600044
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25758264535297,
+                    13.100122923955702
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25741190096228,
+                    13.106367780424925
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25464338792962,
+                    13.09186663618078
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25553171968231,
+                    13.095744294895981
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24723868505437,
+                    13.097586724088966
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24203494917502,
+                    13.097331453871684
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25480048934348,
+                    13.10004367054516
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25021570753081,
+                    13.092452970324379
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25548498999383,
+                    13.101197402881144
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2468292986846,
+                    13.110218381593965
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24505710882437,
+                    13.094477745822024
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24611130991508,
+                    13.100565465522088
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25445989364518,
+                    13.107283231102514
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24188966982628,
+                    13.09589407809246
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26123139581901,
+                    13.10135233870993
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25164006820181,
+                    13.098704981962733
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2429362827753,
+                    13.092750989650453
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26601089872185,
+                    13.105953150908237
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26239631941151,
+                    13.107344300435814
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2523715782234,
+                    13.106375276138372
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25318140190582,
+                    13.096832531632705
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2494465205386,
+                    13.091118767031599
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26886885103262,
+                    13.101563896029347
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2667502114008,
+                    13.106275384781066
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26691295995353,
+                    13.106202035209803
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24707117376795,
+                    13.103999387552522
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2634176869028,
+                    13.102627998493722
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24530886088772,
+                    13.105445678669286
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24632770638578,
+                    13.090959757692827
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24507358979957,
+                    13.094802436067438
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24506503445568,
+                    13.089718015745158
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26539633084153,
+                    13.1080652694768
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26735005496843,
+                    13.098249915069983
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25978372938775,
+                    13.10198709965182
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24621084690699,
+                    13.090390195990743
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25251354825045,
+                    13.101938421887038
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24705587626806,
+                    13.089111003067407
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25016057532925,
+                    13.09606851603825
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25274261587812,
+                    13.107638243067866
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25162555084654,
+                    13.106125887207272
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25207657202196,
+                    13.102222107386075
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26991128052039,
+                    13.099086242051197
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25980062101493,
+                    13.106777459110702
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25097867980797,
+                    13.10667037616308
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24762019107008,
+                    13.108560645908282
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25801827419905,
+                    13.097136233183955
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24886295679367,
+                    13.100206380560786
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2505123763794,
+                    13.100866605157067
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24640942763139,
+                    13.10701993516988
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25760315102625,
+                    13.10567677384865
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26004166893273,
+                    13.102689065306949
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25489057739118,
+                    13.097502504364192
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25929964957217,
+                    13.096428753707242
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2505119229504,
+                    13.10857339557508
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24906993427831,
+                    13.104027797393174
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24753927246125,
+                    13.091337831442448
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24380086927678,
+                    13.100802695088065
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26141117550715,
+                    13.108324678010748
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24323723863398,
+                    13.097076459233168
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24974352083287,
+                    13.107486397975
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2497636160341,
+                    13.10392826080258
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24408106375239,
+                    13.09273352877724
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26748590900922,
+                    13.10854469341247
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26064640219481,
+                    13.108850535874312
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25704949644454,
+                    13.093799344810582
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27144646220549,
+                    13.101492123483045
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2559454646157,
+                    13.10751059410922
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24235356299037,
+                    13.09330309253469
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24473235584186,
+                    13.112135256209477
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24199225622232,
+                    13.097225684832944
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24173934746857,
+                    13.088161978265834
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25220867920478,
+                    13.093039111083824
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25726382499474,
+                    13.105759559609524
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24392274289009,
+                    13.096964369311996
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2424334879574,
+                    13.090918182252269
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25997168565291,
+                    13.095910415568135
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25153227764461,
+                    13.104792503112625
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26392726495568,
+                    13.101778544052648
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24648052915344,
+                    13.108268276219281
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24646892627403,
+                    13.090157139472566
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24399062738604,
+                    13.095569323539317
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25244326543907,
+                    13.102050152075643
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24817621504168,
+                    13.108452830331883
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24930602423932,
+                    13.093314750545455
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2596566613499,
+                    13.095352473955497
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24583658154525,
+                    13.099648239720022
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27127158078775,
+                    13.096636051925547
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25514325782521,
+                    13.108079470595433
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24241660132878,
+                    13.091601477821149
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25301127598088,
+                    13.101670968877366
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26202998806424,
+                    13.105295120857633
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24214730279793,
+                    13.089711274840399
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24314859669471,
+                    13.108037554014093
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24687642605949,
+                    13.104672328101598
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25311126582557,
+                    13.091547799287241
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.27015391748162,
+                    13.107166545691332
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24764002937506,
+                    13.100991867632318
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24834067133771,
+                    13.098852115921137
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24397049010004,
+                    13.089475142083804
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25641741863429,
+                    13.101787421675017
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24839263235472,
+                    13.106614350508494
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24427008405034,
+                    13.0959878087609
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2571363015153,
+                    13.103288314541947
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24847530568383,
+                    13.09928533321905
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25926234809805,
+                    13.10704115380713
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25594392650929,
+                    13.10831172176397
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24693271907512,
+                    13.090246971452771
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25176926436109,
+                    13.094079594354884
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25515508527637,
+                    13.109277668816416
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26165306684605,
+                    13.10029045973226
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26591466507952,
+                    13.106267790939011
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24267387574832,
+                    13.091467051900741
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25718724716663,
+                    13.099435688889375
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2434287936211,
+                    13.101030799243022
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24234765700848,
+                    13.087883433965574
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24588826952886,
+                    13.092367341485742
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2487903678772,
+                    13.108208116981276
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24858690813153,
+                    13.09752222636593
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24329070777543,
+                    13.092108634858679
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26655961363151,
+                    13.103824025574285
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24878043756479,
+                    13.09690226285367
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24994531294911,
+                    13.10702261113691
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26433269570902,
+                    13.105236830312156
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2610752842519,
+                    13.102864561130533
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2440756534448,
+                    13.092138792910955
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25008475872225,
+                    13.109036356617326
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25265605281109,
+                    13.103666351796472
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25685140060469,
+                    13.100491240310514
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25541271980138,
+                    13.093448064951524
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26014537072514,
+                    13.09906273806434
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24350509104725,
+                    13.10572392039256
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24670300845884,
+                    13.088684798220923
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25412597619645,
+                    13.094424239449529
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24950505519222,
+                    13.099420108211062
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25964162191885,
+                    13.102755402755122
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24522636397167,
+                    13.093133772158476
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24975069851719,
+                    13.109111769326642
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24547498256273,
+                    13.107042508512363
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24411823752023,
+                    13.08882197377165
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25071087392735,
+                    13.091387925658236
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25619704407332,
+                    13.108986664863385
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25287382014028,
+                    13.098792528759352
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24150724937857,
+                    13.09347793313489
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26875007834525,
+                    13.099526798161172
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24600150478213,
+                    13.103606507397128
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26569881020366,
+                    13.101209740530978
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25004590057127,
+                    13.100949337536818
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2566909555631,
+                    13.094846377670951
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2453933087985,
+                    13.102853391718496
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24172166576805,
+                    13.08951551122425
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25884623993093,
+                    13.09489234504217
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24479671181604,
+                    13.104935449397974
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2522454875131,
+                    13.1040042337745
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25822145299328,
+                    13.105763668917751
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2404486466784,
+                    13.086956437086556
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24681116325776,
+                    13.105927572922669
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25374226525945,
+                    13.093236733285757
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24679376554624,
+                    13.094832199520084
+                ]
+            },
+            "properties": {
+                "AC_NO": "015",
+                "AC_NAME": "Thiru-Vi-Ka-Nagar(SC)",
+                "booth_no": 0
+            }
+        }
+    ]
+}

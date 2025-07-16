@@ -1,0 +1,4460 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75776355989211,
+                    13.15376109629577
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77714100872763,
+                    13.12405733206098
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83115646000044,
+                    13.000404504164704
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6576831388835,
+                    13.234722699617313
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73002325437514,
+                    13.183535652241396
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7233240871309,
+                    13.18629500925046
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64185371720228,
+                    13.224877939684959
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84347389185412,
+                    13.162828074502116
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78377427947684,
+                    13.131797503836228
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79862436301586,
+                    13.244536764509707
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84747189038208,
+                    13.015948526416713
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85897628199683,
+                    13.102135680278916
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76433902687246,
+                    13.215941355929044
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87990804265806,
+                    13.052873386645084
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92143213426826,
+                    13.196464608221653
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85640346649777,
+                    12.995713132274574
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78398379120652,
+                    13.123599936426832
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82238738626869,
+                    13.241802457848374
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88553751049635,
+                    13.128837751370957
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81950449925966,
+                    13.137209704548939
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83137052637221,
+                    13.023805829034263
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84670786441627,
+                    13.087901525377939
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84312553540033,
+                    13.101838587858396
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81056121766771,
+                    13.059519249166813
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75832662061288,
+                    13.139953932458189
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78428351787745,
+                    13.081227040479362
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79619503201839,
+                    13.188451390217795
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7291834697653,
+                    13.059654422001584
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91012757198334,
+                    13.071215708009328
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83891781618614,
+                    12.957528679588131
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85265592917084,
+                    13.18469495590734
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75631449436827,
+                    13.28702683963464
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.678634429878,
+                    13.188767369896752
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79184302622264,
+                    13.269025339009227
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82875812680255,
+                    13.235748101720432
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92111752432889,
+                    13.001857263411983
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7842964017121,
+                    13.083883167826889
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87664570299826,
+                    13.177519368236394
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.831079924195,
+                    13.06362837990936
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79652478552266,
+                    13.206253638103952
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8046874553019,
+                    13.18536942127657
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92126324097096,
+                    13.000772482321649
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88294267925382,
+                    13.191107909219467
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94617769382333,
+                    13.041399468339607
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66149740707438,
+                    13.235273494783929
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65314092299761,
+                    13.236844842298217
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91377150163359,
+                    13.048909079800122
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82457375442813,
+                    12.98843009977845
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94699351625437,
+                    13.035634328338897
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74942469875003,
+                    13.117952047693263
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88945301519573,
+                    13.21347436199637
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84266888183497,
+                    13.044458174036553
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85941475719676,
+                    13.159084638635381
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.93085855956888,
+                    13.08707908308995
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92192201680685,
+                    13.039404970245352
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70137443695494,
+                    13.231074196621273
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86404607027394,
+                    12.964400756897504
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80598827446723,
+                    13.214246278615777
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73380284981258,
+                    13.18770684825651
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82723898755508,
+                    13.180183775778103
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92827335147884,
+                    13.066025615397253
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87121454689536,
+                    13.221279578489995
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75311141183386,
+                    13.129215879667493
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88498017657771,
+                    13.07080562999538
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82644438559689,
+                    13.10568691199407
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85942997880123,
+                    13.087622987868274
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77979186065416,
+                    13.18106878676599
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86615125531138,
+                    13.092226730898842
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80596658076352,
+                    13.111302764932535
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86356564588846,
+                    13.016850860045736
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82634856549508,
+                    12.992180236475257
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74845715317741,
+                    13.108228467933206
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.743733109314,
+                    13.213261583078372
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79161497918093,
+                    13.171853505842025
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9697134168922,
+                    13.054418189864645
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74440911162704,
+                    13.113356689528349
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78744004415184,
+                    13.116743465342692
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83242809070758,
+                    13.183260282421397
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82313180547675,
+                    13.200690625887617
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.95659330017413,
+                    13.073244211904472
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.90919205518527,
+                    13.153151753950826
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79514369267307,
+                    13.133325830042464
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73857514596263,
+                    13.220949601392157
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83114616131307,
+                    13.07885195815646
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83340636370363,
+                    13.159044219992936
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73984490439938,
+                    13.106951338148667
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70703017150757,
+                    13.203678592489789
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80354253630345,
+                    13.131233918390347
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88784858421496,
+                    13.17925411468278
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9398226496108,
+                    13.193390388257214
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8331713000148,
+                    13.055795845343228
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.842631882579,
+                    13.04557403569803
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78711135852224,
+                    13.139163378029131
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7393877105675,
+                    13.22707828580788
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76914032377327,
+                    13.180768877260443
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9043239250128,
+                    13.076302104723572
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85627379387519,
+                    13.116171296320703
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7802762799222,
+                    13.187943722429885
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84610761215637,
+                    13.134230787328608
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78611955175612,
+                    13.279012406949464
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92671814383269,
+                    13.202387984840877
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77511177999398,
+                    13.073022879395154
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71302259104672,
+                    13.20870503346307
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79260159301649,
+                    13.188401254180862
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87226022400375,
+                    13.10414414982014
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80296193914224,
+                    13.1728712533986
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67335155864312,
+                    13.230622735242191
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79820196295647,
+                    13.065665684752268
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92754783548268,
+                    13.213841777155025
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68683307375203,
+                    13.225042464999852
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80472475307332,
+                    13.051895234355248
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83917213349689,
+                    13.182263316916496
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89585674598189,
+                    13.203306860452063
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83725165956591,
+                    13.101873545627425
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75384359112759,
+                    13.07528460450499
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79800460994299,
+                    13.138796219029802
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77413351870413,
+                    13.195298872062699
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88115656522237,
+                    13.214016444162578
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76669619617729,
+                    13.063012294150358
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89276481019114,
+                    12.989622910968995
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88798141388898,
+                    12.966370074159501
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85883249460498,
+                    13.014807145354892
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87247174455884,
+                    13.01602875438177
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89594113310584,
+                    13.038753940550746
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83464355134642,
+                    13.00186653912707
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7128165202468,
+                    13.199557707550003
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9284550290255,
+                    13.10116931250091
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86777234963256,
+                    13.109118379749116
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91543407169478,
+                    13.198882620791483
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85164019000104,
+                    12.983799462286456
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79052204240888,
+                    13.144087427096204
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74282822576457,
+                    13.287230057977789
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81206280576816,
+                    13.097663306915479
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87192157467994,
+                    13.168378363408126
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81036084429884,
+                    13.22307841939568
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89068019639505,
+                    13.22011470347034
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85400628442952,
+                    13.09199544948258
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80147253958643,
+                    13.232557410496943
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88066740609861,
+                    13.14424561960857
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78452402353871,
+                    13.20012268794939
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75414269679752,
+                    13.143034414358695
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79131271766275,
+                    13.215038514900682
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74729628768203,
+                    13.279207074212735
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.65670963941476,
+                    13.209267267193079
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86630409786864,
+                    13.046934842194165
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94762249081128,
+                    13.082574488592261
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.97410246612625,
+                    13.082478190112473
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91168458502494,
+                    13.082298458196265
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73376838478875,
+                    13.195624256873
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76947383827014,
+                    13.071498626255162
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.98230150305191,
+                    13.055788907184485
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82924720608997,
+                    13.055533791583953
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80984560234988,
+                    13.098600759764896
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62738155182731,
+                    13.245424576580382
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8238888394582,
+                    13.168927408988804
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92500331729073,
+                    13.048289329056901
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78082104268941,
+                    13.164011286495583
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74849715327079,
+                    13.180904701634201
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76663051166518,
+                    13.19594167049704
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.90553381174207,
+                    13.007211454639103
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92384060492788,
+                    13.046085444930634
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84891212522284,
+                    13.004490964595943
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8291112502755,
+                    13.002008832717136
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83791740489062,
+                    13.005337732734105
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80870463106918,
+                    13.178021117338274
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99606924306832,
+                    13.063873429598146
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87749641138528,
+                    13.213865768616815
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.97204875515095,
+                    13.05056438365658
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87810434913648,
+                    13.116350678487823
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81060382407824,
+                    13.218766295099826
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74954270434368,
+                    13.154513758967553
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77963051267484,
+                    13.285078891086652
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8561603083686,
+                    13.1870793130684
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87427085141435,
+                    12.955358132588593
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8121473421551,
+                    13.097032084906083
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81173970985108,
+                    13.21664710771492
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73860911656756,
+                    13.28530381214503
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74201389421638,
+                    13.081721416465147
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76188064147853,
+                    13.126543950414165
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84953442654513,
+                    12.998057110484423
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.66327238623111,
+                    13.235196441169956
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73114243564206,
+                    13.206025468102267
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.923430051781,
+                    13.089749478534443
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77334163969522,
+                    13.181398118585932
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8278476494983,
+                    13.054247835865375
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.93432074008383,
+                    13.006713652302258
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8459787564758,
+                    13.157303345233338
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8212680892734,
+                    12.998840906044622
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80054374883817,
+                    13.162546817712196
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74661234835752,
+                    13.28749801323456
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74713417237798,
+                    13.080726493382569
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86832951873575,
+                    12.978478087706367
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74346329520134,
+                    13.119229094284306
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85138622525236,
+                    13.161181363047493
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7704365784877,
+                    13.158377071765544
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83197744395076,
+                    13.157822958065875
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80357921551436,
+                    13.122035312751256
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87822476165951,
+                    13.062744012084211
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85465296859188,
+                    13.167474623134218
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78990392968272,
+                    13.07710422775439
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82869298045307,
+                    13.187143974077776
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80307405637437,
+                    13.124727652255425
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.93194747187815,
+                    13.21695634018213
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8716873614834,
+                    13.125451557600503
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.84136190905889,
+                    13.040665135469535
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70246030852107,
+                    13.202099810318442
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.99615093181299,
+                    13.069519449505187
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82953891424161,
+                    13.193657706945114
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87294479283348,
+                    13.199066731420931
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80781483075319,
+                    13.237453431089591
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87302142128623,
+                    13.024267096660955
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78810155600264,
+                    13.289718342533131
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85637718116605,
+                    13.022111851206569
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9308699628484,
+                    13.22905638707308
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86130804565092,
+                    13.219113800315439
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81876399011102,
+                    13.083897689801503
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89948995951352,
+                    12.969591708084964
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87807262235565,
+                    13.093325725826041
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.816064322527,
+                    13.069297454581243
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.90356080157244,
+                    13.132335591346168
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81851506647764,
+                    13.05890613465293
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.93128573292827,
+                    13.037824942406855
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86005074663966,
+                    13.199658862746531
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78331894418453,
+                    13.286126253403808
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82836589287446,
+                    13.063344251284617
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81638556228539,
+                    13.00235325702982
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8714976198331,
+                    13.028596952223815
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7665963196292,
+                    13.093322987471844
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76541763520511,
+                    13.062834395071418
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80271154878946,
+                    13.197420643571231
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71042915466832,
+                    13.198472709041983
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89494981049002,
+                    13.093827878876521
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91529062353993,
+                    13.191652476433736
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8314062160613,
+                    12.982096650352021
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.95180264479005,
+                    13.07578216992668
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82227037857936,
+                    13.100502312131667
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91012665733972,
+                    12.980323638511987
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.97181839657732,
+                    13.063219726928711
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89828209730099,
+                    13.085683486982806
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.875463097329,
+                    13.154163234014149
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.90156210324788,
+                    13.121313963581505
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85152843254097,
+                    13.190937204088485
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8216119684152,
+                    13.119935272051631
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73953980057416,
+                    13.147352812794258
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.92949568213416,
+                    13.198488900373086
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73763197898602,
+                    13.226640761405424
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80779796617405,
+                    13.16955461682576
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86800602092572,
+                    13.055475469367785
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8455295770008,
+                    13.163826613968007
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78663428919488,
+                    13.039728699356202
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9143594639912,
+                    13.103798810494698
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87065567618724,
+                    13.099954673938253
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83726064880058,
+                    12.96794896765672
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6890703654182,
+                    13.221454336282939
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6922448727109,
+                    13.206831051352195
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80285823103837,
+                    13.023519764525277
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82463666405329,
+                    13.01836078643135
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94060411106956,
+                    13.07415482590727
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.834677413157,
+                    13.062991731775863
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83016657786922,
+                    13.011142003176072
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79912780531913,
+                    13.152719225813284
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7377424912374,
+                    13.164183568470154
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94390934204493,
+                    13.083950414807914
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.93279537236423,
+                    13.06824444068708
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89736450581171,
+                    13.201583379542562
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86305228822458,
+                    13.131722553980456
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85623034763982,
+                    13.014140796066787
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9073571202463,
+                    13.071111904481313
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69429543113868,
+                    13.222792226673606
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78427117318127,
+                    13.213569978735688
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82819232527648,
+                    13.132111512423286
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85125689515085,
+                    13.009193172258133
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.67195010846854,
+                    13.211541106811508
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86033177113256,
+                    13.12710953200193
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82822902670308,
+                    13.200137011690453
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78967646172296,
+                    13.123734423440702
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.81885978823117,
+                    13.087096582390906
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.9142869363774,
+                    13.20630475149028
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.86314758273217,
+                    13.008961049244665
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75157356548043,
+                    13.200256587797515
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6341636177987,
+                    13.244933489073505
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85640453871598,
+                    12.995242850676831
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85567207163275,
+                    13.161038695059124
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.83514299701112,
+                    13.216198948339139
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.94721335428521,
+                    13.060850456391746
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.82622150105193,
+                    13.166821548358707
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77244504858882,
+                    13.172103479533023
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.87638535163697,
+                    13.064270813590044
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88131144925042,
+                    12.994380860229287
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79115490717659,
+                    13.283140964254592
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8409215987977,
+                    13.078724005117728
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 291
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74434010132647,
+                    13.092094174100747
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8020580347206,
+                    13.240254524881662
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.85544050735449,
+                    13.030499759840849
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 294
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.91834801914867,
+                    13.079915406110807
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 295
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7397050974224,
+                    13.199542700598348
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 296
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75776355989211,
+                    13.15376109629577
+                ]
+            },
+            "properties": {
+                "AC_NO": "004",
+                "AC_NAME": "Thiruvallur",
+                "booth_no": 0
+            }
+        }
+    ]
+}

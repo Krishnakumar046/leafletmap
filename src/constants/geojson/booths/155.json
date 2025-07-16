@@ -1,0 +1,3425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71477351177165,
+                    11.810868238969764
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75346074292263,
+                    11.73864812636995
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72231379379691,
+                    11.85145241736827
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71362392993917,
+                    11.82547821768658
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7109495393642,
+                    11.811352639173789
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7133262357415,
+                    11.802357950750556
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79167066289541,
+                    11.7848914167559
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80016343459911,
+                    11.850815621442816
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70190764193514,
+                    11.7801082307868
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76415373183305,
+                    11.762098301559428
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78175811635901,
+                    11.899498504371623
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69865931149751,
+                    11.858562427461022
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70226729890348,
+                    11.771816929271127
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76555821714256,
+                    11.762686881548436
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75839978833534,
+                    11.853979300070698
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75787367607803,
+                    11.849016090891714
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72291404092445,
+                    11.862426209593725
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77656575633696,
+                    11.78096341697794
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75781735721253,
+                    11.839905276698245
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70907649708595,
+                    11.804698246247751
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73184780389687,
+                    11.846402823279561
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77912927969271,
+                    11.74051961356672
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77619036523257,
+                    11.755109946347968
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75639733599702,
+                    11.772961071293011
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70878543482087,
+                    11.857919986981042
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69477656696438,
+                    11.881150188468048
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7246592748937,
+                    11.776035100471017
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76681457617948,
+                    11.773640376225895
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75523777115855,
+                    11.751187933700601
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77465569587226,
+                    11.83473553699397
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75372868331887,
+                    11.844414516933016
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75432145035992,
+                    11.75685519966764
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70354809531719,
+                    11.886022925314176
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.748129576175,
+                    11.748519789543966
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77818333707606,
+                    11.73518578636745
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76389347426286,
+                    11.71053585425238
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69676335219874,
+                    11.769467856474733
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76168457930254,
+                    11.873419111782004
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78753380947252,
+                    11.83828259491325
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71251137815145,
+                    11.840514136108604
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69549815186117,
+                    11.808019697843692
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70498013201677,
+                    11.764594033969368
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69536834458408,
+                    11.879639859352253
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74527042841295,
+                    11.761551504290436
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75802474856432,
+                    11.7449614578575
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76812847459728,
+                    11.8353711000614
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76372897657886,
+                    11.853525265043091
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77983758034618,
+                    11.845693707135112
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71009432837586,
+                    11.76693648536688
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76340850276806,
+                    11.751702415616347
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77535167527394,
+                    11.898265802677749
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76839258796831,
+                    11.743246105368502
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78283063848959,
+                    11.754412742948942
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7633651743417,
+                    11.733479516690437
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7938882186966,
+                    11.83909390440841
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69468493914309,
+                    11.828701409107309
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70229238683177,
+                    11.871932907166446
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78418588945677,
+                    11.779025816509122
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77293127550321,
+                    11.829076028521904
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79413725974247,
+                    11.895889413871444
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78300772013175,
+                    11.832785313875334
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71461111424489,
+                    11.85190844939639
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75542827428413,
+                    11.719547080380105
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69429009603657,
+                    11.787599251546078
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72167766370042,
+                    11.85053453993916
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76651349095184,
+                    11.741303467570205
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72488990017561,
+                    11.844234658035393
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70771008572622,
+                    11.871707675076966
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77915086887027,
+                    11.897041675932204
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71277105712107,
+                    11.841200538713862
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77479547936099,
+                    11.745903480130687
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73018574750738,
+                    11.84047036252121
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7274242444339,
+                    11.812465299047936
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77580457104621,
+                    11.70394619242921
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69218941743398,
+                    11.794175875759242
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79111995524592,
+                    11.768420609902318
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77955799318511,
+                    11.900130533279224
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7762735804974,
+                    11.76588021353644
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71163338750124,
+                    11.844563900119969
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7169574710315,
+                    11.797835276914027
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79916977380111,
+                    11.846794114195351
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76526911995082,
+                    11.856851172916944
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77193852851705,
+                    11.71443434611699
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68830370390184,
+                    11.770316943919877
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78025623328342,
+                    11.71998328859586
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69854790800972,
+                    11.796416161476573
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7208087933332,
+                    11.768816388261936
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72130767177437,
+                    11.759995114797876
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78709916343709,
+                    11.877535212949002
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77913472193876,
+                    11.86590221484034
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76736265043948,
+                    11.790062351863018
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78349603351539,
+                    11.872259559084396
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70294182102889,
+                    11.861750365306845
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73494225001305,
+                    11.864654581643636
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76900655358301,
+                    11.728287725217838
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78331654303625,
+                    11.834798066001035
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7960972105632,
+                    11.845840567377184
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75930719015133,
+                    11.767769252514592
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76078757716981,
+                    11.721793795722977
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68703989213219,
+                    11.778000440024622
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74628495592906,
+                    11.730514983106126
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.80200261058835,
+                    11.839833303367968
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75608727473407,
+                    11.732730923466438
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70896830492185,
+                    11.833223916495571
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79367714682077,
+                    11.83374785526493
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77676625846087,
+                    11.76221043820121
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77764126520817,
+                    11.779629466286933
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69771378343503,
+                    11.80797854391109
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72383477290856,
+                    11.781033295986722
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.769854187317,
+                    11.868749632206026
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78596877133765,
+                    11.894645689867657
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71965883113982,
+                    11.83107398757389
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70265658833584,
+                    11.829556657128212
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7796832097448,
+                    11.887196208996532
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70283709844509,
+                    11.886710089048554
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74821424837761,
+                    11.75543617097334
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79542248963836,
+                    11.838595696114384
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69490953265559,
+                    11.791347521875968
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70191654177503,
+                    11.887790073077639
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70236929451342,
+                    11.836212379711789
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70136841204724,
+                    11.857423653530077
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75194134075403,
+                    11.738865291388654
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76445601336177,
+                    11.782877628539206
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75582819499999,
+                    11.851519588714671
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72384304425672,
+                    11.82305057151117
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73450445985323,
+                    11.859789974220678
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69503509602835,
+                    11.874541015770635
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75834384335025,
+                    11.719677838320088
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7347946171271,
+                    11.775179267591163
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78054942170763,
+                    11.851364273636785
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73691512981691,
+                    11.852802288755802
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75890069568334,
+                    11.772667851416484
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77299970901487,
+                    11.769982226059248
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68458997325823,
+                    11.816330248569477
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73838305536114,
+                    11.749106634327887
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76798506119111,
+                    11.7211124376103
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75566621044825,
+                    11.7736213722675
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.754157026022,
+                    11.710520073870176
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70001779318412,
+                    11.782579754672051
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72012507162765,
+                    11.834785221162704
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78804103923267,
+                    11.840837681694248
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73211960086154,
+                    11.779326890477225
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76834911077155,
+                    11.782159577051825
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70665608997835,
+                    11.856894230068889
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69797819779971,
+                    11.823226478635233
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7096251508477,
+                    11.791001340618973
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77006025776248,
+                    11.771095942904536
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77907322681428,
+                    11.730716409159832
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71648448171348,
+                    11.814608845694337
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70157458776445,
+                    11.78787018848625
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70335404715517,
+                    11.78968420077878
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71043736928549,
+                    11.811111964156073
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71307182882079,
+                    11.776024189666458
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71633915127774,
+                    11.778160950069752
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77745023248326,
+                    11.885221436486564
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7593610203909,
+                    11.850596455324322
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75319234756026,
+                    11.747970510725088
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72046170231341,
+                    11.846042754448817
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69065497837354,
+                    11.827482664760092
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75714623355405,
+                    11.745451467109161
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69382899981267,
+                    11.877859484614325
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76008589466637,
+                    11.851339229701496
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7517163265564,
+                    11.766188158719215
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69662823505735,
+                    11.80959364618674
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75939320968804,
+                    11.844769374597034
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75610191042504,
+                    11.776432250034487
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78026225960951,
+                    11.885693606832994
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76292389689749,
+                    11.858382803489409
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79038855235176,
+                    11.77168866126105
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79469819600614,
+                    11.84942370268182
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72374380214933,
+                    11.812425760013609
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78895518010512,
+                    11.851502473937137
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70947398544916,
+                    11.829851470123968
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76858972253032,
+                    11.758038158090708
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70915134785648,
+                    11.812362566087183
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70659935285552,
+                    11.83198798246562
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74433504060329,
+                    11.775662546340213
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7872753366044,
+                    11.761057386614631
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71642137110783,
+                    11.819254453580182
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8003071446779,
+                    11.840917686371242
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75463323349389,
+                    11.748573118439364
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.699899699935,
+                    11.774227780019814
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78464168134894,
+                    11.886138758676449
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.68849646251194,
+                    11.781066993628885
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75574768652939,
+                    11.728589763624221
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75584725723711,
+                    11.841480547936802
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73011933424468,
+                    11.774187620123422
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76365769655675,
+                    11.707707629303195
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75625144875205,
+                    11.838689959812923
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72360803226455,
+                    11.77015925782671
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78314682452209,
+                    11.869127123181341
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70258415134414,
+                    11.818646194652157
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73295894161139,
+                    11.77265878269629
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75807159236773,
+                    11.837294163023644
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.76251755081289,
+                    11.758780224396373
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71003557869429,
+                    11.808131150434471
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71870386451639,
+                    11.826014204292447
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71336018919988,
+                    11.84252269030797
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77850899184388,
+                    11.746887840062323
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74740177908095,
+                    11.774530282434887
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7249654321444,
+                    11.857535658647691
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71160997915818,
+                    11.78299609938758
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77345802675184,
+                    11.728367206526688
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75892853084109,
+                    11.8532875336853
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69418283155768,
+                    11.872869919795882
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71424303338497,
+                    11.770149547163077
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69572867223812,
+                    11.828688233767066
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71186028031697,
+                    11.832577567169878
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70245895403218,
+                    11.869704711973316
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75146625770614,
+                    11.75500563748614
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74083022720761,
+                    11.760132534191985
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77248826791669,
+                    11.70589230775206
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75899130217435,
+                    11.863449191093892
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78293811621528,
+                    11.729080570525165
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75875545244249,
+                    11.713354100405164
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.75000327359929,
+                    11.7621426567783
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.72862740771616,
+                    11.775083448451499
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.78936083391291,
+                    11.888745434772172
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73199672023937,
+                    11.771582545792139
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.77485652244917,
+                    11.773485828446347
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.74613946616076,
+                    11.737828505696198
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.7549189392541,
+                    11.853690227814399
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70495614644348,
+                    11.883080195474857
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70754950450667,
+                    11.845308121470689
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.69106421344505,
+                    11.809911341834065
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.70434892009152,
+                    11.850965592051129
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.79969581042408,
+                    11.849160996545095
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.71477351177165,
+                    11.810868238969764
+                ]
+            },
+            "properties": {
+                "AC_NO": "155",
+                "AC_NAME": "Cuddalore",
+                "booth_no": 0
+            }
+        }
+    ]
+}

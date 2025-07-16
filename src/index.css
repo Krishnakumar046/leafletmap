@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+body {
+  background-color: #ffffff;
+}
+.leaflet-control-attribution.leaflet-control {
+  display: none;
+}
+path.leaflet-interactive:focus {
+  outline: none;
+}
+.leaflet-control-zoom {
+  right: 20 !important;
+}

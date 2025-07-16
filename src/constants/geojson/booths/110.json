@@ -1,0 +1,3410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.78111152353742,
+                    11.28860662018963
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75732302501609,
+                    11.309020853856843
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92779687133721,
+                    11.36291105982
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87674369516047,
+                    11.398557132771906
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0035870130325,
+                    11.53067766587347
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8498395297811,
+                    11.578861507949291
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76167079645623,
+                    11.359540645734379
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85765726985494,
+                    11.484906692570563
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90855261134426,
+                    11.43420890473344
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84516765663157,
+                    11.432802661562818
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93055120237533,
+                    11.517440763243467
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98169376228252,
+                    11.532366637164582
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91943731834836,
+                    11.406575134697821
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.78936749182216,
+                    11.31347272599769
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87074280218631,
+                    11.573796298801295
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87252466531218,
+                    11.394527399230537
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98702392794961,
+                    11.501284442400088
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96577383405423,
+                    11.416888900282789
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95855043454509,
+                    11.464199230040794
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86086197140905,
+                    11.566311349295452
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94681727107753,
+                    11.412059168888959
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90403504903045,
+                    11.410562085443928
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.70542589124713,
+                    11.265128637507601
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86421758840147,
+                    11.545493802950602
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86825222463493,
+                    11.43578727111123
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.74605128830663,
+                    11.301475821527271
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84058651191621,
+                    11.304644693039691
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89387730470884,
+                    11.562753672823485
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91282621687415,
+                    11.561303976724757
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84423869501227,
+                    11.33778969697529
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88426206004246,
+                    11.385847044789644
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82143713792463,
+                    11.451078224523748
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94129758159382,
+                    11.540202493484973
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82707523727272,
+                    11.33458323621296
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9763251776356,
+                    11.448122734410585
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95373606496779,
+                    11.534052982599972
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92501046533327,
+                    11.503432508470418
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90385623048493,
+                    11.534609742222077
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92814715175199,
+                    11.402699571227913
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.83024877772824,
+                    11.36787955112386
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.78577551056063,
+                    11.367417283159885
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98413458699234,
+                    11.507986012249283
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85255788200355,
+                    11.427420975675671
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82128805091111,
+                    11.355393407387206
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97630290635628,
+                    11.44110936785977
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82048075398845,
+                    11.353159225180729
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98661820194773,
+                    11.486778746363603
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.81029486696029,
+                    11.32950193579629
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88353360805571,
+                    11.558701469438148
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8023618225675,
+                    11.320722976537727
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96684540052588,
+                    11.508552086101515
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98244701562047,
+                    11.447782134614824
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9333664974171,
+                    11.465455515328628
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9508732893165,
+                    11.395937137571154
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75425402744703,
+                    11.381784220401347
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9156582354517,
+                    11.396883007850574
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8945820497994,
+                    11.387967692025956
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.74405437435408,
+                    11.255415812498935
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.69255029629059,
+                    11.321672428754754
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.874414727862,
+                    11.459867979136261
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75938652465632,
+                    11.304748705947576
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8289599324921,
+                    11.403865418424633
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85135469422445,
+                    11.352733568720394
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90317918148222,
+                    11.472965655992576
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84817113323828,
+                    11.359269970744753
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7147842335764,
+                    11.32382445992606
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8926597176885,
+                    11.375578380679379
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.73128388790894,
+                    11.325489400393696
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90537620090326,
+                    11.407134829079602
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92605330392396,
+                    11.549646027859911
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89619987825363,
+                    11.55840862792724
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95078985102703,
+                    11.503547008050303
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93568863150846,
+                    11.439718991855958
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91641132550129,
+                    11.523732979554229
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84047921763373,
+                    11.365552258933313
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86380090456548,
+                    11.371692561851301
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97030400468604,
+                    11.51701911428223
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94900475331607,
+                    11.510420084829535
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96560014646661,
+                    11.556572742108852
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.72062652941203,
+                    11.260131275538726
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84995882074234,
+                    11.471049815622917
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.80168312029923,
+                    11.362247048020302
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.99903237966856,
+                    11.517993546454775
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89970840302959,
+                    11.564966659309734
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92088743111016,
+                    11.501634945245138
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85769846211228,
+                    11.446656913839556
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.73143309586715,
+                    11.304451909007094
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.71422208435595,
+                    11.355658254016236
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.80267950695345,
+                    11.365677079392595
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90242427445831,
+                    11.463283152759
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75678707138874,
+                    11.318144642860991
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97661384767763,
+                    11.489047777860897
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98553425578127,
+                    11.469099894358296
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.881689513594,
+                    11.42480562075923
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86143727687707,
+                    11.555751696551106
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96313790874981,
+                    11.449063252532614
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90155217139421,
+                    11.49182191751904
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87109484718182,
+                    11.399711535280192
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7667735320304,
+                    11.353320657201166
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.70258100226958,
+                    11.349297312500097
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.83179946202984,
+                    11.371947924276101
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94962149881364,
+                    11.515015172067496
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90128920785814,
+                    11.53687190271714
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8374532416706,
+                    11.45833557492426
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.80232277482263,
+                    11.358796820191964
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.99728032056616,
+                    11.53727307363593
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91770472588304,
+                    11.560400416367285
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.00813940508745,
+                    11.450506973822336
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76314409452971,
+                    11.276030982951285
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86644100422869,
+                    11.576193339650228
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9386062109895,
+                    11.52689310048633
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84083836108738,
+                    11.353760697737837
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96449194846261,
+                    11.46028216758479
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.72828363548683,
+                    11.294486236559356
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.74381970279389,
+                    11.269262564045377
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95188548477604,
+                    11.497863461936902
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.69178158483597,
+                    11.265008349131564
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.75901104958477,
+                    11.353698320916045
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84144105355905,
+                    11.331763639878421
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84745042774634,
+                    11.425461094303186
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84966866484574,
+                    11.402002103158656
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92117204895244,
+                    11.447186501048757
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97002989880731,
+                    11.425045043529565
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98542164223558,
+                    11.519510056027173
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.72706228372925,
+                    11.345170646962963
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98567893301815,
+                    11.493134569444718
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88411540691372,
+                    11.405510889569552
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86857094586789,
+                    11.354543725925232
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7203680977172,
+                    11.295796491154698
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85742524109784,
+                    11.481355408196038
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84013991658884,
+                    11.32525428364894
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98292128685424,
+                    11.526799605425463
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89570895764128,
+                    11.424930210282284
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85955263694866,
+                    11.348466720282053
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84686512277617,
+                    11.338468514318027
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82604403779013,
+                    11.321079925214445
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97275116262551,
+                    11.405642318197767
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92853765134132,
+                    11.424252818380236
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86934655644794,
+                    11.439611972698287
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91068718213273,
+                    11.484585719738899
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97926937572609,
+                    11.489689644890943
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.78992204324094,
+                    11.394316105563492
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85401625092439,
+                    11.483016797988045
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.98044317605806,
+                    11.478573372786503
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.81600071138224,
+                    11.363270039645174
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94639565534415,
+                    11.534412998109236
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96034252832405,
+                    11.522276882482895
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.77400273488122,
+                    11.319147487375954
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90511194097333,
+                    11.565062674990534
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.72575929143397,
+                    11.336752294303231
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.70449944381869,
+                    11.322159029491043
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9659732948056,
+                    11.411555768011404
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.81618694978111,
+                    11.307376985104781
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96227258702478,
+                    11.511347764474259
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7415909857876,
+                    11.317506751902332
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86231204588347,
+                    11.48137736962419
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.79428357186447,
+                    11.372820970068624
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95408479037854,
+                    11.538980959187416
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76059020687114,
+                    11.307197294564975
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82451083340926,
+                    11.363749378021001
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91165995316177,
+                    11.467786968328285
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.72124312827674,
+                    11.320878278422441
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9615795019172,
+                    11.540809836936125
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.83441051393746,
+                    11.398034311926171
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9350128355077,
+                    11.551827538922016
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87030624390076,
+                    11.558454591031682
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.71111710527991,
+                    11.32207893651003
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9528683267635,
+                    11.442891079161706
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84810178669068,
+                    11.386808667386175
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.77344193384229,
+                    11.398358839540629
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96216472023444,
+                    11.416883328628728
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9314712402201,
+                    11.484653835535148
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.69478308978938,
+                    11.352820008773165
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84466748463036,
+                    11.367416699503279
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.81546258712005,
+                    11.43191708042016
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7604957592116,
+                    11.279452470239267
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.77354381556741,
+                    11.375341321176434
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76713926273001,
+                    11.375296347188936
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.70660213719837,
+                    11.29912673273675
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9250629769322,
+                    11.391553333500642
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8860936713996,
+                    11.408716394869863
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76535118719477,
+                    11.399475102598736
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87995340187909,
+                    11.474122029991289
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9320326685791,
+                    11.456231796879122
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86719638834593,
+                    11.428159556958152
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7808196878386,
+                    11.296008913433496
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9620101408837,
+                    11.426785940676792
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.73279868019054,
+                    11.344305503657008
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89507799501347,
+                    11.543222076732693
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.71441553305323,
+                    11.322816510709377
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9021073754739,
+                    11.54899141235527
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76705980391327,
+                    11.293829622855894
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.83936296063602,
+                    11.313633333576094
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7571972305505,
+                    11.306991137447284
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.74757974622128,
+                    11.374089968070212
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90524209493286,
+                    11.517290949098
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89537995476537,
+                    11.567584228788688
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87878099443199,
+                    11.57288261619346
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.80518265070063,
+                    11.372640011103712
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.96601280828561,
+                    11.415734433895997
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.99700108066716,
+                    11.45589296871421
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.891241269902,
+                    11.518433725396248
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86800045677805,
+                    11.455493863882554
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82490400768638,
+                    11.315222592152134
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88769891105072,
+                    11.461519675568745
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7619903284945,
+                    11.36592159821159
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.70101183676248,
+                    11.310231425472733
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86234899582402,
+                    11.433733156545843
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.72474960544942,
+                    11.349829332486333
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87717761605775,
+                    11.364256885351404
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8178555190922,
+                    11.41794911094278
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90243532093704,
+                    11.500774856184469
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95946372253955,
+                    11.453976248594303
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89854328376661,
+                    11.560829237715476
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76275721978463,
+                    11.270891171004541
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93746564343083,
+                    11.443736906001833
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.80117080603988,
+                    11.33206848436083
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.91631499142353,
+                    11.486767020175126
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.83987483969317,
+                    11.30785630343508
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92693500046964,
+                    11.364681134155953
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9815500593536,
+                    11.543495016764702
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95420854811479,
+                    11.543927819447882
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88929313565082,
+                    11.475610341503053
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.84735120766932,
+                    11.291660848753246
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92301813439052,
+                    11.400917644317833
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.78159651604729,
+                    11.285282443980474
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.78111152353742,
+                    11.28860662018963
+                ]
+            },
+            "properties": {
+                "AC_NO": "110",
+                "AC_NAME": "Coonoor",
+                "booth_no": 0
+            }
+        }
+    ]
+}

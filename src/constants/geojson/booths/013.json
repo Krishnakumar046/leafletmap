@@ -1,0 +1,3590 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2274950468339,
+                    13.117264354871438
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23924128655372,
+                    13.12433508315684
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2301419380999,
+                    13.117400909639779
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21998057038932,
+                    13.113804411751193
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2195478658319,
+                    13.127006496094683
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2285200629715,
+                    13.112179881346655
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20967257389314,
+                    13.12675634293886
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23909719489465,
+                    13.100522864576146
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23830552721493,
+                    13.1175854886433
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2383786470816,
+                    13.125519198623511
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23015676919283,
+                    13.11226364346061
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23282221692578,
+                    13.119203185579948
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23716895528564,
+                    13.119673002306925
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23537095255834,
+                    13.12111554308192
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21701308204524,
+                    13.111030489706698
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22722345454137,
+                    13.121702160217257
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23285606800492,
+                    13.12178055572794
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22019627207843,
+                    13.123286568727583
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20823161073301,
+                    13.111793820424063
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20647969441576,
+                    13.116470140643717
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23955189431135,
+                    13.09933325530907
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22878194831956,
+                    13.122297749873256
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23710173530881,
+                    13.105009679700636
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22857099293732,
+                    13.111002102048499
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21089750137631,
+                    13.12271426528469
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22301998048903,
+                    13.126679406825023
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24033333414847,
+                    13.118312543792948
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22972472266986,
+                    13.11244814581044
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2382348459992,
+                    13.105794055989783
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23699144982223,
+                    13.111622227684688
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2343345907437,
+                    13.119319975779915
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22325776765632,
+                    13.10943543053021
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23225849297576,
+                    13.115449000115772
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24143462568195,
+                    13.124417981166461
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22068662802678,
+                    13.118646604646516
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23640537624306,
+                    13.122550547418394
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22063437966496,
+                    13.119443465054482
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23527322688614,
+                    13.112603907936036
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20504819639626,
+                    13.113450576226578
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24120771350194,
+                    13.098066646520602
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22066036762601,
+                    13.125162339964712
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2323379008407,
+                    13.108913732640241
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20275910677483,
+                    13.119900479458101
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23245613794093,
+                    13.121796088602123
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2400641255577,
+                    13.113802182939974
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2371782846335,
+                    13.12100488485446
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23986539607354,
+                    13.116133912403505
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22633835456244,
+                    13.12561088386136
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20161340471485,
+                    13.12576800180796
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21761365156337,
+                    13.115750158874219
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20468621384255,
+                    13.123070842034602
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22328137093008,
+                    13.113438919482615
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21440644155669,
+                    13.121028952361995
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21818691900789,
+                    13.11748717065441
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22865486292238,
+                    13.117027546885325
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23217852747884,
+                    13.124098120255272
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21205547171436,
+                    13.113027472643406
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22829480581298,
+                    13.108622578481736
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2177727138556,
+                    13.124566421579873
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23989716791581,
+                    13.117424058392343
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21438492893776,
+                    13.11471981335805
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24002251708765,
+                    13.118959045014895
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2210643257646,
+                    13.115473242373735
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2138369502245,
+                    13.12310848387616
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23122877011754,
+                    13.118801603961174
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22489274487282,
+                    13.113658795952343
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24086485041997,
+                    13.12749631188856
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21291774153856,
+                    13.11527785300162
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21875447834965,
+                    13.110243088843186
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21341538828663,
+                    13.124750407637679
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22170901729979,
+                    13.113849554295456
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21681061515747,
+                    13.125907715579709
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21272831031915,
+                    13.121780558323874
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23727521006248,
+                    13.101186322465253
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22228561697793,
+                    13.122274724009852
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.203610091474,
+                    13.119630262935301
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22173783803336,
+                    13.129001515753778
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2431318161466,
+                    13.118614496840419
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22301486648136,
+                    13.110080942684217
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20887546434658,
+                    13.124126296995598
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21863799053243,
+                    13.119100381450478
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22174521787915,
+                    13.110743611907127
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24170828987994,
+                    13.119164176056456
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2358110449093,
+                    13.125513199569417
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21393372058466,
+                    13.111272556154368
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21007632151144,
+                    13.11343085518801
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.211533117309,
+                    13.120305662732967
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22342442810871,
+                    13.119416711825217
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23341363088169,
+                    13.112235405978248
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22094420478304,
+                    13.128761516339315
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24036021785915,
+                    13.106050851940601
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23493006632931,
+                    13.108537392771595
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21040852662877,
+                    13.111513962753126
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2125800352244,
+                    13.11071037621794
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23371838024457,
+                    13.117711466357555
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24182647544026,
+                    13.125688707598906
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23838385014103,
+                    13.108657392164188
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20825780768372,
+                    13.112634831055862
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.207924489575,
+                    13.125665414267553
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20198043168193,
+                    13.12230693480318
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24304907201328,
+                    13.114317525709291
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22093268733083,
+                    13.111900320065864
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22365701732625,
+                    13.115733893579756
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20559266843533,
+                    13.112649985485927
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2045063659076,
+                    13.120633555609766
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24149412923252,
+                    13.107729808374506
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21708622371072,
+                    13.128264501821846
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21939565293495,
+                    13.119271804740656
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23386644365523,
+                    13.11136287407575
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22942566153989,
+                    13.125755167642646
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21123094080838,
+                    13.125819869753235
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2021198268278,
+                    13.123827643281155
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2247285518717,
+                    13.119297026757868
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22658051679413,
+                    13.118879717965873
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20643961811024,
+                    13.11567567477551
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21030484350138,
+                    13.118949690522985
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22401309480283,
+                    13.112297843515716
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20233981561601,
+                    13.12202893157985
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2088054839576,
+                    13.115701893580198
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21469939178765,
+                    13.128111262771053
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2176848117608,
+                    13.113389579967002
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2366024702078,
+                    13.12140389646768
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23984027024613,
+                    13.109920632824428
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22968292291314,
+                    13.12729425611763
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20667800509914,
+                    13.125778147434318
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2199753969865,
+                    13.11189485914079
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22637117211244,
+                    13.120260189609784
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20517534651735,
+                    13.119619529115703
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23346335686773,
+                    13.11619459431518
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20172439066427,
+                    13.119996292701394
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23631254939295,
+                    13.123415811041541
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22012085255592,
+                    13.124219796530689
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22048314247398,
+                    13.110436709609251
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23465950352018,
+                    13.11325377190025
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2275039552113,
+                    13.112579798019262
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2199402038071,
+                    13.115126909392307
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23010387788852,
+                    13.11531200463421
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21853876336405,
+                    13.109532995162464
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21441072932419,
+                    13.120853964481016
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22811278195746,
+                    13.124038298838537
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20162843338115,
+                    13.11871158175771
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21263782476198,
+                    13.115786476779446
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24029664380805,
+                    13.12273611809794
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20401404663754,
+                    13.123390908177427
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23682429433458,
+                    13.109621761569946
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23605471769298,
+                    13.112602923765222
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24059710479092,
+                    13.113911324873014
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20960560294562,
+                    13.12002593082481
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21243013948286,
+                    13.1268971711341
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21989846826918,
+                    13.112114510862895
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21431757791984,
+                    13.12654233424844
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23727319219564,
+                    13.1203794467691
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20207644670913,
+                    13.118551518688792
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23126815467982,
+                    13.120812579185381
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23956146706027,
+                    13.09870697035748
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24201407380207,
+                    13.1268731310827
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23418632668466,
+                    13.117376115362505
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2326563098048,
+                    13.117449725488125
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20283836619022,
+                    13.120263495754894
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24180106501544,
+                    13.118653746089482
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22548338029667,
+                    13.121807587654951
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20409622388898,
+                    13.122142508035894
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2220475384665,
+                    13.113479697706072
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21479251767903,
+                    13.11320539629288
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22681561403597,
+                    13.120524488140044
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22406012464221,
+                    13.113967100624885
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22789440933231,
+                    13.113764922485851
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23433654311872,
+                    13.117525647889483
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2268778419155,
+                    13.122776269593562
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22970943776312,
+                    13.122725234250742
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22438743950602,
+                    13.122914791943495
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23585724605628,
+                    13.109340741489662
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21165737312569,
+                    13.1113219811458
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2407051544491,
+                    13.10846376164434
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21138187630268,
+                    13.123401104894377
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24279927428069,
+                    13.119981975414847
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23884920538573,
+                    13.119364247125873
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20820577769152,
+                    13.117707480038888
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22272392536543,
+                    13.127352893584165
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2345981421834,
+                    13.114015201068574
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20642341280113,
+                    13.115730987142648
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21464027150935,
+                    13.122231665012608
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2384521655044,
+                    13.09730416483244
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22123448705979,
+                    13.116079016779194
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24490925561419,
+                    13.12192901409407
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23700344077669,
+                    13.108457202103404
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23265659718452,
+                    13.111787786402596
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21575684519017,
+                    13.120129293692504
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22154195181187,
+                    13.11295152238273
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24005310356348,
+                    13.119376153691674
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2384333839022,
+                    13.108205551110814
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21116645299514,
+                    13.11272214885
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24093788509852,
+                    13.10033008766591
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23545453259393,
+                    13.11916084400932
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21316554631207,
+                    13.123665425569662
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24333131144425,
+                    13.125322791278677
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20585315580797,
+                    13.119474361421023
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22838290995352,
+                    13.119937738366435
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22056114914184,
+                    13.125389730093373
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24030725415135,
+                    13.120937698258818
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23600676500689,
+                    13.114856670510855
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20786909416478,
+                    13.119190460862331
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21434180341055,
+                    13.11874375657984
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21108904662354,
+                    13.12416604168847
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23171178375354,
+                    13.125411607735527
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23501020550572,
+                    13.124132773296385
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20682970373268,
+                    13.122245375679267
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21107454105828,
+                    13.112718147726532
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21741735447067,
+                    13.12227397592362
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24166246844344,
+                    13.10792376520525
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23404036718098,
+                    13.122998236857772
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23898615853669,
+                    13.119912030158606
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21526076343832,
+                    13.125443249834053
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23121239859654,
+                    13.122812540001048
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.220921518383,
+                    13.110493518677327
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24161259775187,
+                    13.103098272905438
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21492370767838,
+                    13.128929577319338
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23286563469674,
+                    13.112336094305787
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24254341207892,
+                    13.124021235750748
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.224204450696,
+                    13.121241665419435
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20135070194367,
+                    13.12304364028128
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22507477679508,
+                    13.119680646619928
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24383440943585,
+                    13.125256652745506
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21736056909555,
+                    13.122992763930384
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22529630965153,
+                    13.1135979583947
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24205338722955,
+                    13.109801542424595
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21668182783723,
+                    13.110319794555606
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23362021724591,
+                    13.12169205510428
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2074266654445,
+                    13.114737737951545
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23028846502689,
+                    13.118273852284771
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22972119570949,
+                    13.108865528374803
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.207784341382,
+                    13.12449828216086
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24333458585977,
+                    13.1152173078123
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22536951971533,
+                    13.123410925342238
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20855454324209,
+                    13.123798440534767
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22367133928286,
+                    13.123734318597519
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21425382381385,
+                    13.123101731138597
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21603573699356,
+                    13.12877546804837
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2274950468339,
+                    13.117264354871438
+                ]
+            },
+            "properties": {
+                "AC_NO": "013",
+                "AC_NAME": "Kolathur",
+                "booth_no": 0
+            }
+        }
+    ]
+}

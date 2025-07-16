@@ -1,0 +1,4100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98639712123185,
+                    12.287592433548593
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13962426895662,
+                    12.31038787485718
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07859536265973,
+                    12.333908523635184
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14601912244689,
+                    12.28814047121573
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02200736137321,
+                    12.444872200660186
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97421214278633,
+                    12.2783741192062
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97300532149946,
+                    12.406016199198522
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9419748030341,
+                    12.323320807474671
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00191761873634,
+                    12.30542192038563
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14234897391705,
+                    12.262043388656675
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95811380125683,
+                    12.289871839289733
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12509674783637,
+                    12.312877083490102
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17887306467505,
+                    12.249845866721857
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07854547938979,
+                    12.40017957472214
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12656145786963,
+                    12.28164775897088
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15836710533235,
+                    12.328836073844416
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99108824946384,
+                    12.352047876615137
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15529738196109,
+                    12.298866592563451
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21904294212916,
+                    12.258101427402687
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06855763880465,
+                    12.404173449585256
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9708511991435,
+                    12.303854501013864
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15602415988839,
+                    12.210394414180103
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89510401969879,
+                    12.50075978348331
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15023468147764,
+                    12.35976369101528
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1167670432279,
+                    12.345829748194564
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00484945826452,
+                    12.279220109506209
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15518624270912,
+                    12.249102524910978
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05332243359989,
+                    12.315717429797878
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01652255988992,
+                    12.359104893590478
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08211299769273,
+                    12.369753508375926
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0912779442904,
+                    12.341587002457961
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02635234637765,
+                    12.403892840350405
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2263965149767,
+                    12.238429660731356
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1431738166202,
+                    12.236509135579244
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03915674231486,
+                    12.380071247466017
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02616945557251,
+                    12.416644684193338
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05636786289857,
+                    12.294215441014819
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08103707023194,
+                    12.340652582552385
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95870163350301,
+                    12.299163134966143
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11851451159494,
+                    12.417184018805234
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05151367269988,
+                    12.318770041249941
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05371672434478,
+                    12.42714620741882
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00944191775868,
+                    12.406927198298238
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16178631874843,
+                    12.274230500450107
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0327036935337,
+                    12.382137602589003
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96412436316771,
+                    12.386538113319087
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98135967486563,
+                    12.296239682670166
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96472081928806,
+                    12.347434119680191
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25086179017421,
+                    12.274707233725282
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97563945467742,
+                    12.292820718051468
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17738041094226,
+                    12.232247008610095
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94813357887533,
+                    12.484431674823897
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98570347620979,
+                    12.457646238736505
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16772416690067,
+                    12.314210654565962
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18146290537123,
+                    12.24331582878014
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15972807392387,
+                    12.35699667156295
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90316327497672,
+                    12.50076735903837
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02761675212483,
+                    12.291880489758023
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14686092540441,
+                    12.274042160442805
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06393364349817,
+                    12.375939993182975
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09811484609095,
+                    12.385728725586942
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22345716077547,
+                    12.27238775831702
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07201105894083,
+                    12.378724898662853
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96288212234136,
+                    12.303335508814245
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20467180780011,
+                    12.263289442068105
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97055530320152,
+                    12.29230693654279
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00918598505497,
+                    12.349720120559383
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08513945877769,
+                    12.386088473174327
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00892649324918,
+                    12.379157196730091
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.228959876777,
+                    12.26681523649388
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13307272346013,
+                    12.38436555819512
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10996859552841,
+                    12.408563159890049
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18441447450645,
+                    12.25788266138822
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04079624526707,
+                    12.463672783854104
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1755295224835,
+                    12.275968937689775
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20945256281901,
+                    12.222704901980894
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06859222465751,
+                    12.309671343744093
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94011053286339,
+                    12.311896847589761
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07775955952157,
+                    12.343145829580907
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01075749438485,
+                    12.272551447034616
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.24055362944719,
+                    12.256017567296741
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.90814033688947,
+                    12.50908318754018
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96254597625074,
+                    12.43761907115584
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05386301633163,
+                    12.27623362167493
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98838848350809,
+                    12.475979665489781
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98928290926116,
+                    12.49348827084432
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20120259557613,
+                    12.270386660494356
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9689524802214,
+                    12.333382804867675
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9494032335083,
+                    12.479214345721052
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04997667768848,
+                    12.462972071018692
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10852061698496,
+                    12.364775108261526
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2270122955821,
+                    12.244286239060246
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05768352558083,
+                    12.335299219541975
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16901651731193,
+                    12.238366866556868
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00122312421546,
+                    12.26290108057254
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07357827131018,
+                    12.360193347491432
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03063656989079,
+                    12.29131046043221
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02151207249491,
+                    12.27529791298773
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99587417361212,
+                    12.438950243351009
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01029644396282,
+                    12.271073691428823
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16011631803464,
+                    12.232026459767477
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18143903493485,
+                    12.263676265713164
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98931665827253,
+                    12.33608651111105
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00806242422016,
+                    12.484494100316462
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00049364214283,
+                    12.299426422477119
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96814686693818,
+                    12.476230214592775
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97471394822159,
+                    12.26460077223804
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99969430602272,
+                    12.45722495295302
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9764738939794,
+                    12.329817231339382
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18377335719588,
+                    12.305983420394814
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03484365093429,
+                    12.287175315301958
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96917158896859,
+                    12.347890300002408
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04383068044801,
+                    12.299041545688068
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05088598051302,
+                    12.39201100405812
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10898978982252,
+                    12.286118304981224
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00905102803061,
+                    12.383161137361082
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97816635527357,
+                    12.330573301236644
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11150661694785,
+                    12.378789458364798
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0062172264676,
+                    12.309326668307163
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18040498264513,
+                    12.265782389433827
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0623739844255,
+                    12.319944627302933
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.91807859655862,
+                    12.494068096853505
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20161501109851,
+                    12.218651486763065
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06632185247635,
+                    12.3233424881287
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0630492567601,
+                    12.28204033427748
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00578127751824,
+                    12.490474419626121
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19927995073974,
+                    12.267375019787385
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15081743964123,
+                    12.231836456577195
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96688220761892,
+                    12.268309256316147
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9587261253565,
+                    12.273373991879469
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14235884501053,
+                    12.226228145710666
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17028681324342,
+                    12.255038576836666
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12403524324361,
+                    12.406048072852485
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99645385790981,
+                    12.416115546721011
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1554530673754,
+                    12.353218816271436
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05254753100037,
+                    12.323369332304809
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06829190068808,
+                    12.452799213398887
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95701077001561,
+                    12.29284489495793
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09585165758703,
+                    12.387870586977789
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17649926177813,
+                    12.325251468751182
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12886572346409,
+                    12.341827449321757
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09991369010417,
+                    12.401297609121047
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06612668278724,
+                    12.361738033841952
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07546025066318,
+                    12.363657043840497
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94394002084104,
+                    12.48452785115429
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16690381513787,
+                    12.336584203627034
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99099394073394,
+                    12.354394726510538
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03703352777025,
+                    12.44182625509349
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13280338089554,
+                    12.241998229234007
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11598971137813,
+                    12.28322350062481
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01222932106596,
+                    12.351831281298297
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07710694375827,
+                    12.245347146172971
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21346581067412,
+                    12.293885589839576
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04812234272974,
+                    12.360623492468887
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00819001792055,
+                    12.272846622593635
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11410558211409,
+                    12.39162045174746
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.93593358620235,
+                    12.469374818359253
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14528131504316,
+                    12.236036164676745
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14122674778883,
+                    12.263870939353659
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96874130400936,
+                    12.288643341710056
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2213971673172,
+                    12.252208647465281
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9905944709777,
+                    12.433508827789947
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16933300793545,
+                    12.26269499445932
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07324575702842,
+                    12.303471623364894
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96084282919935,
+                    12.360753483056849
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99449859782875,
+                    12.4348082144019
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13936144890302,
+                    12.363042986116948
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16683400308303,
+                    12.263348905717102
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10402560847295,
+                    12.426589998606547
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01997395002167,
+                    12.470852866754349
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1561744296523,
+                    12.305318259930164
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10035376579542,
+                    12.249644575082382
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09846213699389,
+                    12.315203212902883
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11815345177271,
+                    12.352084892463512
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.95759030017578,
+                    12.379375354795393
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98394419029066,
+                    12.317338405801504
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9799009523141,
+                    12.437437420839162
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9543855025055,
+                    12.313913432948155
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.965288127002,
+                    12.45217582336942
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99644510607847,
+                    12.467922931417553
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04520255429799,
+                    12.4293532575288
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12970096466896,
+                    12.25870476728171
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94076931953072,
+                    12.296105193501749
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0099036341489,
+                    12.480308245789498
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02757886319375,
+                    12.383483294404828
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97619194411617,
+                    12.467031269399941
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99263888137178,
+                    12.379329991527172
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.97296099163106,
+                    12.26720438582609
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14205393857691,
+                    12.248624585621355
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0183286626344,
+                    12.293242422656228
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25355582396222,
+                    12.279516980726502
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08518662993495,
+                    12.340840971016618
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.247052295727,
+                    12.266158490640976
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09226720396795,
+                    12.251061412062446
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11216365558667,
+                    12.295029590072051
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06028633856798,
+                    12.440024772689503
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10132694143638,
+                    12.311056281790856
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.18443858497217,
+                    12.273607165186013
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16312974337278,
+                    12.318273962029505
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02178136657697,
+                    12.329703801486584
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96765066258024,
+                    12.355661433648828
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06189564705062,
+                    12.378384213558869
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01483101287464,
+                    12.476437335761815
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07197102402414,
+                    12.288367667831006
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.96797382035666,
+                    12.286530036107255
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12010174541089,
+                    12.287362627872744
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.25372719832592,
+                    12.242645986760467
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0516407965373,
+                    12.329253327359805
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09368597630277,
+                    12.36478742549403
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05151751796446,
+                    12.356224097324958
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10413961261092,
+                    12.267799786461298
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06735055077314,
+                    12.453645095867216
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.23090684516767,
+                    12.322810319018298
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21307730641954,
+                    12.31375420650973
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.16420353210329,
+                    12.32584196368244
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02445772052432,
+                    12.403343224012774
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10155303725217,
+                    12.431776894175751
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04705552234228,
+                    12.376721612422852
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.930360590867,
+                    12.509890804770865
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.26788701127921,
+                    12.256868984304756
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06805836759987,
+                    12.414537868364004
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13684872127932,
+                    12.250103829731158
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0077797589766,
+                    12.369163054229562
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06211539097099,
+                    12.347110621508234
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05817438253753,
+                    12.304611778474964
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07398703795937,
+                    12.30253693543603
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.0195233323144,
+                    12.471300366014841
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09301258874018,
+                    12.38368832655615
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94839641398266,
+                    12.315504379469289
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.17580916959687,
+                    12.300932972246503
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09513523637774,
+                    12.310407271274164
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13105164097155,
+                    12.381141362788988
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.03776583014441,
+                    12.379273580583217
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06958652740148,
+                    12.269559452310832
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12432693728091,
+                    12.27448573795988
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13612977643082,
+                    12.350433036880295
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00953090352164,
+                    12.401352408892667
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22768125302575,
+                    12.341918357286131
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.15786882995339,
+                    12.322917254231125
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11545560912731,
+                    12.252809222055625
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.08436591069731,
+                    12.32989965222561
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01386890926901,
+                    12.300143304943068
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06836213482092,
+                    12.455608398758217
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20277118850602,
+                    12.248515289225887
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99725837738569,
+                    12.263274637786731
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00434860915509,
+                    12.502009000649128
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.92490036642624,
+                    12.484001228638258
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22236886352478,
+                    12.334786790239226
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1131117438639,
+                    12.305065933498959
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04019121582667,
+                    12.397865001933763
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.19921376571975,
+                    12.331328002861211
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.14046139696079,
+                    12.323486195373706
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.94565511087944,
+                    12.317155215289205
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00928917937331,
+                    12.415974109784479
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.20140593860857,
+                    12.295994700983538
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98478758819589,
+                    12.317959118486067
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.09622989504736,
+                    12.300785949923705
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.10207652044217,
+                    12.37291112269234
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.02855521914167,
+                    12.398874271350392
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1424408481553,
+                    12.328813901476487
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.06613846470667,
+                    12.299724172728185
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11475593642466,
+                    12.23242174715337
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.07870167847528,
+                    12.312462272150267
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.04983249975291,
+                    12.40058555289212
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.11428902664368,
+                    12.378709591051596
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.89373643363733,
+                    12.497932231610417
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.21324443755724,
+                    12.28037876020066
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2304248422854,
+                    12.266607816995542
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.01698259005009,
+                    12.409683779778728
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05493205870097,
+                    12.331428407609675
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13249698302172,
+                    12.336871901042894
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.99555216946405,
+                    12.362866508489965
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.98639712123185,
+                    12.287592433548593
+                ]
+            },
+            "properties": {
+                "AC_NO": "057",
+                "AC_NAME": "Palacodu",
+                "booth_no": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,4355 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57078767955309,
+                    11.947694767124402
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43201579338418,
+                    11.88772996876322
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50810417326427,
+                    11.93552715112607
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58031874346221,
+                    11.894001421818032
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51994624034434,
+                    11.891603520430667
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4774443388845,
+                    11.86950597605623
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58267559069232,
+                    11.961917527656599
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47364272294449,
+                    11.875146354478677
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45034295964471,
+                    11.902584100384875
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56265760985401,
+                    11.914613658134265
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51100775361047,
+                    11.884537197087742
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5887250211415,
+                    11.89819547612677
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48848660825875,
+                    11.895975538653166
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48636302975882,
+                    11.877739822326266
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51883359251472,
+                    11.890763714220961
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5933797570402,
+                    11.956120777441162
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51998644400533,
+                    11.954992969983124
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60595220764222,
+                    11.904372992485769
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62700853283164,
+                    11.954806223870362
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43654092539639,
+                    11.92519589801351
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52880755593216,
+                    11.928819857832442
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49000124557936,
+                    11.903696642610011
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43044967213727,
+                    11.926315044820164
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53162741737789,
+                    11.899446597137455
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44102029384176,
+                    11.901122981060746
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55294312059367,
+                    11.931365076528984
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5182750635106,
+                    11.896965463385127
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45837344521722,
+                    11.876546374793923
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59292789553335,
+                    11.957635901240849
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6161861717103,
+                    11.894834566761244
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.481844350155,
+                    11.945398801288965
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47837565586136,
+                    11.888997734691984
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60525584173904,
+                    11.95377765193878
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44961438362601,
+                    11.888645111951837
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51410604195746,
+                    11.912771840747759
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48999172980187,
+                    11.873290940465713
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48453876151547,
+                    11.881647747292991
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54886584478467,
+                    11.856229439288963
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55442236478144,
+                    11.870204624757095
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45809810777624,
+                    11.939957400898596
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4250271438732,
+                    11.94522304539531
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49371961213626,
+                    11.942332934191715
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57479275985382,
+                    11.92139921686214
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53065987185298,
+                    11.930710742382955
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59980054446082,
+                    11.875665907621446
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42979999213821,
+                    11.919902683893511
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5748243758154,
+                    11.913496202992249
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45337141845403,
+                    11.933554588327679
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43749661930597,
+                    11.896772514313716
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52779300929244,
+                    11.918690157608303
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55583389112124,
+                    11.870801738830146
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42818902503456,
+                    11.916405242087963
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62399932755702,
+                    11.945220935925574
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5477331780133,
+                    11.93427590471647
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.597377702677,
+                    11.8532070192655
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57891332547786,
+                    11.96361308976764
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58061313362096,
+                    11.95122442975828
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58348150922458,
+                    11.922025274583996
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48777643557852,
+                    11.881871903911541
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57591782060987,
+                    11.87544491755535
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49251694066591,
+                    11.878001642004223
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46132112256534,
+                    11.893441848080672
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57725136535566,
+                    11.86062542266663
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59063133398308,
+                    11.925578678343728
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47360936606542,
+                    11.941398254204971
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52455979605581,
+                    11.952792168961482
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53265240416046,
+                    11.915595994765784
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61125177920222,
+                    11.939546824883195
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4868301861746,
+                    11.883352114954464
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41819912891502,
+                    11.918357222404728
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48394221837705,
+                    11.913418403707308
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44771032912577,
+                    11.920142259759892
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51217736275399,
+                    11.905522848304553
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56399825730901,
+                    11.841643237501618
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5511504270974,
+                    11.902162983620649
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61482689860561,
+                    11.951412112508685
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59458050834803,
+                    11.882172271508756
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51005857981558,
+                    11.903821296700167
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42503360394967,
+                    11.920167850543132
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.590487708351,
+                    11.900819521191321
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62250801644436,
+                    11.921115827648912
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61099608735599,
+                    11.911042013779479
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57169605870702,
+                    11.923231756353237
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40814638323704,
+                    11.912909939522029
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53101357808089,
+                    11.964849735835514
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56939200958526,
+                    11.871520006168737
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41826260896156,
+                    11.93500903826519
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53775322538303,
+                    11.874404367192707
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57523865522597,
+                    11.950437290549935
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50135642637476,
+                    11.9708827877301
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60687995211906,
+                    11.947474711230061
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41829249434637,
+                    11.925660913223092
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52077217451797,
+                    11.964899062733615
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43772627466376,
+                    11.898992291289739
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60807428892888,
+                    11.919008241669575
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4705415621,
+                    11.900554068855644
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48423661321087,
+                    11.890622030734512
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4504287697223,
+                    11.93012294127555
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58354648231364,
+                    11.940437628742657
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61167546596876,
+                    11.890842894686461
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50821474233514,
+                    11.860360010781122
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57666738482321,
+                    11.92069548065827
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53211471837498,
+                    11.931721066993696
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55926003443945,
+                    11.934087095618453
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55149457486398,
+                    11.891557678596312
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50606493645472,
+                    11.927453368756346
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40775205731272,
+                    11.906574386322037
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4986970698389,
+                    11.945620506736422
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53101476017592,
+                    11.863491372661237
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42580419565375,
+                    11.897844645043918
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56873052978247,
+                    11.943229323006944
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53225212446127,
+                    11.863968875273235
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54316269992502,
+                    11.936926744647755
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55672026352582,
+                    11.902883476221112
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47270305950445,
+                    11.871344049827604
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55977191064207,
+                    11.84904193891065
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41458227776378,
+                    11.946813975143701
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54660851975058,
+                    11.873302232080176
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60697301790601,
+                    11.887772229342904
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54740263736734,
+                    11.936548894772416
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5185161234957,
+                    11.948644300293642
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45505343681208,
+                    11.882561299545443
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41806999856793,
+                    11.940561337164663
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60934521215555,
+                    11.93233012845883
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4304523101482,
+                    11.91661691558761
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5305143046343,
+                    11.906524460134548
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54957944560509,
+                    11.904762079696452
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47342391466837,
+                    11.923905307717252
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48079792146484,
+                    11.88407540146289
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.565411314553,
+                    11.964601838608127
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49271011674401,
+                    11.93222901909105
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.510189942605,
+                    11.90198522433515
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42678742173283,
+                    11.94843709809743
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61321716561035,
+                    11.951560118101021
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41308168149772,
+                    11.928667054713927
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58890618848093,
+                    11.890432969794881
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5650707298741,
+                    11.962702486779147
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43148499003492,
+                    11.928919354345485
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51924766110918,
+                    11.92719069215113
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53032721825362,
+                    11.8935864766159
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47476604013855,
+                    11.895930238357522
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55110437442649,
+                    11.887031929496311
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41583295474129,
+                    11.939048331329744
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59943308226318,
+                    11.872931279262115
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54922014200858,
+                    11.94976217144696
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46692762615994,
+                    11.949930203164481
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39646959840621,
+                    11.914012892334835
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59282037559372,
+                    11.86385004591761
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61046501313068,
+                    11.95140904004435
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5241777817698,
+                    11.907142890829443
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56794973067652,
+                    11.9192065022886
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.62217764148185,
+                    11.89300861347011
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55618671793302,
+                    11.898728767731386
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40842059182548,
+                    11.909444502377541
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59308228174841,
+                    11.935482255901608
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50607189326693,
+                    11.861227538957479
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5173861676425,
+                    11.904959515620497
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55502395047297,
+                    11.901668408266438
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50625033828507,
+                    11.957739491126887
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51450152053557,
+                    11.928461696287968
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54861574889479,
+                    11.937872907356422
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48924317341178,
+                    11.91624182028004
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61687594296704,
+                    11.950752908169807
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43620493816,
+                    11.915599180065394
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5078445507005,
+                    11.899089990729113
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51515907054741,
+                    11.868248004144785
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61052738457876,
+                    11.88004668513974
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51551510892486,
+                    11.910975020138968
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52321080475271,
+                    11.949472751493916
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49382341857903,
+                    11.906917161263397
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53366442887746,
+                    11.95400019686752
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50816956157753,
+                    11.932286286767045
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52387158603233,
+                    11.893710727908914
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59729028057002,
+                    11.870100439867587
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51761608932364,
+                    11.876336103098009
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58134034133208,
+                    11.905216856731103
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41917470919152,
+                    11.919781385071875
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40121160425,
+                    11.9067171486978
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59304298494831,
+                    11.909820667313898
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60474219806156,
+                    11.879587793053142
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58578811497007,
+                    11.934045177331956
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54318582059197,
+                    11.964711612128069
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51885510819795,
+                    11.929717581401011
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46542348687919,
+                    11.897208677290797
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56507786440696,
+                    11.915911097958471
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55599807910502,
+                    11.937942357160876
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48473215327807,
+                    11.911912367661204
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40962150934863,
+                    11.910146806296495
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48418750106721,
+                    11.89489064959575
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58917983934202,
+                    11.873563392540948
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48722290749404,
+                    11.889618589546611
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41168979158985,
+                    11.910018885626377
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53335268584622,
+                    11.859190404504572
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57267288192267,
+                    11.843649305274768
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59135683954942,
+                    11.865592876929199
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61489599303785,
+                    11.891961131373803
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50134934286568,
+                    11.901287027323216
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56033571571034,
+                    11.882172038731762
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5591081516575,
+                    11.955756579590512
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61562907341394,
+                    11.913815249292625
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.41838539414731,
+                    11.9460670265504
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56963910626241,
+                    11.86822428937979
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59341998341431,
+                    11.870177539758483
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5619780684291,
+                    11.955961649179578
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49044934656985,
+                    11.875494357829618
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61613387579133,
+                    11.949090946639771
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61259343413087,
+                    11.88840406883407
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53232260401651,
+                    11.923074871905477
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53474459408889,
+                    11.886729426600024
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47772236985509,
+                    11.9013842689451
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5972438513126,
+                    11.860036643134727
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42526489553971,
+                    11.892162344206598
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48086253092842,
+                    11.913553292529095
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54905786909886,
+                    11.88806955202935
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60668989488293,
+                    11.953999098933895
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39259026290492,
+                    11.91407856385423
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42171111266136,
+                    11.93270285401981
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60681844429764,
+                    11.921390726783294
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49412701680922,
+                    11.916098491385798
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53298261382021,
+                    11.918090611645974
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55442555671205,
+                    11.853757244594943
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50161260120288,
+                    11.927605973826553
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54613276962142,
+                    11.879526133483594
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56190929434935,
+                    11.919318677674775
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5145556461859,
+                    11.87165921388512
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51077602379127,
+                    11.942243777561064
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57253736656867,
+                    11.916114728262293
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61763796262319,
+                    11.94121989498345
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53018597847888,
+                    11.954537247571423
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60590664566058,
+                    11.94486684239624
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61531862097608,
+                    11.930001373966878
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.61106829345364,
+                    11.881434677124904
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45013826749862,
+                    11.912938622528607
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60635940103235,
+                    11.88105769919814
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.46779902035097,
+                    11.94836608021857
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53650536713357,
+                    11.930489680003076
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54671387593893,
+                    11.860123835054184
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48553424774516,
+                    11.940559930451187
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53265460564508,
+                    11.962804233952905
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43219535335386,
+                    11.92678404256618
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51722961836404,
+                    11.924524710333483
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6023082370603,
+                    11.899891330211542
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48882363938492,
+                    11.868868353155287
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4500085509048,
+                    11.939078449642025
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58301672034258,
+                    11.86840226336913
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57706359249697,
+                    11.91812221677505
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4873631280062,
+                    11.878575009807022
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49431465797838,
+                    11.95043994210939
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.50047085134338,
+                    11.880457604867294
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55245891241546,
+                    11.884962943019973
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.54874000279625,
+                    11.921252290167198
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57401002562649,
+                    11.943914665620587
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43242154409124,
+                    11.906015109122892
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55031429612552,
+                    11.869015275817898
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56835013272358,
+                    11.896354256052291
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55153591229782,
+                    11.877942307567919
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47122810158332,
+                    11.944461972448615
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.48721282182738,
+                    11.874536225055213
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55926359911952,
+                    11.930344446386407
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55808840897615,
+                    11.920476331430665
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 260
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.40421151113878,
+                    11.914061778102646
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.53015494636186,
+                    11.93971413900064
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 262
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42661655703225,
+                    11.95080158172173
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43926115906979,
+                    11.919115861639245
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.60436927157308,
+                    11.888574502270766
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 265
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49053132933915,
+                    11.877699612495352
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45488166688273,
+                    11.877659299161978
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 267
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.6128988727536,
+                    11.954096427044236
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57296088211938,
+                    11.908446371095833
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 269
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.56534676641178,
+                    11.95861787195581
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 270
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45754428745299,
+                    11.946018096216735
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 271
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49532333915637,
+                    11.949137603709161
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 272
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39117352646808,
+                    11.917233068240193
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 273
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52863137902072,
+                    11.95140699877877
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 274
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.44892299130997,
+                    11.915231453785045
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.52334215233077,
+                    11.95362769713933
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4685219448044,
+                    11.893156662627398
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.39759340953907,
+                    11.925753765207611
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51861513360772,
+                    11.901179969626028
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 279
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.58320401077995,
+                    11.89040425749498
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 280
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.42123845111088,
+                    11.929821888706778
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 281
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5723726036703,
+                    11.876762794350567
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.49786001835514,
+                    11.878866581655627
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.55454458931123,
+                    11.957708079957392
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 284
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.4853357252185,
+                    11.93740715629488
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 285
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.45375487440285,
+                    11.940465950669225
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 286
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.51025144607878,
+                    11.916001895370716
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 287
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59754674264434,
+                    11.95399733285835
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 288
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5067163663505,
+                    11.86343556944717
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 289
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.57078767955309,
+                    11.947694767124402
+                ]
+            },
+            "properties": {
+                "AC_NO": "074",
+                "AC_NAME": "Viluppuram",
+                "booth_no": 0
+            }
+        }
+    ]
+}

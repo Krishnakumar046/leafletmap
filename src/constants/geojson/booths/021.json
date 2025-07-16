@@ -1,0 +1,3815 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21503741869132,
+                    13.073874422861193
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23050367052713,
+                    13.083033423720769
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25054372617313,
+                    13.081139227021477
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21809806237792,
+                    13.09159829512132
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22637025655624,
+                    13.074443212136595
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24717692211516,
+                    13.076731456639807
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25300884721396,
+                    13.080903122425742
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2160223782145,
+                    13.077402717251735
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20991362482711,
+                    13.096221833394134
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21286574127296,
+                    13.076861030157637
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22077795358527,
+                    13.07102061529694
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21166379356137,
+                    13.078641918029668
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21206906253131,
+                    13.069854595140022
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22058159931315,
+                    13.083365182269514
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23228664772851,
+                    13.073565442306469
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20704195056395,
+                    13.079661772513175
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20932615778025,
+                    13.098488922451692
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20968489129568,
+                    13.08230798250278
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22847357556765,
+                    13.07615141455133
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21425242665751,
+                    13.064515055132423
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.236167143231,
+                    13.079636022963362
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2257664923404,
+                    13.073177648687164
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20577363243385,
+                    13.07352194722915
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22496686047197,
+                    13.078982060304279
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21298195594953,
+                    13.073365038425488
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22077243757545,
+                    13.072218886415785
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21325944079568,
+                    13.081140047658282
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21357859002217,
+                    13.068143326664394
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20900886485246,
+                    13.094141463121217
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21370108387624,
+                    13.088774796534205
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22573696004547,
+                    13.08109883100676
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2217073144095,
+                    13.066032507521848
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21176716033874,
+                    13.06530408200828
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22539220189499,
+                    13.077599277229297
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23061807060309,
+                    13.07577388272106
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21147095954969,
+                    13.091578970984568
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24385801665525,
+                    13.076298144162044
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2456678123995,
+                    13.076519494567785
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24706321373004,
+                    13.081148744468397
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22493924118514,
+                    13.06796639912256
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20997707782995,
+                    13.09147196920385
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22565347112723,
+                    13.084311913878807
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20241009003821,
+                    13.080712615201975
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21723962129077,
+                    13.093970605470323
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20929267599904,
+                    13.081678722751985
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22785616296959,
+                    13.07684010238735
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23443256975143,
+                    13.083025726560587
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22436851154491,
+                    13.077016215494254
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20783510016811,
+                    13.080632095438604
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20976782107468,
+                    13.066766774766585
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21620159139951,
+                    13.067304781693412
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.240260127878,
+                    13.078858498987321
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20905798452048,
+                    13.061990593306902
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21577708232856,
+                    13.07991499828131
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.216376923044,
+                    13.064957211282852
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20914390130487,
+                    13.0693200505563
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21245817618026,
+                    13.060407802169923
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2210535905604,
+                    13.089108293987518
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22052159374569,
+                    13.060919426426564
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2050130977239,
+                    13.075519869920438
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21039633294512,
+                    13.074217028979145
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22492925122424,
+                    13.089088311761131
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21981010383746,
+                    13.065469480358294
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21504830300704,
+                    13.075720727070019
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20966879721873,
+                    13.091300875319947
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22512414008558,
+                    13.080677486372666
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22369781123331,
+                    13.089022050387165
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24359243281206,
+                    13.082356414624194
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21285563550185,
+                    13.087081658636365
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24699847576521,
+                    13.077600225684726
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21486115593936,
+                    13.08763706040426
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21226180797743,
+                    13.080429090807248
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23667192304292,
+                    13.075009400479894
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22003283945922,
+                    13.089093328495224
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21593063933861,
+                    13.067744279893182
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2152442855142,
+                    13.081916354962672
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22406116573255,
+                    13.073310331113099
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21717249673223,
+                    13.062922918640767
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23875365139627,
+                    13.078624118976705
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21237176777653,
+                    13.06257730929111
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20964763931951,
+                    13.074030028175384
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20893453049372,
+                    13.062485889850713
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2107787050872,
+                    13.079127404295509
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22319705939569,
+                    13.073121207290471
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23318116265827,
+                    13.081675682352344
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21263869740467,
+                    13.089863652785075
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2101379485724,
+                    13.098193339306128
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20462700144284,
+                    13.077053057483822
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2191380271109,
+                    13.068351953720642
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21811551306278,
+                    13.092674480470274
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21693374316055,
+                    13.093905448483188
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22022993064951,
+                    13.059732986061439
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20847411973439,
+                    13.084566847356966
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21865382507303,
+                    13.067259023634413
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22242820804506,
+                    13.07995811534103
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21129545835088,
+                    13.07179255203138
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24877316709605,
+                    13.081108464335681
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21616053904711,
+                    13.08135674077799
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24287868951642,
+                    13.078528212839123
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21080690894665,
+                    13.05882770998689
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20900561065496,
+                    13.082730795889855
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21508924388239,
+                    13.09487218009526
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21273451676873,
+                    13.068104325253842
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24157781554672,
+                    13.079004568482208
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23248432248961,
+                    13.077943042123028
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22622698043466,
+                    13.081826513812773
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20796008464436,
+                    13.077258237307797
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2414484381028,
+                    13.081463146370346
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21915500718723,
+                    13.072003020996046
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24558909008725,
+                    13.082906102681472
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20279452725764,
+                    13.074463494380641
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22398500561142,
+                    13.067899010012058
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2130214323182,
+                    13.091660634908491
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21432809202607,
+                    13.062580171540246
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20216348525527,
+                    13.073719325471197
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21115059382286,
+                    13.06927894479771
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21835536230623,
+                    13.08458300222074
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22616950472033,
+                    13.072187517259799
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20940099068036,
+                    13.092731482414765
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21244730609997,
+                    13.078019042557605
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23001884283435,
+                    13.08766424690903
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22195250319845,
+                    13.068845601471224
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20953367857989,
+                    13.087751616438936
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2080995203802,
+                    13.089889203736067
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21559814452695,
+                    13.065084386467392
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21457055351254,
+                    13.07011121312404
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21497272147369,
+                    13.095574818730713
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20816681936464,
+                    13.061545905385623
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23818281309794,
+                    13.083200462902706
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21150070912763,
+                    13.067175983163086
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22538817400637,
+                    13.086540592791806
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21268066075856,
+                    13.090836265099513
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24893936940114,
+                    13.082003845911023
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22746979482383,
+                    13.072422527879041
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25231108703072,
+                    13.083827442574789
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21255946539148,
+                    13.098331615560923
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2281051764074,
+                    13.08468150802229
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22346655189403,
+                    13.079642829979463
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22004358873232,
+                    13.076739300794
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21846205560256,
+                    13.075981055459813
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22167361461204,
+                    13.08170602103279
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23026968367368,
+                    13.074756662718842
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22889837046834,
+                    13.069687436580109
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2081746677032,
+                    13.070229475956937
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2175265441161,
+                    13.077357559880337
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2179052570244,
+                    13.084876267161572
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20896254965605,
+                    13.100436856913756
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21697020381727,
+                    13.069894876134272
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21405181769045,
+                    13.093372575878808
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21254328216824,
+                    13.075217185861039
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24400296142497,
+                    13.083144150860557
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22893056782549,
+                    13.080311597521392
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22198910248608,
+                    13.086065527279017
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24265339041602,
+                    13.079270263909317
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2474450654761,
+                    13.078675117795035
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23593361519222,
+                    13.076939231261624
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21135549175946,
+                    13.086172762906289
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21224012456656,
+                    13.059706321957858
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21360511774083,
+                    13.078069400738672
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25265113095656,
+                    13.077897948283256
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2159059208045,
+                    13.067973293490317
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21018351469937,
+                    13.07013648310076
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23166648841246,
+                    13.080558992755003
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24380539930539,
+                    13.077535310279712
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21802730344771,
+                    13.0900145339156
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22232693235041,
+                    13.067181763960512
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21317794425043,
+                    13.070605926782457
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22689933442089,
+                    13.081043369609453
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22200475754215,
+                    13.072581626574255
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22877531428566,
+                    13.075551440892347
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2469709565075,
+                    13.083443012017828
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22541531563178,
+                    13.079173277566786
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20096045353534,
+                    13.07523634507174
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21518917849937,
+                    13.082085581050453
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.218534467295,
+                    13.06676766209579
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21814394238805,
+                    13.079912326761665
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21003875232985,
+                    13.066343303847606
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22270305827452,
+                    13.084690890890691
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21235385541866,
+                    13.086252599413205
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23930093577111,
+                    13.081713775134205
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21886315957772,
+                    13.082718118764129
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.239420497246,
+                    13.079299759312704
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2081395353619,
+                    13.086503368797409
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24623754085965,
+                    13.076853873215738
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21853219388743,
+                    13.08572896956677
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22246560425428,
+                    13.089798501317734
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20946484472623,
+                    13.079188182291793
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22693223724208,
+                    13.067888360329926
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21151678603061,
+                    13.0917737779569
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24654867751282,
+                    13.075931063896148
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2353147168941,
+                    13.077823799796175
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23075550058178,
+                    13.073496681916943
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24092218365753,
+                    13.075020513800713
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24387417811818,
+                    13.080780786780414
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24143668068035,
+                    13.081113795303764
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22545755128195,
+                    13.089171912823673
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21658140958749,
+                    13.076408774733455
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22455739070764,
+                    13.069075226341063
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22583599856651,
+                    13.074403387479942
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21542224045461,
+                    13.077410452563392
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23562943102542,
+                    13.080323033516144
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23317981977657,
+                    13.075220715692035
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20610947083053,
+                    13.082342278436453
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21697068624557,
+                    13.085730350787944
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2336411923169,
+                    13.076031415431931
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21622415580734,
+                    13.069864656261368
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21266991762559,
+                    13.083958610165691
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.218668526752,
+                    13.077103458766166
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24007701253286,
+                    13.077023669824738
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2113601435998,
+                    13.07030112868281
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2135276105229,
+                    13.086799405104992
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2325124199354,
+                    13.07966569965216
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23002435358187,
+                    13.076379999617824
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22413736544671,
+                    13.068156054837695
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22782428611431,
+                    13.06860235113402
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21748894537097,
+                    13.086909626994974
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22266478563746,
+                    13.0752065520544
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.223155806317,
+                    13.073074510409372
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21782892492989,
+                    13.0919517483417
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24035453149538,
+                    13.084244584976817
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21042682862183,
+                    13.07354916425499
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.24386940716624,
+                    13.081522015189618
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21458209637791,
+                    13.06451657644938
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23178168811607,
+                    13.073733984185873
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20069644330631,
+                    13.074939258233712
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22775326896898,
+                    13.082511949614066
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21092779767308,
+                    13.090713088099722
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22315705891259,
+                    13.082512309961617
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22194045823012,
+                    13.075582086502573
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25291783665693,
+                    13.080415610487416
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.241652669736,
+                    13.08136868641701
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21852094661145,
+                    13.087526611447087
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2138374753918,
+                    13.083404141943973
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20883809597063,
+                    13.088779231487944
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21148962471919,
+                    13.060053167880294
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23143778402478,
+                    13.085936240538011
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21862800763627,
+                    13.090227380399458
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21801130152785,
+                    13.0913552328229
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2143982182706,
+                    13.086346131498566
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20143265511419,
+                    13.075051022584828
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.25380278121031,
+                    13.079682443290428
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20395391740048,
+                    13.082066051168116
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21656912849286,
+                    13.082633050359014
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2163977706495,
+                    13.076788316984562
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2460574658433,
+                    13.0759905019916
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23596289087739,
+                    13.077101225535841
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.23486022464031,
+                    13.078877324092819
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22228329146003,
+                    13.068015394962828
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22098855546666,
+                    13.065784080154538
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21353070626925,
+                    13.066076170264557
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.20741904418306,
+                    13.072393381050148
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22311665380093,
+                    13.084681124169597
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 252
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.22544500606033,
+                    13.082101777285109
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.21503741869132,
+                    13.073874422861193
+                ]
+            },
+            "properties": {
+                "AC_NO": "021",
+                "AC_NAME": "Anna Nagar",
+                "booth_no": 0
+            }
+        }
+    ]
+}
