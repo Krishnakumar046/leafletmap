@@ -51,7 +51,7 @@ const mapViewSlice = createSlice({
         clickedFeature: features,
         acBound: acBoundGeoJson,
         mapType: MapType.BOOTH,
-        Zoom: 10,
+        Zoom: 11,
         center: newCenter,
         breadCrumbDetails: {
           [MapType.STATE]: acBoundGeoJson?.features[0]?.properties?.AC_NAME,
@@ -97,13 +97,12 @@ const mapViewSlice = createSlice({
       const newCenter = center(
         acBoundGeoJson
       ).geometry.coordinates.reverse() as LatLngTuple;
-      console.log(features, "features");
 
       Object.assign(state, {
         clickedFeature: features,
         acBound: acBoundGeoJson,
         mapType: MapType.BOOTH,
-        Zoom: 10,
+        Zoom: 11,
         center: newCenter,
         breadCrumbDetails: {
           ...state.breadCrumbDetails,
