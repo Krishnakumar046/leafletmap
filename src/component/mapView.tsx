@@ -9,69 +9,51 @@ import {
   handleZoneSelect,
 } from "../store/slices/mapViewSlice";
 import type { RootState } from "../store/store";
-import center from "@turf/center";
-import { type LatLngTuple } from "leaflet";
 import { MapToggleButton } from "../muicomponent/ToggleSwitch";
 import { useEffect, useState } from "react";
 import Breadcrumbs from "./Breadcrumbs";
 import { AcLayer } from "../map_components/Ac_Layer";
 import { MapType } from "../constants/enum";
-import { MAP_CENTER } from "../constants/map_constants";
-import SnackBarToast from "../muicomponent/SnackBar";
 import BoothLayer from "../map_components/Booth_Layer";
+
+//MAPUPDATER TO GET THE MAP CENTER
 const MapUpdater = () => {
   const map = useMap();
-  const { center, Zoom, mapType } = useSelector(
-    (state: RootState) => state.mapView
-  );
+  const mapState = useSelector((state: RootState) => state.mapView);
 
   useEffect(() => {
-    if (center && Zoom) {
-      map.setView(center, Zoom);
+    if (mapState?.center && mapState?.Zoom) {
+      map.setView(mapState?.center, mapState?.Zoom);
     }
-  }, [mapType]);
+  }, [mapState]);
 
   return null;
 };
 
 const MapView = () => {
   const dispatch = useDispatch();
-  const { Zoom, acBound, mapType } = useSelector(
-    (state: RootState) => state.mapView
-  );
   const mapState = useSelector((state: RootState) => state.mapView);
   const [mainMapState, setMainMapState] = useState(mapState);
-  const [snackbarOpen, setSnackbarOpen] = useState(false);
-  const [snackbarMessage, setSnackbarMessage] = useState("");
 
   useEffect(() => {
     setMainMapState(mapState);
   }, [mapState]);
 
+  //STATE CLICKED
   const handleStateClick = (feature: any) => {
     const features = JSON.parse(JSON.stringify(feature));
-
     dispatch(handleStateSelect({ features: features }));
   };
 
+  //ZONE CLICKED
   const handleZoneClick = (feature: any) => {
     const features = JSON.parse(JSON.stringify(feature));
     console.log(features, "features");
     dispatch(handleZoneSelect({ features: features }));
   };
-  function getCenterOfGeoJson(geoJson: any) {
-    return center(geoJson).geometry.coordinates.reverse() as LatLngTuple;
-  }
 
-  const mapCenter: LatLngTuple = getCenterOfGeoJson(StateGeoJSON);
-  console.log(mapCenter, "mapCenter");
   return (
     <div className="relative">
-      <SnackBarToast
-        open={snackbarOpen}
-        message={snackbarMessage}
-        onClose={() => setSnackbarOpen(false)}
-      />
       <div
         className="fixed left-5 top-1/2 transform -translate-y-1/2 w-[15%] h-[50%] z-10 bg-white rounded-lg shadow-sm"
         style={{
@@ -80,10 +62,8 @@ const MapView = () => {
           boxShadow: "0 2px 4px rgba(0,0,0,0.1)",
         }}
       >
-        <MapToggleButton
-          setSnackbarMessage={setSnackbarMessage}
-          setSnackbarOpen={setSnackbarOpen}
-        />
+        {/* TOGGLE FOR THE MAP WANTED */}
+        <MapToggleButton />
       </div>
       <div
         style={{
@@ -94,16 +74,20 @@ const MapView = () => {
           alignItems: "center",
         }}
       >
+        {/* MAP CONTAINER WRAP OF GEOJSON */}
         <MapContainer
           style={mapContainerStyle}
           center={mapState.center}
-          zoom={Zoom}
+          zoom={mapState?.Zoom}
           scrollWheelZoom={false}
           dragging={true}
           doubleClickZoom={true}
           zoomControl={false}
         >
+          {/* ZOOM CONTROL FOR MAP*/}
           <ZoomControl position="topright" />
+
+          {/* BREADCRUM OF THE MAP  */}
           <div
             className="flex h-full w-full flex-col items-start "
             style={{ marginLeft: "2.5rem", marginTop: "4.2rem" }}
@@ -115,7 +99,11 @@ const MapView = () => {
                 </div>
               )}
           </div>
+
+          {/* GET MAP CENTER */}
           <MapUpdater />
+
+          {/* STATE GEJSON */}
           {mainMapState?.mapType === MapType.STATE && (
             <GeoJSON
               data={StateGeoJSON}
@@ -142,6 +130,8 @@ const MapView = () => {
               }}
             />
           )}
+
+          {/* ZONE GEOJSON */}
           {mainMapState?.mapType === MapType.ZONE && (
             <GeoJSON
               data={ZonesGeoJSON}
@@ -165,11 +155,15 @@ const MapView = () => {
               }}
             />
           )}
+
+          {/* AC GEOJSON */}
           {mainMapState?.mapType === MapType.AC && (
-            <AcLayer acBound={acBound} mapState={mapState} />
+            <AcLayer acBound={mapState?.acBound} />
           )}
+
+          {/* BOOTH GEOJSON */}
           {mainMapState?.mapType === MapType.BOOTH && (
-            <BoothLayer acBound={acBound} />
+            <BoothLayer acBound={mapState?.acBound} />
           )}
         </MapContainer>
       </div>

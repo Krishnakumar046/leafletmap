@@ -6,29 +6,30 @@ import {
   handleResetMap,
 } from "../store/slices/mapViewSlice";
 import { MapType } from "../constants/enum";
-
-interface BreadcrumbsDetails {
-  mapState?: any;
-  isVertical?: boolean;
-}
+import type { BreadcrumbsDetails } from "../utils/types";
 
 const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
   const dispatch = useDispatch();
+
+  // BREADCRUMB CLICK STORE IN REDUX AND BACK TO THE MAP
   const onBreadcrumbClick = ({ key, mapState }: any) => {
     dispatch(handleBreadCrumClick({ type: key, mapState: mapState }));
   };
 
+  // RIGHTARROW FOR THE BREADCRUMB FOR BEFORE STATE AND ZONE
   const isRootLevel = (key: string) =>
     [MapType.STATE, MapType.ZONE].includes(key as MapType);
 
+  // RENDEREDSEPERATOR IS ALWAYS TRUE FOR RIGHT ARROW
   const renderSeparator = () =>
     isVertical ? (
       <FaCaretRight className="text-xl text-red-600 5xl:text-3xl" />
     ) : (
       <FaCaretDown className="text-xl text-red-600 5xl:text-3xl" />
     );
+
+  // HANDLERESETMAP WHEN THE MAP TYPE OF STATE AND ZONE ONLY
   const handleResetMaps = (mapType: any) => {
-    console.log(mapType, "mapType");
     dispatch(handleResetMap({ type: mapType }));
   };
 
@@ -38,6 +39,7 @@ const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
         isVertical && "flex-row"
       } items-center justify-center space-x-2`}
     >
+      {/* BREADCRUMB OF THE TN IMAGE */}
       <img
         aria-label="state_breadcrumb"
         src={tn_image}
@@ -46,12 +48,12 @@ const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
         alt=""
         onClick={() => handleResetMaps(mapState?.rootMapType)}
       />
+      {/* LIST OF THE BREADCRUMB OF THE VALUE */}
       {mapState.breadCrumbDetails &&
         Object.keys(mapState?.breadCrumbDetails).map(
           (key: string, index, array) => {
             const value = mapState?.breadCrumbDetails![key];
             const isLastItem = index !== array.length - 1;
-            console.log(key, "value");
             return (
               <div
                 className={`flex gap-1 $${
@@ -59,6 +61,7 @@ const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
                 } items-center justify-center`}
                 key={key}
               >
+                {/* LAST ITEM OF BREADCRUMB IS NOT CLICKABLE */}
                 <div
                   onClick={() =>
                     isLastItem ? onBreadcrumbClick({ key, mapState }) : {}
@@ -85,6 +88,7 @@ const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
   );
 };
 
+// RENDEREDBREADCRUMB OF THE VALUE WITH THE BLUE BOX
 const renderBreadCrumbsLabel = (value: string) => {
   return value ? (
     <div

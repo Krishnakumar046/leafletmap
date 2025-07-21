@@ -35,3 +35,8 @@ export interface Feature {
     DIST_NAME?: string;
   };
 }
+
+export interface BreadcrumbsDetails {
+  mapState?: any;
+  isVertical?: boolean;
+}

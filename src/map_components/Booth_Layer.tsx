@@ -9,8 +9,9 @@ import { createFeatureCollection, padZero } from "../utils/utils";
 const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
   const [boothData, setBoothData] = useState<any[]>([]);
   const layerRef: any = useRef<L.GeoJSON | null>(null);
-  const [key, setKey] = useState(0);
+  const [key, setKey] = useState(0); // KEY WHICH RENDERED THE MAP
 
+  // USEEFFECT WHICH LOADS ALL THE BOOTH POINT INSIDE THE BOOTH
   useEffect(() => {
     const loadBoothData = async () => {
       try {
@@ -32,28 +33,27 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
         console.log(acNo, "boothJson acNo");
 
         try {
-          // Ensure acNo is a number before passing to padZero
+          // PADZERO WHICH GIVE PREFIX VALUE TO THE BOOTH FILE EX:001
           const paddedAcNo = padZero(
             typeof acNo === "number" ? acNo : parseInt(acNo, 10)
           );
-          console.log(paddedAcNo, "boothJson paddedAcNo");
+
+          // BOOTHJSON WHICH GIVES THE BOOTH JSON FILE EX:001.JSON
           const boothJson = await import(
             `../constants/geojson/booths/${paddedAcNo}.json`
           );
-          console.log(boothJson, "boothJson");
-          // Filter booth features to only include those with data for the current year
+          // FILTERED THE BOOTHJSON FEATURES
           const filteredBoothFeatures = boothJson?.default?.features;
 
-          // Combine AC boundaries with filtered booth features
+          //COMBINE ACBOUND FEATURE AND THEN THE BOOTHJSON FEATURES
           const updatedFeatures = [
             ...acBound.features,
             ...filteredBoothFeatures,
           ];
-          console.log(updatedFeatures, "updatedFeatures updatedFeatures");
           setBoothData(updatedFeatures);
           setKey((prev) => prev + 1);
 
-          // Force a re-render of the GeoJSON component to update marker colors
+          //FORCE RENDERED OF GEOJSON
         } catch (importError) {
           console.warn(`No booth data file found for AC ${acNo}`);
           setBoothData(acBound.features);
@@ -65,8 +65,11 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
       }
     };
 
+    // LOADBOOTHDATA ON THE INITIAL RENDERED
     loadBoothData();
   }, [acBound]);
+
+  // CUSTOMDIVICON WHICH GIVES THE MARKER ICON
   const customDivIcon = useCallback(
     (color: string, boothNo: string, resultColor: string) => {
       return L.divIcon({
@@ -128,9 +131,9 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
     []
   );
 
+  // POINTMARKER RETURN MARKER ON THE BOOTH NO
   const pointMarker = useCallback(
     (feature: Feature<Point>, latlng: L.LatLng): L.Layer => {
-      console.log("Creating marker for:", feature.properties?.booth_no);
       const boothNo = feature.properties?.booth_no;
 
       return L.marker(latlng, {
@@ -151,7 +154,11 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
       pointToLayer={pointMarker}
       onEachFeature={(feature, layer) => {
         if (feature.properties?.booth_no) {
-          layer.bindPopup(`Booth: ${feature.properties.booth_no}`);
+          // SHOWS THE TOOLTIP OF THE BOOTH
+          layer.bindTooltip(`Booth: ${feature.properties.booth_no}`, {
+            permanent: false,
+            direction: "top",
+          });
         }
       }}
     />

@@ -30,6 +30,7 @@ const mapViewSlice = createSlice({
   name: "mapView",
   initialState,
   reducers: {
+    //HANDLE STATE SELECT
     handleStateSelect: (state, action: PayloadAction<{ features: any }>) => {
       const { features } = action.payload;
       const filteredFeatures = ConstituenciesGeoJSON.features.filter(
@@ -58,6 +59,7 @@ const mapViewSlice = createSlice({
         },
       });
     },
+    // HANDLE ZONE SELECT
     handleZoneSelect: (state, action: PayloadAction<{ features: any }>) => {
       const { features } = action.payload;
       const filteredFeatures = ConstituenciesGeoJSON.features.filter(
@@ -83,6 +85,7 @@ const mapViewSlice = createSlice({
         },
       });
     },
+    // HANDLE AC SELECT
     handleAcClicked: (state, action: PayloadAction<{ features: any }>) => {
       const { features } = action.payload;
       const acBoundFeatures = ConstituenciesGeoJSON.features.filter(
@@ -110,14 +113,13 @@ const mapViewSlice = createSlice({
         },
       });
     },
+    // HANDLE INPUT CHANGE MAP GETS THE CHANGE
     handleInputAcMap: (state, action: PayloadAction<{ selected: any }>) => {
       const { selected } = action.payload;
 
       const filteredFeatures = ConstituenciesGeoJSON.features.filter(
         (f: any) => f.properties?.REGION_NO === selected.label
       );
-
-      // Validate we have features
       if (filteredFeatures.length === 0) {
         console.error("No features found for region:", selected.label);
         return state;
@@ -131,7 +133,7 @@ const mapViewSlice = createSlice({
       try {
         const centerPoint = center(acBoundGeoJson);
         const [lng, lat] = centerPoint.geometry.coordinates;
-        const newCenter: LatLngTuple = [lat, lng]; // Proper [lat, lng] format
+        const newCenter: LatLngTuple = [lat, lng];
 
         console.log("Setting new center to:", newCenter);
 
@@ -151,6 +153,7 @@ const mapViewSlice = createSlice({
         return state;
       }
     },
+    //RESET OF THE MAP ON THE BOTH ZONE AND THE STATE
     handleResetMap: (state, action: PayloadAction<{ type: string }>) => {
       const { type } = action.payload;
       if (type === MapType.STATE) {
@@ -179,6 +182,7 @@ const mapViewSlice = createSlice({
         });
       }
     },
+    //BREADCRUMB OF THE CLICKED
     handleBreadCrumClick: (
       state,
       action: PayloadAction<{ type: string; mapState: any }>
@@ -211,6 +215,7 @@ const mapViewSlice = createSlice({
         });
       }
     },
+    //IN THE AC THE INPUT CHANGE
     handleInputValue: (
       state,
       action: PayloadAction<{ selected: any; maps: any }>
@@ -221,6 +226,7 @@ const mapViewSlice = createSlice({
         [maps.id.toLowerCase()]: selected.value,
       };
     },
+    // HANDLE TOGGLE SELECT
     setToggleSelect: (state, action: PayloadAction<{ toggle: string }>) => {
       const { toggle } = action.payload;
 

@@ -12,7 +12,7 @@ import {
 import { useDispatch, useSelector } from "react-redux";
 import { MapType } from "../constants/enum";
 import { MAP_TYPES, ZoneOptions } from "../constants/map_constants";
-import { Box } from "@mui/material";
+import { Alert, Box } from "@mui/material";
 import Select from "react-select";
 import { toast } from "sonner";
 import SnackBarToast from "./SnackBar";
@@ -51,10 +51,7 @@ const ToggleSwitch = styled(Switch)(({ theme }) => ({
   },
 }));
 
-export const MapToggleButton = ({
-  setSnackbarOpen,
-  setSnackbarMessage,
-}: any) => {
+export const MapToggleButton = ({}: any) => {
   const [mapTypes, setMapTypes] = useState([...MAP_TYPES]);
   const [selectedValue, setSelectedValue] = useState<any>(null);
   const dispatch = useDispatch();
@@ -70,26 +67,25 @@ export const MapToggleButton = ({
     }
   }, [mapState?.mapToggleSwitch, selectedValue]);
 
+  //TOGGLE TO SHOW THE MAP
   const handleToggleChange = (map: (typeof MAP_TYPES)[0]) => {
-    // Check if trying to toggle AC without selected value
+
+    //IF AC IS TOGGLE WITHOUT SELECT 
     if (map.id === "AC" && !selectedValue) {
-      setSnackbarMessage("Please select a value from dropdown first");
-      setSnackbarOpen(true);
-      setTimeout(() => setSnackbarOpen(false), 2000);
+      console.log("ac rendered");
+      alert("SELECT THE VALUE IN DROPDOWN");
       return;
     }
 
-    // Get current active toggles count
+    // GET THE CURRENT TOGGLE LENGTH
     const activeCount = mapTypes.filter((m) => m.toggleSwitch).length;
 
-    // Prevent deselecting the last active toggle
+    // PREVENT DESELECT THE LAST TOGGLE OPTIONS
     if (map.toggleSwitch && activeCount <= 1) {
-      setSnackbarMessage("At least one map type must be selected");
-      setSnackbarOpen(true);
       return;
     }
 
-    // Update toggle states
+    //UPDATE THE TOGGLE STATE
     setMapTypes((prevMapTypes) =>
       prevMapTypes.map((m) => ({
         ...m,
@@ -97,16 +93,21 @@ export const MapToggleButton = ({
       }))
     );
 
-    // Dispatch Redux action
+    //DISPATCH THE TOGGLE STATE TO THE REDUX
     dispatch(setToggleSelect({ toggle: map.id.toLowerCase() }));
   };
 
   const handleInputChange = (selected: any, maps: any) => {
     setSelectedValue(selected);
+
+    //DISPATCH THE INPUT VALUE TO THE REDUX 
     dispatch(handleInputValue({ selected, maps }));
 
-    // If AC is currently active, update the map immediately
-    if (maps.id === "AC" && mapTypes.find((m) => m.id === "AC")?.toggleSwitch) {
+    // IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP
+    if (
+      maps.id === MapType.AC.toUpperCase() &&
+      mapTypes.find((m) => m.id === "AC")?.toggleSwitch
+    ) {
       dispatch(handleInputAcMap({ selected }));
     }
   };
