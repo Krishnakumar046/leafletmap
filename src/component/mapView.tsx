@@ -15,6 +15,8 @@ import Breadcrumbs from "./Breadcrumbs";
 import { AcLayer } from "../map_components/Ac_Layer";
 import { MapType } from "../constants/enum";
 import BoothLayer from "../map_components/Booth_Layer";
+import SnackBarToast from "../muicomponent/SnackBar";
+import type { SnackbarCloseReason } from "@mui/material";
 
 //MAPUPDATER TO GET THE MAP CENTER
 const MapUpdater = () => {
@@ -34,6 +36,8 @@ const MapView = () => {
   const dispatch = useDispatch();
   const mapState = useSelector((state: RootState) => state.mapView);
   const [mainMapState, setMainMapState] = useState(mapState);
+  const [openToast, setOpenToast] = useState(false);
+  const [toastMessage, setToastMessage] = useState("");
 
   useEffect(() => {
     setMainMapState(mapState);
@@ -52,8 +56,25 @@ const MapView = () => {
     dispatch(handleZoneSelect({ features: features }));
   };
 
+  //SET THE TOAST BAR MESSAGE
+  const handleToastSnackBar = (val: any, type: any) => {
+    if (typeof type === "string") {
+      setToastMessage(type);
+      setOpenToast(val);
+    }
+  };
+  //CLOSE THE TOAST BAR MESSAGE
+  const handleClose = () => {
+    setOpenToast(false);
+  };
+
   return (
     <div className="relative">
+      <SnackBarToast
+        open={openToast}
+        onClose={handleClose}
+        message={toastMessage}
+      />
       <div
         className="fixed left-5 top-1/2 transform -translate-y-1/2 w-[15%] h-[50%] z-10 bg-white rounded-lg shadow-sm"
         style={{
@@ -63,7 +84,7 @@ const MapView = () => {
         }}
       >
         {/* TOGGLE FOR THE MAP WANTED */}
-        <MapToggleButton />
+        <MapToggleButton handleToastSnackBar={handleToastSnackBar} />
       </div>
       <div
         style={{

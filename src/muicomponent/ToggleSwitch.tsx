@@ -12,10 +12,8 @@ import {
 import { useDispatch, useSelector } from "react-redux";
 import { MapType } from "../constants/enum";
 import { MAP_TYPES, ZoneOptions } from "../constants/map_constants";
-import { Alert, Box } from "@mui/material";
+import { Box } from "@mui/material";
 import Select from "react-select";
-import { toast } from "sonner";
-import SnackBarToast from "./SnackBar";
 import type { RootState } from "../store/store";
 
 const ToggleSwitch = styled(Switch)(({ theme }) => ({
@@ -51,7 +49,7 @@ const ToggleSwitch = styled(Switch)(({ theme }) => ({
   },
 }));
 
-export const MapToggleButton = ({}: any) => {
+export const MapToggleButton = ({ handleToastSnackBar }: any) => {
   const [mapTypes, setMapTypes] = useState([...MAP_TYPES]);
   const [selectedValue, setSelectedValue] = useState<any>(null);
   const dispatch = useDispatch();
@@ -69,11 +67,9 @@ export const MapToggleButton = ({}: any) => {
 
   //TOGGLE TO SHOW THE MAP
   const handleToggleChange = (map: (typeof MAP_TYPES)[0]) => {
-
-    //IF AC IS TOGGLE WITHOUT SELECT 
+    //IF AC IS TOGGLE WITHOUT SELECT
     if (map.id === "AC" && !selectedValue) {
-      console.log("ac rendered");
-      alert("SELECT THE VALUE IN DROPDOWN");
+      handleToastSnackBar(true, "SELECT THE VALUE IN DROPDOWN");
       return;
     }
 
@@ -100,7 +96,7 @@ export const MapToggleButton = ({}: any) => {
   const handleInputChange = (selected: any, maps: any) => {
     setSelectedValue(selected);
 
-    //DISPATCH THE INPUT VALUE TO THE REDUX 
+    //DISPATCH THE INPUT VALUE TO THE REDUX
     dispatch(handleInputValue({ selected, maps }));
 
     // IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP
@@ -136,7 +132,7 @@ export const MapToggleButton = ({}: any) => {
                   <ToggleSwitch
                     checked={maps.toggleSwitch}
                     onChange={() => handleToggleChange(maps)}
-                    disabled={maps.id === "AC" && !selectedValue}
+                    // disabled={maps.id === "AC" && !selectedValue}
                   />
                 }
                 label=""
