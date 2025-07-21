@@ -30,6 +30,7 @@ const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
 
   // HANDLERESETMAP WHEN THE MAP TYPE OF STATE AND ZONE ONLY
   const handleResetMaps = (mapType: any) => {
+    console.log(mapType, "mapType");
     dispatch(handleResetMap({ type: mapType }));
   };
 

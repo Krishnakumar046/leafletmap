@@ -2,7 +2,13 @@ import type { LatLngTuple } from "leaflet";
 
 export const MAP_CENTER:LatLngTuple= [10.5937, 78.3265]
 
-export const BOOTH_CENTER: LatLngTuple = [23.5937, 78.9629]; 
+export const MAP_ZOOM :number = 7;
+
+export const AC_ZOOM :number = 8;
+
+export const BOOTH_ZOOM :number = 11;
+
+export const BOOTH_CENTER: LatLngTuple = [11.656100248227915, 78.98405587362973]; 
 
 export const MAP_TYPES = [
   { id: "STATE", toggleSwitch: true ,input:false},

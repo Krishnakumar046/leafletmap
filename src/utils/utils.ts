@@ -1,4 +1,6 @@
-import type { Feature } from "./types";
+import type { LatLngTuple } from "leaflet";
+import type { Feature, MyFeatureCollection } from "./types";
+import center from "@turf/center";
 
 export const padZero = (num: number | undefined | null): string => {
   if (num === undefined || num === null) return "000";
@@ -28,4 +30,12 @@ export const ZoneValue = (ZoneId:number)=>{
               return "Chennai";
               break;
   }
+}
+export const centerMapValue = (centerFeature:any) => {
+
+      const newCenter = center(
+        centerFeature
+      ).geometry.coordinates.reverse() as LatLngTuple;
+
+      return newCenter;
 }

@@ -5,7 +5,7 @@ import type { LatLngTuple } from "leaflet";
 import center from "@turf/center";
 import type { MapViewState, MyFeatureCollection } from "../../utils/types";
 import { MapType } from "../../constants/enum";
-import { ZoneValue } from "../../utils/utils";
+import { centerMapValue, ZoneValue } from "../../utils/utils";
 
 const initialState: MapViewState = {
   mapToggleSwitch: MapType.STATE,
@@ -36,26 +36,21 @@ const mapViewSlice = createSlice({
       const filteredFeatures = ConstituenciesGeoJSON.features.filter(
         (f: any) => f.properties.AC_NO === features.properties.AC_NO
       );
-
-      const acBoundGeoJson: MyFeatureCollection = {
+      const stateToBoothGeoJson: MyFeatureCollection = {
         type: "FeatureCollection",
         features: filteredFeatures,
       };
-
-      const newCenter = center(
-        features
-      ).geometry.coordinates.reverse() as LatLngTuple;
-
-      console.log(features, "features");
-
+      const newCenter = centerMapValue(stateToBoothGeoJson);
+      console.log(newCenter, "newCenter");
       Object.assign(state, {
         clickedFeature: features,
-        acBound: acBoundGeoJson,
+        acBound: stateToBoothGeoJson,
         mapType: MapType.BOOTH,
         Zoom: 11,
         center: newCenter,
         breadCrumbDetails: {
-          [MapType.STATE]: acBoundGeoJson?.features[0]?.properties?.AC_NAME,
+          [MapType.STATE]:
+            stateToBoothGeoJson?.features[0]?.properties?.AC_NAME,
         },
       });
     },
@@ -66,17 +61,15 @@ const mapViewSlice = createSlice({
         (f: any) => f.properties?.REGION_NO === features?.properties?.REGION_NO
       );
 
-      const acBoundGeoJson: MyFeatureCollection = {
+      const zoneToAcGeoJson: MyFeatureCollection = {
         type: "FeatureCollection",
         features: filteredFeatures,
       };
-      const newCenter = center(
-        acBoundGeoJson
-      ).geometry.coordinates.reverse() as LatLngTuple;
+      const newCenter = centerMapValue(zoneToAcGeoJson);
 
       Object.assign(state, {
         clickedFeature: features,
-        acBound: acBoundGeoJson,
+        acBound: zoneToAcGeoJson,
         mapType: MapType.AC,
         Zoom: 8,
         center: newCenter,
@@ -88,22 +81,20 @@ const mapViewSlice = createSlice({
     // HANDLE AC SELECT
     handleAcClicked: (state, action: PayloadAction<{ features: any }>) => {
       const { features } = action.payload;
-      const acBoundFeatures = ConstituenciesGeoJSON.features.filter(
+      const filteredFeatures = ConstituenciesGeoJSON.features.filter(
         (f: any) => f.properties.AC_NO === features.properties.AC_NO
       );
 
-      const acBoundGeoJson: MyFeatureCollection = {
+      const acToBoothGeoJson: MyFeatureCollection = {
         type: "FeatureCollection",
-        features: acBoundFeatures,
+        features: filteredFeatures,
       };
 
-      const newCenter = center(
-        acBoundGeoJson
-      ).geometry.coordinates.reverse() as LatLngTuple;
+      const newCenter = centerMapValue(acToBoothGeoJson);
 
       Object.assign(state, {
         clickedFeature: features,
-        acBound: acBoundGeoJson,
+        acBound: acToBoothGeoJson,
         mapType: MapType.BOOTH,
         Zoom: 11,
         center: newCenter,
@@ -125,22 +116,17 @@ const mapViewSlice = createSlice({
         return state;
       }
 
-      const acBoundGeoJson: MyFeatureCollection = {
+      const InputAcToBoothGeoJson: MyFeatureCollection = {
         type: "FeatureCollection",
         features: filteredFeatures,
       };
 
       try {
-        const centerPoint = center(acBoundGeoJson);
-        const [lng, lat] = centerPoint.geometry.coordinates;
-        const newCenter: LatLngTuple = [lat, lng];
-
-        console.log("Setting new center to:", newCenter);
-
+        const newCenter = centerMapValue(InputAcToBoothGeoJson);
         return {
           ...state,
           clickedFeature: null,
-          acBound: acBoundGeoJson,
+          acBound: InputAcToBoothGeoJson,
           mapType: MapType.AC,
           Zoom: 8,
           center: newCenter,
@@ -172,7 +158,7 @@ const mapViewSlice = createSlice({
         Object.assign(state, {
           mapType: MapType.ZONE,
           clickedFeature: null,
-          acBound: null,
+          // acBound: null,
           Zoom: 7,
           center: MAP_CENTER,
 
@@ -195,16 +181,14 @@ const mapViewSlice = createSlice({
             f.properties?.REGION_NO ===
             mapState?.clickedFeature?.properties?.REGION_NO
         );
-        const acBoundGeoJson: MyFeatureCollection = {
+        const boothToAcGeoJson: MyFeatureCollection = {
           type: "FeatureCollection",
           features: filteredFeatures,
         };
-        const newCenter = center(
-          acBoundGeoJson
-        ).geometry.coordinates.reverse() as LatLngTuple;
+        const newCenter = centerMapValue(boothToAcGeoJson);
         Object.assign(state, {
           mapType: MapType.AC,
-          acBound: acBoundGeoJson,
+          acBound: boothToAcGeoJson,
           Zoom: 8,
           center: newCenter,
           breadCrumbDetails: Object.fromEntries(

@@ -56,11 +56,13 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
   const mapState = useSelector((state: RootState) => state.mapView);
 
   useEffect(() => {
+    //IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP
     if (
       mapState.mapType === MapType.AC &&
       mapState.rootMapType === MapType.AC &&
       selectedValue
     ) {
+      console.log("useEffect runs");
       dispatch(handleInputAcMap({ selected: selectedValue }));
     }
   }, [mapState?.mapToggleSwitch, selectedValue]);
@@ -98,14 +100,6 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
 
     //DISPATCH THE INPUT VALUE TO THE REDUX
     dispatch(handleInputValue({ selected, maps }));
-
-    // IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP
-    if (
-      maps.id === MapType.AC.toUpperCase() &&
-      mapTypes.find((m) => m.id === "AC")?.toggleSwitch
-    ) {
-      dispatch(handleInputAcMap({ selected }));
-    }
   };
 
   return (

@@ -16,7 +16,7 @@ import { AcLayer } from "../map_components/Ac_Layer";
 import { MapType } from "../constants/enum";
 import BoothLayer from "../map_components/Booth_Layer";
 import SnackBarToast from "../muicomponent/SnackBar";
-import type { SnackbarCloseReason } from "@mui/material";
+import { MapResetControl } from "../muicomponent/MapReset";
 
 //MAPUPDATER TO GET THE MAP CENTER
 const MapUpdater = () => {
@@ -52,7 +52,6 @@ const MapView = () => {
   //ZONE CLICKED
   const handleZoneClick = (feature: any) => {
     const features = JSON.parse(JSON.stringify(feature));
-    console.log(features, "features");
     dispatch(handleZoneSelect({ features: features }));
   };
 
@@ -101,10 +100,11 @@ const MapView = () => {
           center={mapState.center}
           zoom={mapState?.Zoom}
           scrollWheelZoom={false}
-          dragging={true}
+          dragging={false}
           doubleClickZoom={true}
           zoomControl={false}
         >
+          <MapResetControl />
           {/* ZOOM CONTROL FOR MAP*/}
           <ZoomControl position="topright" />
 
