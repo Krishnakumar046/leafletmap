@@ -9,9 +9,9 @@ const SnackBarToast = ({
   message: string;
   onClose?: () => void;
 }) => {
-  console.log(
-    `open${open}, message ${message}, onclose ${onclose}, "snackbartosat`
-  );
+  // OPEN MAKES THE SNACKBAR OF THE TOAST MESSAGE TO OPEN
+  // MESSAGE IS OF MAKING THE GIVEN MESSAGE TO OPEN
+  //
   return (
     <div>
       <Box sx={{ width: 500 }}>

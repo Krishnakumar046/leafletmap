@@ -1,8 +1,6 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
 import { MAP_CENTER } from "../../constants/map_constants";
 import { ConstituenciesGeoJSON } from "../../constants/geojson/constituencies_geojson";
-import type { LatLngTuple } from "leaflet";
-import center from "@turf/center";
 import type { MapViewState, MyFeatureCollection } from "../../utils/types";
 import { MapType } from "../../constants/enum";
 import { centerMapValue, ZoneValue } from "../../utils/utils";
@@ -105,11 +103,14 @@ const mapViewSlice = createSlice({
       });
     },
     // HANDLE INPUT CHANGE MAP GETS THE CHANGE
-    handleInputAcMap: (state, action: PayloadAction<{ selected: any }>) => {
-      const { selected } = action.payload;
+    handleInputAcMap: (
+      state,
+      action: PayloadAction<{ selected: any; map: string }>
+    ) => {
+      const { selected, map } = action.payload;
 
       const filteredFeatures = ConstituenciesGeoJSON.features.filter(
-        (f: any) => f.properties?.REGION_NO === selected.label
+        (f: any) => f.properties?.REGION_NO === selected[map].value
       );
       if (filteredFeatures.length === 0) {
         console.error("No features found for region:", selected.label);
@@ -131,13 +132,41 @@ const mapViewSlice = createSlice({
           Zoom: 8,
           center: newCenter,
           breadCrumbDetails: {
-            [MapType.ZONE]: ZoneValue(selected.label),
+            [MapType.ZONE]: ZoneValue(selected[map].value),
           },
         };
       } catch (error) {
         console.error("Error calculating center:", error);
         return state;
       }
+    },
+    handleInputStateMap: (state, action: PayloadAction<{ selected: any }>) => {
+      const { selected } = action.payload;
+      const filteredFeatures = ConstituenciesGeoJSON.features.filter(
+        (f: any) =>
+          f.properties.AC_NAME ===
+          selected.state.label.replace(/[0-9]/g, "").trim()
+      );
+      console.log(filteredFeatures, "filteredFeatures");
+
+      const stateToBoothGeoJson: MyFeatureCollection = {
+        type: "FeatureCollection",
+        features: filteredFeatures,
+      };
+      console.log(stateToBoothGeoJson, "entered into the stateToBoothGeoJson");
+      const newCenter = centerMapValue(stateToBoothGeoJson);
+      console.log(newCenter, "newCenter");
+      Object.assign(state, {
+        clickedFeature: null,
+        acBound: stateToBoothGeoJson,
+        mapType: MapType.BOOTH,
+        Zoom: 11,
+        center: newCenter,
+        breadCrumbDetails: {
+          [MapType.STATE]:
+            stateToBoothGeoJson?.features[0]?.properties?.AC_NAME,
+        },
+      });
     },
     //RESET OF THE MAP ON THE BOTH ZONE AND THE STATE
     handleResetMap: (state, action: PayloadAction<{ type: string }>) => {
@@ -207,7 +236,7 @@ const mapViewSlice = createSlice({
       const { selected, maps } = action.payload;
       state.mapInputData = {
         ...state.mapInputData,
-        [maps.id.toLowerCase()]: selected.value,
+        [maps.id.toLowerCase()]: selected.label,
       };
     },
     // HANDLE TOGGLE SELECT
@@ -237,5 +266,6 @@ export const {
   handleBreadCrumClick,
   handleInputValue,
   handleInputAcMap,
+  handleInputStateMap,
 } = mapViewSlice.actions;
 export default mapViewSlice.reducer;

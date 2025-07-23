@@ -1,13 +1,7 @@
 import "leaflet/dist/leaflet.css";
-import { GeoJSON, MapContainer, useMap, ZoomControl } from "react-leaflet";
-import { StateGeoJSON } from "../constants/geojson/state_geojson";
-import { ZonesGeoJSON } from "../constants/geojson/zone_geojson";
-import { geoJsonStyle, mapContainerStyle } from "../utils/map_styles";
-import { useDispatch, useSelector } from "react-redux";
-import {
-  handleStateSelect,
-  handleZoneSelect,
-} from "../store/slices/mapViewSlice";
+import { MapContainer, useMap, ZoomControl } from "react-leaflet";
+import { mapContainerStyle } from "../utils/map_styles";
+import { useSelector } from "react-redux";
 import type { RootState } from "../store/store";
 import { MapToggleButton } from "../muicomponent/ToggleSwitch";
 import { useEffect, useState } from "react";
@@ -17,6 +11,8 @@ import { MapType } from "../constants/enum";
 import BoothLayer from "../map_components/Booth_Layer";
 import SnackBarToast from "../muicomponent/SnackBar";
 import { MapResetControl } from "../muicomponent/MapReset";
+import StateLayer from "../map_components/State_Layer";
+import ZoneLayer from "../map_components/Zone_Layer";
 
 //MAPUPDATER TO GET THE MAP CENTER
 const MapUpdater = () => {
@@ -33,7 +29,6 @@ const MapUpdater = () => {
 };
 
 const MapView = () => {
-  const dispatch = useDispatch();
   const mapState = useSelector((state: RootState) => state.mapView);
   const [mainMapState, setMainMapState] = useState(mapState);
   const [openToast, setOpenToast] = useState(false);
@@ -42,18 +37,6 @@ const MapView = () => {
   useEffect(() => {
     setMainMapState(mapState);
   }, [mapState]);
-
-  //STATE CLICKED
-  const handleStateClick = (feature: any) => {
-    const features = JSON.parse(JSON.stringify(feature));
-    dispatch(handleStateSelect({ features: features }));
-  };
-
-  //ZONE CLICKED
-  const handleZoneClick = (feature: any) => {
-    const features = JSON.parse(JSON.stringify(feature));
-    dispatch(handleZoneSelect({ features: features }));
-  };
 
   //SET THE TOAST BAR MESSAGE
   const handleToastSnackBar = (val: any, type: any) => {
@@ -75,7 +58,7 @@ const MapView = () => {
         message={toastMessage}
       />
       <div
-        className="fixed left-5 top-1/2 transform -translate-y-1/2 w-[15%] h-[50%] z-10 bg-white rounded-lg shadow-sm"
+        className="fixed left-5 top-[60%] transform -translate-y-1/2 w-[100% - 15%] h-calc(100% - 20%) z-10 bg-white rounded-lg shadow-sm"
         style={{
           padding: "1rem",
           borderRadius: "10px",
@@ -125,57 +108,10 @@ const MapView = () => {
           <MapUpdater />
 
           {/* STATE GEJSON */}
-          {mainMapState?.mapType === MapType.STATE && (
-            <GeoJSON
-              data={StateGeoJSON}
-              style={geoJsonStyle}
-              onEachFeature={(feature, layer) => {
-                layer.bindTooltip(`${feature?.properties?.AC_NAME}`, {
-                  permanent: false,
-                  direction: "top",
-                });
-                layer.on({
-                  click: (e: L.LeafletMouseEvent) => {
-                    handleStateClick(feature);
-                    (e.target as L.Path).setStyle({
-                      fillColor: "#ff7800",
-                      weight: 2,
-                      color: "#666",
-                      fillOpacity: 0.7,
-                    });
-                  },
-                  mouseout: (e: L.LeafletMouseEvent) => {
-                    (e.target as L.Path).setStyle(geoJsonStyle);
-                  },
-                });
-              }}
-            />
-          )}
+          {mainMapState?.mapType === MapType.STATE && <StateLayer />}
 
           {/* ZONE GEOJSON */}
-          {mainMapState?.mapType === MapType.ZONE && (
-            <GeoJSON
-              data={ZonesGeoJSON}
-              style={geoJsonStyle}
-              onEachFeature={(feature, layer) => {
-                layer.bindTooltip(`${feature?.properties?.DISTRICT}`, {
-                  permanent: false,
-                  direction: "top",
-                });
-                layer.on({
-                  click: (e: L.LeafletMouseEvent) => {
-                    handleZoneClick(feature);
-                    (e.target as L.Path).setStyle({
-                      fillColor: "#ff7800",
-                      weight: 2,
-                      color: "#666",
-                      fillOpacity: 0.7,
-                    });
-                  },
-                });
-              }}
-            />
-          )}
+          {mainMapState?.mapType === MapType.ZONE && <ZoneLayer />}
 
           {/* AC GEOJSON */}
           {mainMapState?.mapType === MapType.AC && (

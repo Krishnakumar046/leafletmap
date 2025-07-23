@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 import { useEffect, useState } from "react";
 import {
   handleInputAcMap,
+  handleInputStateMap,
   handleInputValue,
   setToggleSelect,
 } from "../store/slices/mapViewSlice";
@@ -15,6 +16,7 @@ import { MAP_TYPES, ZoneOptions } from "../constants/map_constants";
 import { Box } from "@mui/material";
 import Select from "react-select";
 import type { RootState } from "../store/store";
+import DropDownOptionValue from "./dropDownOptions";
 
 const ToggleSwitch = styled(Switch)(({ theme }) => ({
   padding: 8,
@@ -51,26 +53,49 @@ const ToggleSwitch = styled(Switch)(({ theme }) => ({
 
 export const MapToggleButton = ({ handleToastSnackBar }: any) => {
   const [mapTypes, setMapTypes] = useState([...MAP_TYPES]);
-  const [selectedValue, setSelectedValue] = useState<any>(null);
+  const [selectedValue, setSelectedValue] = useState<any>({
+    [MapType.STATE]: "",
+    [MapType.ZONE]: "",
+    [MapType.AC]: "",
+    [MapType.BOOTH]: "",
+  });
   const dispatch = useDispatch();
   const mapState = useSelector((state: RootState) => state.mapView);
+
+  console.log(selectedValue, "selectedValue");
 
   useEffect(() => {
     //IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP
     if (
       mapState.mapType === MapType.AC &&
       mapState.rootMapType === MapType.AC &&
-      selectedValue
+      selectedValue[MapType.AC]
     ) {
-      console.log("useEffect runs");
-      dispatch(handleInputAcMap({ selected: selectedValue }));
+      dispatch(handleInputAcMap({ selected: selectedValue, map: MapType.AC }));
+    } else if (
+      (mapState.mapType === MapType.STATE ||
+        mapState.mapType === MapType.BOOTH) &&
+      mapState.rootMapType === MapType.STATE &&
+      selectedValue[MapType.STATE] !== ""
+    ) {
+      dispatch(handleInputStateMap({ selected: selectedValue }));
+    } else if (
+      (mapState.mapType === MapType.ZONE || mapState.mapType === MapType.AC) &&
+      mapState.rootMapType === MapType.ZONE &&
+      selectedValue[MapType.ZONE] !== ""
+    ) {
+      console.log("entered into the zone loop");
+
+      dispatch(
+        handleInputAcMap({ selected: selectedValue, map: MapType.ZONE })
+      );
     }
   }, [mapState?.mapToggleSwitch, selectedValue]);
 
   //TOGGLE TO SHOW THE MAP
   const handleToggleChange = (map: (typeof MAP_TYPES)[0]) => {
     //IF AC IS TOGGLE WITHOUT SELECT
-    if (map.id === "AC" && !selectedValue) {
+    if (map.id === "AC" && !selectedValue[MapType.AC]) {
       handleToastSnackBar(true, "SELECT THE VALUE IN DROPDOWN");
       return;
     }
@@ -88,20 +113,13 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
       prevMapTypes.map((m) => ({
         ...m,
         toggleSwitch: m.id === map.id ? !m.toggleSwitch : false,
+        input: (m.id === map.id && !m.toggleSwitch) || m.id === "AC",
       }))
     );
 
     //DISPATCH THE TOGGLE STATE TO THE REDUX
     dispatch(setToggleSelect({ toggle: map.id.toLowerCase() }));
   };
-
-  const handleInputChange = (selected: any, maps: any) => {
-    setSelectedValue(selected);
-
-    //DISPATCH THE INPUT VALUE TO THE REDUX
-    dispatch(handleInputValue({ selected, maps }));
-  };
-
   return (
     <>
       <Box sx={{ display: "flex", flexDirection: "column", gap: 1 }}>
@@ -135,26 +153,11 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
             </Stack>
 
             {maps.input && (
-              <Box sx={{ pl: 2, pr: 2, pb: 1, width: "100%" }}>
-                <Select
-                  options={ZoneOptions}
-                  getOptionLabel={(option) => ` ${option.value}`}
-                  getOptionValue={(option) => option.label.toString()}
-                  placeholder={`Select ${maps.id}`}
-                  styles={{
-                    control: (base) => ({
-                      ...base,
-                      minHeight: "36px",
-                      backgroundColor:
-                        maps.id === "AC" && maps.toggleSwitch
-                          ? "rgba(0, 0, 0, 0.05)"
-                          : "inherit",
-                    }),
-                  }}
-                  onChange={(selected) => handleInputChange(selected, maps)}
-                  value={maps.id === "AC" ? selectedValue : null}
-                />
-              </Box>
+              <DropDownOptionValue
+                setSelectedValue={setSelectedValue}
+                selectedValue={selectedValue}
+                maps={maps}
+              />
             )}
           </Box>
         ))}

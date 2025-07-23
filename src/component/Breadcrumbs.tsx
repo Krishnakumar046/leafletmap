@@ -36,7 +36,7 @@ const Breadcrumbs = ({ mapState, isVertical = true }: BreadcrumbsDetails) => {
 
   return (
     <div
-      className={`flex  p-2 ${
+      className={`flex  p-2  ${
         isVertical && "flex-row"
       } items-center justify-center space-x-2`}
     >

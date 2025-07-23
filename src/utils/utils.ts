@@ -13,6 +13,7 @@ export const createFeatureCollection = (features: Feature[]): any => ({
 });
 
 export const ZoneValue = (ZoneId:number)=>{
+  console.log(ZoneId,"zoneId")
   switch(ZoneId){
     case 0:
       return "North";
