@@ -3,7 +3,6 @@ import Select from "react-select";
 import {
   ac_name_key,
   ac_no_key,
-  MAP_TYPES,
   region_name_key,
   region_no_key,
 } from "../constants/map_constants";
@@ -21,14 +20,25 @@ const DropDownOptionValue = ({
   selectedValue,
 }: any) => {
   const dispatch = useDispatch();
-  const [options, setOptions] = useState<any[]>([]); // Initialize as empty array
+  const [options, setOptions] = useState<any>({
+    [MapType.STATE]: [],
+    [MapType.ZONE]: [],
+    [MapType.AC]: [],
+    [MapType.DISTRICT]: [],
+    [MapType.BOOTH]: [],
+  }); // Initialize as empty array
   const mapState = useSelector((state: RootState) => state.mapView);
 
-  const sortByValue = (options: any[]) => {
-    return options.sort((a, b) => a.value - b.value);
+  const sortByValue = (options: any) => {
+    return options.sort((a: any, b: any) => a.value - b.value);
   };
 
-  function getOptionData(featureData: any, _key: string, _value: string) {
+  function getOptionData(
+    featureData: any,
+    _key: string,
+    _value: string,
+    mapType: any
+  ) {
     const newOptions = featureData.map((items: any) => {
       const property = items.properties;
       return {
@@ -36,34 +46,25 @@ const DropDownOptionValue = ({
         value: property[_key],
       };
     });
-    setOptions(sortByValue(newOptions));
+    setOptions((prevOptions: any) => ({
+      ...prevOptions,
+      [mapType]: sortByValue(newOptions),
+    }));
   }
 
   useEffect(() => {
-    if (
-      (mapState.mapType === MapType.STATE ||
-        mapState.mapType === MapType.BOOTH) &&
-      mapState.rootMapType === MapType.STATE
-    ) {
-      getOptionData(StateGeoJSON.features, ac_no_key, ac_name_key);
-    } else if (
-      (mapState.mapType === MapType.ZONE || mapState.mapType === MapType.AC) &&
-      mapState.rootMapType === MapType.ZONE
-    ) {
-      getOptionData(ZonesGeoJSON.features, region_no_key, region_name_key);
-    } else if (mapState.mapType === MapType.BOOTH) {
-      // Set AC-specific options if needed
-      setOptions(
-        MAP_TYPES.map((item) => ({
-          label: item.id,
-          value: item.id,
-        }))
-      );
-    }
+    getOptionData(StateGeoJSON.features, ac_no_key, ac_name_key, [
+      MapType.STATE,
+    ]);
+    getOptionData(ZonesGeoJSON.features, region_no_key, region_name_key, [
+      MapType.ZONE,
+    ]);
+    getOptionData(ZonesGeoJSON.features, region_no_key, region_name_key, [
+      MapType.AC,
+    ]);
   }, [mapState.mapType]);
 
   const handleInputChange = (selected: any) => {
-    console.log(selected, "selected");
     setSelectedValue((selectedValue: any) => ({
       ...selectedValue,
       [maps.id.toLowerCase()]: selected,
@@ -74,9 +75,9 @@ const DropDownOptionValue = ({
   return (
     <Box sx={{ pl: 2, pr: 2, pb: 1, width: "100%" }}>
       <Select
-        options={options}
+        options={options[maps.id.toLowerCase()]}
         getOptionLabel={(option) => option.label}
-        getOptionValue={(option) => option.value}
+        // getOptionValue={(option) => option.value}
         placeholder={`Select ${maps.id}`}
         menuPlacement="auto"
         styles={{

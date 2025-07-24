@@ -85,7 +85,7 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
           position: relative;
           transition: all 0.2s ease-in-out;
         " class="custom-booth-marker-content">
-          <span style="position: relative; display: flex; height: 16px; width: 16px;">
+          <span style="position: relative; display: flex; height: 14px; width: 12px;">
             <span style="
               position: absolute;
               display: inline-flex;
@@ -100,8 +100,8 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
               position: relative;
               display: inline-flex;
               border-radius: 50%;
-              height: 16px;
-              width: 16px;
+              height: 12px;
+              width: 12px;
               outline: 2px solid white;
               background-color: ${color};
             ">

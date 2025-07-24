@@ -17,6 +17,7 @@ import { Box } from "@mui/material";
 import Select from "react-select";
 import type { RootState } from "../store/store";
 import DropDownOptionValue from "./dropDownOptions";
+import { getSelectedOptions } from "../utils/utils";
 
 const ToggleSwitch = styled(Switch)(({ theme }) => ({
   padding: 8,
@@ -62,14 +63,12 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
   const dispatch = useDispatch();
   const mapState = useSelector((state: RootState) => state.mapView);
 
-  console.log(selectedValue, "selectedValue");
-
   useEffect(() => {
     //IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP
     if (
       mapState.mapType === MapType.AC &&
       mapState.rootMapType === MapType.AC &&
-      selectedValue[MapType.AC]
+      selectedValue[MapType.AC] !== ""
     ) {
       dispatch(handleInputAcMap({ selected: selectedValue, map: MapType.AC }));
     } else if (
@@ -84,8 +83,6 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
       mapState.rootMapType === MapType.ZONE &&
       selectedValue[MapType.ZONE] !== ""
     ) {
-      console.log("entered into the zone loop");
-
       dispatch(
         handleInputAcMap({ selected: selectedValue, map: MapType.ZONE })
       );
@@ -94,6 +91,7 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
 
   //TOGGLE TO SHOW THE MAP
   const handleToggleChange = (map: (typeof MAP_TYPES)[0]) => {
+    console.log(map, "map map");
     //IF AC IS TOGGLE WITHOUT SELECT
     if (map.id === "AC" && !selectedValue[MapType.AC]) {
       handleToastSnackBar(true, "SELECT THE VALUE IN DROPDOWN");
@@ -116,6 +114,10 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
         input: (m.id === map.id && !m.toggleSwitch) || m.id === "AC",
       }))
     );
+
+    //MAKE ALL THE OTHER OPTIONS TO BE EMPTY
+    const makeSelectionValue = getSelectedOptions({ selectedValue, map });
+    setSelectedValue(makeSelectionValue);
 
     //DISPATCH THE TOGGLE STATE TO THE REDUX
     dispatch(setToggleSelect({ toggle: map.id.toLowerCase() }));
