@@ -1,6 +1,6 @@
 import { GeoJSON } from "react-leaflet";
 import { StateGeoJSON } from "../constants/geojson/state_geojson";
-import { geoJsonStyle } from "../utils/map_styles";
+import { geoJsonStyle, highlightStyle } from "../utils/map_styles";
 import { useDispatch } from "react-redux";
 import { handleStateSelect } from "../store/slices/mapViewSlice";
 
@@ -9,6 +9,7 @@ const StateLayer = () => {
   //STATE CLICKED
   const handleStateClick = (feature: any) => {
     const features = JSON.parse(JSON.stringify(feature));
+    console.log(features, "features");
     dispatch(handleStateSelect({ features: features }));
   };
   return (
@@ -30,6 +31,10 @@ const StateLayer = () => {
                 color: "#666",
                 fillOpacity: 0.7,
               });
+            },
+            mouseover: (e: any) => {
+              const layer = e.target;
+              layer.setStyle(highlightStyle);
             },
             mouseout: (e: L.LeafletMouseEvent) => {
               (e.target as L.Path).setStyle(geoJsonStyle);

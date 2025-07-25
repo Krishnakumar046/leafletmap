@@ -74,7 +74,7 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
     (color: string, boothNo: string, resultColor: string) => {
       return L.divIcon({
         html: `
-        <div title="Booth ${boothNo}" style="
+        <div title="Booth ${boothNo}" class="hover:translate-x-[4px] hover:translate-y-[-10px] hover:rotate-[20deg]" style="
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -89,8 +89,8 @@ const BoothLayer = ({ acBound }: { acBound: GeoJSON.FeatureCollection }) => {
             <span style="
               position: absolute;
               display: inline-flex;
-              height: 100%;
-              width: 100%;
+              height: 80%;
+              width: 80%;
               border-radius: 50%;
               background-color: ${resultColor};
               opacity: 0.75;

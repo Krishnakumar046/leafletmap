@@ -45,7 +45,7 @@ export const centerMapValue = (centerFeature:any) => {
 export const getSelectedOptions = ({selectedValue ,map}:any)=>{
   const newValue = {...selectedValue}
       if (map.id.toLowerCase() === MapType.STATE) {
-        newValue[MapType.ZONE] = null;
+        newValue[MapType.ZONE] = "";
         newValue[MapType.AC] = "";
         newValue[MapType.BOOTH] = "";
       } else if (map.id.toLowerCase() === MapType.ZONE) {

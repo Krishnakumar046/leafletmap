@@ -108,6 +108,7 @@ const mapViewSlice = createSlice({
       action: PayloadAction<{ selected: any; map: string }>
     ) => {
       const { selected, map } = action.payload;
+      console.log(selected, map, "clg of the input ac map");
 
       const filteredFeatures = ConstituenciesGeoJSON.features.filter(
         (f: any) => f.properties?.REGION_NO === selected[map].value

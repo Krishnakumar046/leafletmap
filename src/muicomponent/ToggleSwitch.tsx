@@ -7,14 +7,12 @@ import { useEffect, useState } from "react";
 import {
   handleInputAcMap,
   handleInputStateMap,
-  handleInputValue,
   setToggleSelect,
 } from "../store/slices/mapViewSlice";
 import { useDispatch, useSelector } from "react-redux";
 import { MapType } from "../constants/enum";
-import { MAP_TYPES, ZoneOptions } from "../constants/map_constants";
+import { MAP_TYPES } from "../constants/map_constants";
 import { Box } from "@mui/material";
-import Select from "react-select";
 import type { RootState } from "../store/store";
 import DropDownOptionValue from "./dropDownOptions";
 import { getSelectedOptions } from "../utils/utils";
@@ -62,6 +60,8 @@ export const MapToggleButton = ({ handleToastSnackBar }: any) => {
   });
   const dispatch = useDispatch();
   const mapState = useSelector((state: RootState) => state.mapView);
+
+  console.log(selectedValue, "selectedValue %%%%%%%%%%");
 
   useEffect(() => {
     //IF AC IS CURRENTLY ACTIVE CHANGE OF THE INPUT VALUE CHANGE THE MAP

@@ -71,13 +71,17 @@ const DropDownOptionValue = ({
     }));
     dispatch(handleInputValue({ selected, maps }));
   };
+  const selectValue =
+    selectedValue[maps.id.toLowerCase()] === ""
+      ? null
+      : selectedValue[maps.id.toLowerCase()];
 
   return (
     <Box sx={{ pl: 2, pr: 2, pb: 1, width: "100%" }}>
       <Select
         options={options[maps.id.toLowerCase()]}
         getOptionLabel={(option) => option.label}
-        // getOptionValue={(option) => option.value}
+        getOptionValue={(option) => option.value}
         placeholder={`Select ${maps.id}`}
         menuPlacement="auto"
         styles={{
@@ -91,7 +95,7 @@ const DropDownOptionValue = ({
           }),
         }}
         onChange={handleInputChange}
-        value={selectedValue[maps.id]}
+        value={selectValue}
         isDisabled={maps.id === "AC" && !selectedValue}
       />
     </Box>

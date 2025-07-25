@@ -15,5 +15,32 @@ export const mapContainerStyle = {
     backgroundColor: "rgb(250, 250, 250)",
 }
 
+// Outside your component
+export const defaultStyle = {
+  fillColor: '#3388ff',
+  weight: 1,
+  opacity: 1,
+  color: 'white',
+  // fillOpacity: 0.7
+};
 
+export const greyedOutStyle = {
+  fillColor: '#cccccc',  // Light grey color
+  weight: 1,
+  opacity: 1,
+  color: 'white',
+  fillOpacity: 0.5
+};
 
+export const highlightStyle = {
+  fillColor: '#FF7A30',  // Orange highlight
+  weight: 2,
+  opacity: 0,
+  color: '#666',
+};
+ export const inactiveStyle = {
+    fillColor: "blue",
+  weight: 1,
+  opacity: 1,
+  color: "white",
+  };

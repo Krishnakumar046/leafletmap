@@ -13,6 +13,7 @@ import SnackBarToast from "../muicomponent/SnackBar";
 import { MapResetControl } from "../muicomponent/MapReset";
 import StateLayer from "../map_components/State_Layer";
 import ZoneLayer from "../map_components/Zone_Layer";
+import DistrictLayer from "../map_components/District_layer";
 
 //MAPUPDATER TO GET THE MAP CENTER
 const MapUpdater = () => {
@@ -97,7 +98,8 @@ const MapView = () => {
             style={{ marginLeft: "2.5rem", marginTop: "4.2rem" }}
           >
             {mainMapState?.mapType !== MapType.STATE &&
-              mainMapState?.mapType !== MapType.ZONE && (
+              mainMapState?.mapType !== MapType.ZONE &&
+              mainMapState?.mapType !== MapType.DISTRICT && (
                 <div className="my-4">
                   <Breadcrumbs mapState={mapState} />
                 </div>
@@ -117,6 +119,7 @@ const MapView = () => {
           {mainMapState?.mapType === MapType.AC && (
             <AcLayer acBound={mapState?.acBound} />
           )}
+          {mainMapState?.mapType === MapType.DISTRICT && <DistrictLayer />}
 
           {/* BOOTH GEOJSON */}
           {mainMapState?.mapType === MapType.BOOTH && (
