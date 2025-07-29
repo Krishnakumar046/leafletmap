@@ -33,9 +33,9 @@ export const greyedOutStyle = {
 };
 
 export const highlightStyle = {
-  fillColor: '#FF7A30',  // Orange highlight
+  fillColor: '#FF5C00',  // Orange highlight
   weight: 2,
-  opacity: 0,
+  opacity: 10,
   color: '#666',
 };
  export const inactiveStyle = {

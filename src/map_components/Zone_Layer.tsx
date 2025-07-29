@@ -13,8 +13,7 @@ import { useState } from "react";
 
 const ZoneLayer = () => {
   const dispatch = useDispatch();
-  const [layers, setLayers] = useState<L.Path[]>([]);
-
+  const [hoveredFeatures, setHoveredFeatures] = useState<any>(null);
   //ZONE CLICKED
   const handleZoneClick = (feature: any) => {
     const features = JSON.parse(JSON.stringify(feature));
@@ -27,8 +26,6 @@ const ZoneLayer = () => {
         data={ZonesGeoJSON}
         style={geoJsonStyle}
         onEachFeature={(feature, layer) => {
-          const path = layer as L.Path;
-          setLayers((prev) => [...prev, path]);
           layer.bindTooltip(`${feature?.properties?.DISTRICT}`, {
             permanent: false,
             direction: "top",
@@ -43,19 +40,13 @@ const ZoneLayer = () => {
                 fillOpacity: 0.7,
               });
             },
+            mouseover: (e) => {
+              const layer = e.target;
+              layer.setStyle(highlightStyle);
+            },
             mouseout: (e: L.LeafletMouseEvent) => {
-              (e.target as L.Path).setStyle(geoJsonStyle);
-            },
-          });
-          path.on({
-            mouseover: () => {
-              layers.forEach((l) => {
-                if (l !== path) l.setStyle(greyedOutStyle);
-              });
-              path.setStyle(highlightStyle);
-            },
-            mouseout: () => {
-              layers.forEach((l) => l.setStyle(defaultStyle));
+              const layer = e.target;
+              layer.setStyle(geoJsonStyle);
             },
           });
         }}
